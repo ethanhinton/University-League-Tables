@@ -1,25 +1,8 @@
 import pandas as pd
 import streamlit as st
-from functions import convert_to_sscore, offers_subjects, compare
+from functions import convert_to_sscore, offers_subjects, compare, rank
 from ast import literal_eval
 import altair as alt
-
-# FUNCTIONS
-
-def rank(df, weights):
-    s_score = apply_weights(convert_to_sscore(df), weights)
-    df['Score'] = s_score.sum(axis=1)
-    df.sort_values(by='Score', ascending=False, inplace=True)
-    df['Rank'] = [x for x in range(1, len(s_score)+1)]
-    return df
-
-def apply_weights(df, weights):
-    for ind, col in enumerate(df.columns):
-        df[col] = df[col] * (weights[ind] / sum(weights))
-    return df
-
-
-# MAIN CODE
 
 
 st.set_page_config(layout="wide")
