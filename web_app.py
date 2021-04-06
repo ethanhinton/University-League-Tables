@@ -1,8 +1,9 @@
 import pandas as pd
 import streamlit as st
-from functions import convert_to_sscore, offers_subjects, compare
+from functions import convert_to_sscore, offers_subjects, compare, rank
 from ast import literal_eval
 import altair as alt
+
 
 st.set_page_config(layout="wide")
 st.title('A University League Table App')
@@ -29,25 +30,17 @@ specific_subjects = st.sidebar.multiselect('Subject Filter', all_subs)
 if specific_subjects:
     df = df.loc[df['Subjects'].apply(offers_subjects, subjects=specific_subjects)]
 
-s_score = convert_to_sscore(df)
 weights = [1 for x in range(len(df.columns))]
 
 # Get weights from sliders
 weights_expander = st.beta_expander('Change Weights')
 with weights_expander:
     weights_columns = st.beta_columns(int(len(df.columns) / 2))
-    for ind, col in enumerate(s_score.columns):
+    for ind, col in enumerate(df.columns):
             weights[ind] = weights_columns[int(ind/2)].slider(f'{col} Weighting', max_value=10, step=1, value=1, key=str(ind))
 
-# Apply weights to metrics
-for ind, col in enumerate(s_score.columns):
-    s_score[col] = s_score[col] * (weights[ind] / sum(weights))
-
-# Make Rank column
-df['Score'] = s_score.sum(axis=1)
-df.sort_values(by='Score', ascending=False, inplace=True)
-df['Rank'] = [x for x in range(1, len(s_score)+1)]
-
+# Rank the universities
+df = rank(df, weights)
 
 # Set columns to show on table
 columns = ['Rank',
@@ -98,3 +91,6 @@ for col in comparison.columns[1:]:
         )
         chart_columns[1].altair_chart(c, use_container_width=True)
     n += 1
+
+
+

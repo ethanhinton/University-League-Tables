@@ -108,3 +108,15 @@ def offers_subjects(x, subjects):
         return False
     else:
         return True
+
+def rank(df, weights):
+    s_score = apply_weights(convert_to_sscore(df), weights)
+    df['Score'] = s_score.sum(axis=1)
+    df.sort_values(by='Score', ascending=False, inplace=True)
+    df['Rank'] = [x for x in range(1, len(s_score)+1)]
+    return df
+
+def apply_weights(df, weights):
+    for ind, col in enumerate(df.columns):
+        df[col] = df[col] * (weights[ind] / sum(weights))
+    return df
