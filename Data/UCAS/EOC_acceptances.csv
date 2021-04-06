@@ -1,0 +1,4288 @@
+"------------------------------------------------------------------"
+"UCAS Analysis & Insights - 2019 cycle applicant figures"
+"------------------------------------------------------------------"
+"Published on 30 January 2020"
+"------------------------------------------------------------------"
+"File name: EOC_data_resource_2019_03_001_02"
+"Cycles: 2006 - 2019"
+"Cycle reference point: End of cycle"
+"Analysis classes: Year, Provider         "
+"------------------------------------------------------------------"
+"Technical notes and definitions available on ucas.com."
+"Note: All figures are rounded to the nearest 5."
+"Data lines are comma delimited."
+"Data follows -     4272 lines in total"
+"------------------------------------------------------------------"
+Year,Provider,Accepted applicants through the main scheme,
+2006,A20 University of Aberdeen,2170
+2006,A30 Abertay University,840
+2006,A40 Aberystwyth University,1870
+2006,"A45 College of Agriculture, Food and Rural Enterprise",85
+2006,A50 American InterContinental University - London,10
+2006,A60 Anglia Ruskin University,1855
+2006,A70 Askham Bryan College,30
+2006,"A80 Aston University, Birmingham",1830
+2006,B06 Bangor University,1830
+2006,B11 Barking and Dagenham College,25
+2006,B15 Basingstoke College of Technology,10
+2006,B16 University of Bath,2480
+2006,B20 Bath Spa University,1485
+2006,B26 Bell College,350
+2006,B32 University of Birmingham,4850
+2006,B35 University College Birmingham,690
+2006,B37 Bishop Burton College,140
+2006,B38 Bishop Grosseteste University,370
+2006,B40 Blackburn College,205
+2006,B41 Blackpool and the Fylde College,335
+2006,B44 University of Bolton,585
+2006,B50 Bournemouth University,3095
+2006,B53 The Arts Institute at Bournemouth,630
+2006,B56 University of Bradford,1850
+2006,B60 Bradford College,385
+2006,B70 University Centre Somerset - Bridgwater & Taunton College,30
+2006,B72 University of Brighton,3680
+2006,B74 Brighton and Sussex Medical School,125
+2006,B77 City of Bristol College,170
+2006,B78 University of Bristol,3590
+2006,B79 Bristol Filton College,30
+2006,"B80 Bristol, University of the West of England",4740
+2006,B81 British College of Osteopathic Medicine,50
+2006,B82 University of London Institute in Paris (University of London),40
+2006,B84 Brunel University London,2690
+2006,B87 University College of Osteopathy,80
+2006,B88 Brockenhurst College,5
+2006,"B89 Broxtowe College, Nottingham",5
+2006,B90 University of Buckingham,40
+2006,B94 Buckinghamshire New University,1125
+2006,C05 University of Cambridge,3315
+2006,C10 Canterbury Christ Church University,1725
+2006,C13 Capel Manor College,5
+2006,C15 Cardiff University,4580
+2006,C20 Cardiff Metropolitan University,1910
+2006,C22 Coleg Sir Gar,105
+2006,C25 Birmingham City University (formerly University of Central England in Birmingham),2525
+2006,C30 University of Central Lancashire,3740
+2006,"C35 Royal Central School of Speech and Drama, University of London",180
+2006,C55 University of Chester,2180
+2006,C56 Chesterfield College,50
+2006,C57 Chichester College,45
+2006,C58 University of Chichester,930
+2006,"C60 City, University of London",1760
+2006,"C62 City College, Birmingham",5
+2006,C65 City and Islington College,15
+2006,C66 The Manchester College (Formerly City College Manchester),185
+2006,C69 City of Sunderland College,35
+2006,C71 The Northern School of Art (formerly Cleveland College of Art and Design),155
+2006,C72 Cliff College,20
+2006,C75 University Centre Colchester at Colchester Institute,215
+2006,C78 Cornwall College,210
+2006,"C80 Courtauld Institute of Art, University of London",60
+2006,C85 Coventry University,2885
+2006,C88 Craven College,5
+2006,C92 University Centre Croydon,50
+2006,C95 Cumbria Institute of the Arts,305
+2006,D13 Dartington College of Arts (now known as University College Falmouth inc Dartington College of Arts),160
+2006,D22 Dearne Valley College,25
+2006,D26 De Montfort University,3570
+2006,D39 University of Derby,1875
+2006,D45 Kirklees College (Formerly Dewsbury College),50
+2006,D52 Doncaster College and University Centre,200
+2006,D55 Duchy College,85
+2006,D58 Dudley College,10
+2006,D65 University of Dundee,1795
+2006,D86 Durham University,3420
+2006,"E10 Ealing, Hammersmith and West London College",5
+2006,E14 University of East Anglia UEA,2255
+2006,E28 University of East London,1870
+2006,E32 East Surrey College,20
+2006,E42 Edge Hill University,1375
+2006,E56 University of Edinburgh,4035
+2006,E58 Edinburgh College of Art,315
+2006,E70 University of Essex,1610
+2006,"E77 European Business School, London",55
+2006,E80 European School of Osteopathy,50
+2006,E81 Exeter College,50
+2006,E84 University of Exeter,3090
+2006,F33 Falmouth University,680
+2006,F66 University Centre Farnborough,115
+2006,G14 University of South Wales (formerly University of Glamorgan),2345
+2006,G20 Glamorgan Centre for Art and Design Technology,65
+2006,G28 University of Glasgow,3865
+2006,G42 Glasgow Caledonian University,2685
+2006,G43 Glasgow School of Art,325
+2006,G45 Gloucestershire College,10
+2006,G50 University of Gloucestershire,1690
+2006,"G56 Goldsmiths, University of London",1125
+2006,G64 Great Yarmouth College,30
+2006,G70 University of Greenwich,2215
+2006,G74 GSM London (formerly Greenwich School of Management),5
+2006,G80 University Centre Grimsby,90
+2006,G90 Guildford College,120
+2006,H06 Halton College,15
+2006,H12 Harper Adams University,395
+2006,H14 Havering College of Further and Higher Education,15
+2006,H18 Hereford College of Arts,120
+2006,H24 Heriot-Watt University,1555
+2006,H36 University of Hertfordshire,3805
+2006,H37 Hertford Regional College,30
+2006,H39 Highbury College,20
+2006,H48 Heythrop College (University of London),115
+2006,H49 University of the Highlands and Islands (UHI),190
+2006,H50 Holborn College,20
+2006,H54 Hopwood Hall College,25
+2006,H60 University of Huddersfield,2895
+2006,H72 University of Hull,2720
+2006,H73 Hull College,275
+2006,H75 Hull York Medical School,140
+2006,I50 Imperial College London,2145
+2006,K12 Keele University,1495
+2006,K24 University of Kent,3180
+2006,K36 Kent Institute of Art and Design,675
+2006,"K60 King's College London, University of London",2960
+2006,K84 Kingston University,4745
+2006,"L07 The University of Wales, Lampeter",205
+2006,L14 Lancaster University,2550
+2006,L21 Leeds City College,10
+2006,L23 University of Leeds,6030
+2006,L24 Leeds Trinity University,640
+2006,L27 Leeds Beckett University,5290
+2006,L28 Leeds Arts University,375
+2006,L30 Leeds College of Music,65
+2006,L34 University of Leicester,2035
+2006,L36 Leicester College,40
+2006,L39 University of Lincoln,2935
+2006,L41 University of Liverpool,3720
+2006,L43 City of Liverpool College University Centre,55
+2006,L46 Liverpool Hope University,1365
+2006,L48 Liverpool Institute for Performing Arts,190
+2006,L51 Liverpool John Moores University,4285
+2006,L53 Grwp Llandrillo Menai,25
+2006,L68 London Metropolitan University,2380
+2006,L70 London School of Commerce,5
+2006,"L72 London School of Economics and Political Science, University of London",1295
+2006,L75 London South Bank University,1815
+2006,L77 Loughborough College,160
+2006,L79 Loughborough University,3135
+2006,L82 Lowestoft College,5
+2006,L93 University of Luton,1495
+2006,M10 UCEN Manchester (The Manchester College),30
+2006,M20 University of Manchester,6640
+2006,M40 Manchester Metropolitan University,6710
+2006,M50 UCP Marjon - University College Plymouth St Mark & St John (formerly Marjon),670
+2006,M60 Matthew Boulton College of Further and Higher Education,5
+2006,M62 Medway School of Pharmacy,65
+2006,M65 Coleg Menai,5
+2006,M80 Middlesex University,2335
+2006,M95 Mountview Academy of Theatre Arts,95
+2006,M99 University Centre Myerscough,210
+2006,"N07 Napier University, Edinburgh",2065
+2006,N13 NPTC Group,15
+2006,N21 Newcastle University,4065
+2006,N23 Newcastle College University Centre,690
+2006,N28 New College Durham,165
+2006,N30 Nottingham College,155
+2006,"N36 Newman University, Birmingham",525
+2006,"N37 University of South Wales (formerly University of Wales, Newport)",920
+2006,N38 University of Northampton,1615
+2006,N39 Norwich University of the Arts,365
+2006,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),95
+2006,N49 NESCOT,15
+2006,N56 Glyndwr University (Formerly The North East Wales Institute of Higher Education),340
+2006,N58 North East Worcestershire College,90
+2006,N64 DN Colleges Group,30
+2006,"N77 Northumbria University, Newcastle",3900
+2006,N79 North Warwickshire and South Leicestershire College,45
+2006,N82 City College Norwich,135
+2006,N84 University of Nottingham,5270
+2006,N91 Nottingham Trent University,4040
+2006,O25 Activate Learning,10
+2006,O33 University of Oxford,3205
+2006,O66 Oxford Brookes University,2895
+2006,P20 University of Paisley,1425
+2006,P35 Pembrokeshire College,25
+2006,P37 Peninsula College of Medicine & Dentistry,200
+2006,P40 The People's College Nottingham,55
+2006,P55 Peterborough Regional College,55
+2006,P60 University of Plymouth,3590
+2006,P65 Plymouth College of Art,165
+2006,P80 University of Portsmouth,3780
+2006,"Q25 Queen Margaret University, Edinburgh",760
+2006,Q50 Queen Mary University of London,2475
+2006,Q75 Queen's University Belfast,3285
+2006,R06 Ravensbourne University London,400
+2006,R12 University of Reading,2700
+2006,R18 Regent's University London,5
+2006,"R20 Richmond, The American International University in London",25
+2006,R36 Robert Gordon University,1535
+2006,R48 University of Roehampton,1860
+2006,R51 Rose Bruford College,235
+2006,R52 RNN Group,20
+2006,R54 Royal Agricultural University,175
+2006,R55 Royal Academy of Dance,40
+2006,"R72 Royal Holloway, University of London",1810
+2006,"R84 Royal Veterinary College, University of London",315
+2006,R86 Royal Welsh College of Music and Drama,45
+2006,S01 SRUC Scotland's Rural College,235
+2006,S03 University of Salford,3295
+2006,S05 SAE Institute,50
+2006,S07 Wiltshire College Salisbury (formerly Salisbury College),20
+2006,S09 SOAS University of London,765
+2006,S12 The School of Pharmacy (University of London),160
+2006,S18 University of Sheffield,4245
+2006,S21 Sheffield Hallam University,4755
+2006,S22 Sheffield College,120
+2006,S23 Shrewsbury College,5
+2006,"S24 St Martin's College, Lancaster; Ambleside; Carlisle; London (accredited college of Lancaster Univ)",1050
+2006,S26 Solihull College & University Centre,45
+2006,S27 University of Southampton,3700
+2006,S28 Somerset College,145
+2006,S29 South Birmingham College,10
+2006,S30 Solent University (Southampton),2310
+2006,S32 University Centre South Devon,10
+2006,S34 University Centre Sparsholt,135
+2006,S36 University of St Andrews,1310
+2006,S42 Havant and South Downs College,10
+2006,S43 University Centre South Essex,225
+2006,"S46 South Nottingham College (Central College, Nottingham)",25
+2006,"S49 St George's, University of London",490
+2006,S51 University Centre St Helens,115
+2006,"S64 St Mary's University, Twickenham",885
+2006,S68 Stamford College,25
+2006,S72 Staffordshire University,2185
+2006,S73 Staffordshire University Regional Federation,135
+2006,S74 Stratford upon Avon College,10
+2006,S75 University of Stirling,1345
+2006,S76 Trafford College Group,135
+2006,S78 University of Strathclyde,3130
+2006,S79 Stranmillis University College,265
+2006,S81 Suffolk College,350
+2006,S84 University of Sunderland,1755
+2006,S85 University of Surrey,1730
+2006,"S88 The Surrey Institute of Art and Design, University College",885
+2006,S90 University of Sussex,2360
+2006,S91 Sutton Coldfield College,15
+2006,S93 Swansea University,2690
+2006,S94 Gower College Swansea (formerly Swansea College),5
+2006,S96 University of Wales Trinity Saint David (UWTSD Swansea),855
+2006,S98 Swindon College,55
+2006,"T20 Teesside University, Middlesbrough",2070
+2006,T40 University of West London (formerly Thames Valley University),1190
+2006,T80 University of Wales Trinity Saint David,320
+2006,T90 Tyne Coast College,20
+2006,U20 Ulster University,4045
+2006,U65 University of the Arts London,3255
+2006,U80 UCL (University College London),3235
+2006,W08 Wakefield College,45
+2006,W12 Walsall College,10
+2006,W20 University of Warwick,3270
+2006,W25 Warwickshire College Group,140
+2006,W29 Welsh College of Horticulture,5
+2006,W35 University Centre West Anglia,65
+2006,W36 West Cheshire College,5
+2006,W40 West Herts College,15
+2006,"W50 University of Westminster, London",3290
+2006,W52 Westminster Kingsway College,25
+2006,"W60 West Suffolk College, A Partner College of ARU",90
+2006,W65 West Thames College,60
+2006,W69 Wimbledon School of Art,185
+2006,W73 Wirral Metropolitan College,40
+2006,W74 Wiltshire College and University Centre,35
+2006,W75 University of Wolverhampton,2795
+2006,W76 University of Winchester,1165
+2006,W80 University of Worcester,985
+2006,W81 Worcester College of Technology,30
+2006,W85 Writtle University College,225
+2006,Y50 University of York,2345
+2006,Y70 York College,55
+2006,Y75 York St John University,1110
+2006,Y80 Yorkshire Coast College of Further and Higher Education,15
+2007,A20 University of Aberdeen,2305
+2007,A30 Abertay University,815
+2007,A40 Aberystwyth University,2020
+2007,A42 ALRA (The Academy of Live and Recorded Arts),30
+2007,"A45 College of Agriculture, Food and Rural Enterprise",85
+2007,A50 American InterContinental University - London,20
+2007,A60 Anglia Ruskin University,2190
+2007,A70 Askham Bryan College,35
+2007,"A80 Aston University, Birmingham",1885
+2007,B06 Bangor University,1910
+2007,B11 Barking and Dagenham College,30
+2007,B12 Barony College,5
+2007,B15 Basingstoke College of Technology,25
+2007,B16 University of Bath,2540
+2007,B20 Bath Spa University,1630
+2007,B22 University of Bedfordshire,1450
+2007,B23 Bedford College Group,35
+2007,B26 Bell College,385
+2007,B32 University of Birmingham,4895
+2007,B35 University College Birmingham,700
+2007,B37 Bishop Burton College,130
+2007,B38 Bishop Grosseteste University,370
+2007,B41 Blackpool and the Fylde College,350
+2007,B44 University of Bolton,625
+2007,B50 Bournemouth University,3230
+2007,B53 The Arts Institute at Bournemouth,735
+2007,B56 University of Bradford,1850
+2007,B60 Bradford College,360
+2007,B70 University Centre Somerset - Bridgwater & Taunton College,40
+2007,B72 University of Brighton,3915
+2007,B74 Brighton and Sussex Medical School,145
+2007,B77 City of Bristol College,150
+2007,B78 University of Bristol,3780
+2007,B79 Bristol Filton College,10
+2007,"B80 Bristol, University of the West of England",5335
+2007,B81 British College of Osteopathic Medicine,45
+2007,B84 Brunel University London,2815
+2007,B87 University College of Osteopathy,90
+2007,B88 Brockenhurst College,5
+2007,B90 University of Buckingham,50
+2007,B94 Buckinghamshire New University,915
+2007,C05 University of Cambridge,3365
+2007,C10 Canterbury Christ Church University,1930
+2007,C15 Cardiff University,4915
+2007,C20 Cardiff Metropolitan University,2020
+2007,C22 Coleg Sir Gar,85
+2007,C25 Birmingham City University (formerly University of Central England in Birmingham),2670
+2007,C30 University of Central Lancashire,3580
+2007,"C35 Royal Central School of Speech and Drama, University of London",200
+2007,C55 University of Chester,2175
+2007,C56 Chesterfield College,35
+2007,C57 Chichester College,40
+2007,C58 University of Chichester,1050
+2007,"C60 City, University of London",1815
+2007,C66 The Manchester College (Formerly City College Manchester),180
+2007,C69 City of Sunderland College,65
+2007,C71 The Northern School of Art (formerly Cleveland College of Art and Design),195
+2007,C72 Cliff College,20
+2007,C75 University Centre Colchester at Colchester Institute,290
+2007,C78 Cornwall College,235
+2007,"C80 Courtauld Institute of Art, University of London",55
+2007,C85 Coventry University,3165
+2007,C88 Craven College,15
+2007,C92 University Centre Croydon,85
+2007,C93 University for the Creative Arts,1735
+2007,C95 Cumbria Institute of the Arts,345
+2007,D13 Dartington College of Arts (now known as University College Falmouth inc Dartington College of Arts),160
+2007,D22 Dearne Valley College,25
+2007,D26 De Montfort University,3535
+2007,D39 University of Derby,2175
+2007,D45 Kirklees College (Formerly Dewsbury College),90
+2007,D52 Doncaster College and University Centre,195
+2007,D55 Duchy College,85
+2007,D58 Dudley College,5
+2007,D65 University of Dundee,1840
+2007,D86 Durham University,3470
+2007,"E10 Ealing, Hammersmith and West London College",5
+2007,E14 University of East Anglia UEA,2505
+2007,E25 East Lancashire Institute of Higher Education at Blackburn College,195
+2007,E28 University of East London,2045
+2007,E32 East Surrey College,25
+2007,E42 Edge Hill University,1845
+2007,E56 University of Edinburgh,4365
+2007,E58 Edinburgh College of Art,325
+2007,E70 University of Essex,1765
+2007,"E77 European Business School, London",50
+2007,E78 European School of Economics,5
+2007,E81 Exeter College,55
+2007,E84 University of Exeter,3380
+2007,F33 Falmouth University,740
+2007,F66 University Centre Farnborough,135
+2007,G14 University of South Wales (formerly University of Glamorgan),2505
+2007,G20 Glamorgan Centre for Art and Design Technology,10
+2007,G28 University of Glasgow,3990
+2007,G42 Glasgow Caledonian University,2540
+2007,G43 Glasgow School of Art,335
+2007,G45 Gloucestershire College,30
+2007,G50 University of Gloucestershire,1930
+2007,"G56 Goldsmiths, University of London",1310
+2007,G70 University of Greenwich,2355
+2007,G74 GSM London (formerly Greenwich School of Management),20
+2007,G80 University Centre Grimsby,140
+2007,G90 Guildford College,90
+2007,H12 Harper Adams University,455
+2007,H14 Havering College of Further and Higher Education,115
+2007,H18 Hereford College of Arts,100
+2007,H24 Heriot-Watt University,1570
+2007,H36 University of Hertfordshire,3370
+2007,H39 Highbury College,10
+2007,H48 Heythrop College (University of London),130
+2007,H49 University of the Highlands and Islands (UHI),125
+2007,H50 Holborn College,5
+2007,H54 Hopwood Hall College,15
+2007,H58 Kirklees College (Formerly Huddersfield Technical College),10
+2007,H60 University of Huddersfield,3050
+2007,H72 University of Hull,2850
+2007,H73 Hull College,320
+2007,H75 Hull York Medical School,140
+2007,I50 Imperial College London,2315
+2007,I60 Islamic College for Advanced Studies,10
+2007,K12 Keele University,1350
+2007,K15 Kensington College of Business,5
+2007,K24 University of Kent,3370
+2007,"K60 King's College London, University of London",2940
+2007,K84 Kingston University,4715
+2007,"L07 The University of Wales, Lampeter",165
+2007,L14 Lancaster University,2510
+2007,L21 Leeds City College,30
+2007,L23 University of Leeds,6460
+2007,L24 Leeds Trinity University,605
+2007,L27 Leeds Beckett University,5800
+2007,L28 Leeds Arts University,420
+2007,L30 Leeds College of Music,150
+2007,L34 University of Leicester,2540
+2007,L36 Leicester College,50
+2007,L39 University of Lincoln,2935
+2007,L41 University of Liverpool,3870
+2007,L43 City of Liverpool College University Centre,60
+2007,L46 Liverpool Hope University,1295
+2007,L48 Liverpool Institute for Performing Arts,185
+2007,L51 Liverpool John Moores University,4800
+2007,L53 Grwp Llandrillo Menai,25
+2007,L68 London Metropolitan University,2555
+2007,L70 London School of Commerce,25
+2007,"L72 London School of Economics and Political Science, University of London",1405
+2007,L75 London South Bank University,1770
+2007,L77 Loughborough College,135
+2007,L79 Loughborough University,3595
+2007,M10 UCEN Manchester (The Manchester College),45
+2007,M20 University of Manchester,7775
+2007,M40 Manchester Metropolitan University,6630
+2007,M50 UCP Marjon - University College Plymouth St Mark & St John (formerly Marjon),610
+2007,M60 Matthew Boulton College of Further and Higher Education,15
+2007,M62 Medway School of Pharmacy,105
+2007,M77 Mid Cheshire College,10
+2007,M80 Middlesex University,2570
+2007,M95 Mountview Academy of Theatre Arts,100
+2007,M99 University Centre Myerscough,205
+2007,"N07 Napier University, Edinburgh",2455
+2007,N11 Nazarene Theological College,15
+2007,N13 NPTC Group,55
+2007,N21 Newcastle University,4040
+2007,N23 Newcastle College University Centre,710
+2007,N28 New College Durham,130
+2007,N30 Nottingham College,165
+2007,"N36 Newman University, Birmingham",545
+2007,"N37 University of South Wales (formerly University of Wales, Newport)",900
+2007,N38 University of Northampton,1885
+2007,N39 Norwich University of the Arts,430
+2007,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),140
+2007,N49 NESCOT,20
+2007,N51 New College Telford,5
+2007,N56 Glyndwr University (Formerly The North East Wales Institute of Higher Education),335
+2007,N58 North East Worcestershire College,80
+2007,N64 DN Colleges Group,55
+2007,"N77 Northumbria University, Newcastle",4230
+2007,N79 North Warwickshire and South Leicestershire College,30
+2007,N82 City College Norwich,205
+2007,N84 University of Nottingham,5270
+2007,N91 Nottingham Trent University,4675
+2007,O25 Activate Learning,5
+2007,O33 University of Oxford,3215
+2007,O66 Oxford Brookes University,3190
+2007,P20 University of Paisley,1380
+2007,P26 University of London Institute in Paris,45
+2007,P35 Pembrokeshire College,55
+2007,P37 Peninsula College of Medicine & Dentistry,250
+2007,P55 Peterborough Regional College,55
+2007,P60 University of Plymouth,3690
+2007,P65 Plymouth College of Art,135
+2007,P80 University of Portsmouth,4095
+2007,"Q25 Queen Margaret University, Edinburgh",865
+2007,Q50 Queen Mary University of London,2710
+2007,Q75 Queen's University Belfast,3455
+2007,R06 Ravensbourne University London,340
+2007,R12 University of Reading,2525
+2007,R18 Regent's University London,20
+2007,"R20 Richmond, The American International University in London",25
+2007,R30 Riverside College Halton,5
+2007,R36 Robert Gordon University,1755
+2007,R48 University of Roehampton,1925
+2007,R51 Rose Bruford College,235
+2007,R52 RNN Group,5
+2007,R54 Royal Agricultural University,215
+2007,R55 Royal Academy of Dance,35
+2007,"R72 Royal Holloway, University of London",2020
+2007,"R84 Royal Veterinary College, University of London",300
+2007,R86 Royal Welsh College of Music and Drama,50
+2007,R90 Ruskin College,5
+2007,S01 SRUC Scotland's Rural College,200
+2007,S03 University of Salford,3540
+2007,S05 SAE Institute,35
+2007,S07 Wiltshire College Salisbury (formerly Salisbury College),30
+2007,S09 SOAS University of London,855
+2007,S12 The School of Pharmacy (University of London),180
+2007,S18 University of Sheffield,4475
+2007,S21 Sheffield Hallam University,5250
+2007,S22 Sheffield College,135
+2007,S23 Shrewsbury College,15
+2007,"S24 St Martin's College, Lancaster; Ambleside; Carlisle; London (accredited college of Lancaster Univ)",895
+2007,S26 Solihull College & University Centre,65
+2007,S27 University of Southampton,4080
+2007,S28 Somerset College,195
+2007,S30 Solent University (Southampton),2625
+2007,S32 University Centre South Devon,10
+2007,S34 University Centre Sparsholt,130
+2007,S36 University of St Andrews,1295
+2007,S42 Havant and South Downs College,35
+2007,S43 University Centre South Essex,235
+2007,"S46 South Nottingham College (Central College, Nottingham)",20
+2007,"S49 St George's, University of London",520
+2007,S51 University Centre St Helens,85
+2007,"S64 St Mary's University, Twickenham",880
+2007,S68 Stamford College,20
+2007,S72 Staffordshire University,2305
+2007,S73 Staffordshire University Regional Federation,175
+2007,S74 Stratford upon Avon College,15
+2007,S75 University of Stirling,1325
+2007,S76 Trafford College Group,145
+2007,S77 Stourbridge College,5
+2007,S78 University of Strathclyde,2995
+2007,S79 Stranmillis University College,235
+2007,S82 University of Suffolk,600
+2007,S84 University of Sunderland,1710
+2007,S85 University of Surrey,2145
+2007,S90 University of Sussex,2400
+2007,S93 Swansea University,2675
+2007,S96 University of Wales Trinity Saint David (UWTSD Swansea),905
+2007,S98 Swindon College,80
+2007,"T20 Teesside University, Middlesbrough",1940
+2007,T40 University of West London (formerly Thames Valley University),1105
+2007,T80 University of Wales Trinity Saint David,345
+2007,T85 Truro and Penwith College,310
+2007,T90 Tyne Coast College,40
+2007,U20 Ulster University,4640
+2007,U65 University of the Arts London,3730
+2007,U80 UCL (University College London),3485
+2007,W08 Wakefield College,65
+2007,W12 Walsall College,20
+2007,W20 University of Warwick,3570
+2007,W25 Warwickshire College Group,165
+2007,W29 Welsh College of Horticulture,5
+2007,W35 University Centre West Anglia,70
+2007,W36 West Cheshire College,20
+2007,"W50 University of Westminster, London",3435
+2007,W52 Westminster Kingsway College,10
+2007,W65 West Thames College,70
+2007,W73 Wirral Metropolitan College,35
+2007,W74 Wiltshire College and University Centre,30
+2007,W75 University of Wolverhampton,2765
+2007,W76 University of Winchester,1340
+2007,W80 University of Worcester,1260
+2007,W81 Worcester College of Technology,40
+2007,W85 Writtle University College,195
+2007,Y50 University of York,2500
+2007,Y70 York College,55
+2007,Y75 York St John University,1185
+2007,Y80 Yorkshire Coast College of Further and Higher Education,25
+2008,A20 University of Aberdeen,2425
+2008,A30 Abertay University,870
+2008,A40 Aberystwyth University,2270
+2008,A42 ALRA (The Academy of Live and Recorded Arts),20
+2008,"A45 College of Agriculture, Food and Rural Enterprise",75
+2008,A50 American InterContinental University - London,10
+2008,A60 Anglia Ruskin University,2260
+2008,A65 AECC University College,150
+2008,A70 Askham Bryan College,55
+2008,"A80 Aston University, Birmingham",1870
+2008,B06 Bangor University,1920
+2008,B11 Barking and Dagenham College,30
+2008,B15 Basingstoke College of Technology,20
+2008,B16 University of Bath,2625
+2008,B20 Bath Spa University,1815
+2008,B21 Bath College,5
+2008,B22 University of Bedfordshire,1910
+2008,B23 Bedford College Group,20
+2008,B32 University of Birmingham,5275
+2008,B35 University College Birmingham,805
+2008,B37 Bishop Burton College,145
+2008,B38 Bishop Grosseteste University,360
+2008,B41 Blackpool and the Fylde College,400
+2008,B44 University of Bolton,650
+2008,B50 Bournemouth University,3625
+2008,B53 The Arts Institute at Bournemouth,935
+2008,B56 University of Bradford,2160
+2008,B60 Bradford College,390
+2008,B70 University Centre Somerset - Bridgwater & Taunton College,30
+2008,B72 University of Brighton,4365
+2008,B74 Brighton and Sussex Medical School,135
+2008,B77 City of Bristol College,160
+2008,B78 University of Bristol,3680
+2008,B79 Bristol Filton College,5
+2008,"B80 Bristol, University of the West of England",5920
+2008,B81 British College of Osteopathic Medicine,35
+2008,B84 Brunel University London,2955
+2008,B87 University College of Osteopathy,65
+2008,B90 University of Buckingham,40
+2008,B94 Buckinghamshire New University,1195
+2008,C05 University of Cambridge,3515
+2008,C10 Canterbury Christ Church University,2360
+2008,C13 Capel Manor College,5
+2008,C15 Cardiff University,4800
+2008,C20 Cardiff Metropolitan University,2170
+2008,C21 Castle College Nottingham,5
+2008,C22 Coleg Sir Gar,50
+2008,C25 Birmingham City University (formerly University of Central England in Birmingham),3680
+2008,C30 University of Central Lancashire,4175
+2008,"C35 Royal Central School of Speech and Drama, University of London",200
+2008,C55 University of Chester,2255
+2008,C56 Chesterfield College,45
+2008,C57 Chichester College,35
+2008,C58 University of Chichester,1170
+2008,"C60 City, University of London",2180
+2008,C64 Coventry College,5
+2008,C66 The Manchester College (Formerly City College Manchester),220
+2008,C69 City of Sunderland College,60
+2008,C71 The Northern School of Art (formerly Cleveland College of Art and Design),165
+2008,C72 Cliff College,10
+2008,C75 University Centre Colchester at Colchester Institute,290
+2008,C78 Cornwall College,280
+2008,"C80 Courtauld Institute of Art, University of London",55
+2008,C85 Coventry University,3345
+2008,C88 Craven College,25
+2008,C92 University Centre Croydon,100
+2008,C93 University for the Creative Arts,1445
+2008,C99 University of Cumbria,1555
+2008,D13 Dartington College of Arts (now known as University College Falmouth inc Dartington College of Arts),120
+2008,D22 Dearne Valley College,55
+2008,D26 De Montfort University,3900
+2008,D39 University of Derby,2515
+2008,D45 Kirklees College (Formerly Dewsbury College),65
+2008,D52 Doncaster College and University Centre,225
+2008,D55 Duchy College,60
+2008,D58 Dudley College,5
+2008,D65 University of Dundee,1910
+2008,D86 Durham University,3415
+2008,"E10 Ealing, Hammersmith and West London College",10
+2008,E14 University of East Anglia UEA,2845
+2008,E25 East Lancashire Institute of Higher Education at Blackburn College,175
+2008,E28 University of East London,2040
+2008,E32 East Surrey College,30
+2008,E42 Edge Hill University,2170
+2008,E56 University of Edinburgh,4820
+2008,E58 Edinburgh College of Art,355
+2008,E70 University of Essex,1935
+2008,"E77 European Business School, London",30
+2008,E78 European School of Economics,10
+2008,E81 Exeter College,65
+2008,E84 University of Exeter,3710
+2008,F33 Falmouth University,845
+2008,F66 University Centre Farnborough,125
+2008,G14 University of South Wales (formerly University of Glamorgan),2485
+2008,G28 University of Glasgow,3970
+2008,G42 Glasgow Caledonian University,2730
+2008,G43 Glasgow School of Art,340
+2008,G45 Gloucestershire College,20
+2008,G50 University of Gloucestershire,1980
+2008,"G56 Goldsmiths, University of London",1475
+2008,G70 University of Greenwich,2595
+2008,G74 GSM London (formerly Greenwich School of Management),10
+2008,G80 University Centre Grimsby,125
+2008,G90 Guildford College,145
+2008,H12 Harper Adams University,450
+2008,H14 Havering College of Further and Higher Education,110
+2008,H18 Hereford College of Arts,115
+2008,H24 Heriot-Watt University,1700
+2008,H36 University of Hertfordshire,4145
+2008,H39 Highbury College,25
+2008,H48 Heythrop College (University of London),160
+2008,H49 University of the Highlands and Islands (UHI),105
+2008,H50 Holborn College,5
+2008,H54 Hopwood Hall College,20
+2008,H60 University of Huddersfield,3380
+2008,H72 University of Hull,3310
+2008,H73 Hull College,320
+2008,H75 Hull York Medical School,150
+2008,I50 Imperial College London,2370
+2008,I60 Islamic College for Advanced Studies,10
+2008,K12 Keele University,1605
+2008,K24 University of Kent,3740
+2008,"K60 King's College London, University of London",3415
+2008,K84 Kingston University,5335
+2008,"L07 The University of Wales, Lampeter",135
+2008,L14 Lancaster University,2820
+2008,L21 Leeds City College,30
+2008,L23 University of Leeds,6970
+2008,L24 Leeds Trinity University,730
+2008,L27 Leeds Beckett University,6365
+2008,L28 Leeds Arts University,420
+2008,L30 Leeds College of Music,215
+2008,L34 University of Leicester,2695
+2008,L36 Leicester College,30
+2008,L39 University of Lincoln,2725
+2008,L41 University of Liverpool,3790
+2008,L42 Lincoln College,20
+2008,L43 City of Liverpool College University Centre,75
+2008,L46 Liverpool Hope University,1370
+2008,L48 Liverpool Institute for Performing Arts,195
+2008,L51 Liverpool John Moores University,5520
+2008,L53 Grwp Llandrillo Menai,60
+2008,L68 London Metropolitan University,2470
+2008,L70 London School of Commerce,20
+2008,L71 London School of Science & Technology,10
+2008,"L72 London School of Economics and Political Science, University of London",1300
+2008,L75 London South Bank University,2200
+2008,L77 Loughborough College,185
+2008,L79 Loughborough University,3670
+2008,M10 UCEN Manchester (The Manchester College),65
+2008,M20 University of Manchester,8360
+2008,M40 Manchester Metropolitan University,6940
+2008,M50 UCP Marjon - University College Plymouth St Mark & St John (formerly Marjon),585
+2008,M60 Matthew Boulton College of Further and Higher Education,20
+2008,M62 Medway School of Pharmacy,100
+2008,M77 Mid Cheshire College,5
+2008,M80 Middlesex University,2720
+2008,M95 Mountview Academy of Theatre Arts,30
+2008,M99 University Centre Myerscough,235
+2008,"N07 Napier University, Edinburgh",2645
+2008,N11 Nazarene Theological College,20
+2008,N13 NPTC Group,35
+2008,N21 Newcastle University,4035
+2008,N23 Newcastle College University Centre,780
+2008,N28 New College Durham,80
+2008,N30 Nottingham College,180
+2008,N33 New College Stamford,25
+2008,"N36 Newman University, Birmingham",580
+2008,"N37 University of South Wales (formerly University of Wales, Newport)",920
+2008,N38 University of Northampton,2040
+2008,N39 Norwich University of the Arts,465
+2008,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),75
+2008,N49 NESCOT,10
+2008,N51 New College Telford,10
+2008,N56 Glyndwr University (Formerly The North East Wales Institute of Higher Education),340
+2008,N58 North East Worcestershire College,70
+2008,N64 DN Colleges Group,60
+2008,"N77 Northumbria University, Newcastle",5255
+2008,N82 City College Norwich,210
+2008,N84 University of Nottingham,6835
+2008,N91 Nottingham Trent University,5935
+2008,O25 Activate Learning,5
+2008,O33 University of Oxford,3230
+2008,O66 Oxford Brookes University,3305
+2008,P20 University of Paisley,1560
+2008,P26 University of London Institute in Paris,50
+2008,P35 Pembrokeshire College,45
+2008,P37 Peninsula College of Medicine & Dentistry,255
+2008,P55 Peterborough Regional College,55
+2008,P60 University of Plymouth,4550
+2008,P65 Plymouth College of Art,195
+2008,P80 University of Portsmouth,4550
+2008,"Q25 Queen Margaret University, Edinburgh",780
+2008,Q50 Queen Mary University of London,2830
+2008,Q75 Queen's University Belfast,3405
+2008,R06 Ravensbourne University London,410
+2008,R12 University of Reading,2695
+2008,R18 Regent's University London,25
+2008,"R20 Richmond, The American International University in London",25
+2008,R30 Riverside College Halton,10
+2008,R36 Robert Gordon University,1835
+2008,R48 University of Roehampton,2055
+2008,R51 Rose Bruford College,235
+2008,R52 RNN Group,10
+2008,R54 Royal Agricultural University,295
+2008,R55 Royal Academy of Dance,45
+2008,"R72 Royal Holloway, University of London",2155
+2008,"R84 Royal Veterinary College, University of London",340
+2008,R86 Royal Welsh College of Music and Drama,55
+2008,S01 SRUC Scotland's Rural College,205
+2008,S03 University of Salford,4125
+2008,S05 SAE Institute,25
+2008,S07 Wiltshire College Salisbury (formerly Salisbury College),30
+2008,S09 SOAS University of London,810
+2008,S12 The School of Pharmacy (University of London),170
+2008,S18 University of Sheffield,4665
+2008,S21 Sheffield Hallam University,6735
+2008,S22 Sheffield College,110
+2008,S26 Solihull College & University Centre,60
+2008,S27 University of Southampton,4695
+2008,S28 Somerset College,180
+2008,S30 Solent University (Southampton),3185
+2008,S32 University Centre South Devon,10
+2008,S34 University Centre Sparsholt,125
+2008,S36 University of St Andrews,1765
+2008,S42 Havant and South Downs College,15
+2008,S43 University Centre South Essex,250
+2008,"S46 South Nottingham College (Central College, Nottingham)",30
+2008,"S49 St George's, University of London",560
+2008,S51 University Centre St Helens,110
+2008,S52 South Tyneside College,10
+2008,"S64 St Mary's University, Twickenham",1030
+2008,S72 Staffordshire University,2525
+2008,S73 Staffordshire University Regional Federation,175
+2008,S74 Stratford upon Avon College,25
+2008,S75 University of Stirling,1420
+2008,S76 Trafford College Group,125
+2008,S78 University of Strathclyde,3160
+2008,S79 Stranmillis University College,205
+2008,S82 University of Suffolk,835
+2008,S84 University of Sunderland,2010
+2008,S85 University of Surrey,2535
+2008,S90 University of Sussex,2540
+2008,S93 Swansea University,2620
+2008,S94 Gower College Swansea (formerly Swansea College),10
+2008,S96 University of Wales Trinity Saint David (UWTSD Swansea),1060
+2008,S98 Swindon College,45
+2008,"T20 Teesside University, Middlesbrough",2335
+2008,T40 University of West London (formerly Thames Valley University),1055
+2008,T80 University of Wales Trinity Saint David,335
+2008,T85 Truro and Penwith College,300
+2008,U20 Ulster University,5135
+2008,U65 University of the Arts London,3685
+2008,U80 UCL (University College London),3740
+2008,W08 Wakefield College,45
+2008,W12 Walsall College,15
+2008,W20 University of Warwick,3720
+2008,W25 Warwickshire College Group,175
+2008,W29 Welsh College of Horticulture,5
+2008,W35 University Centre West Anglia,75
+2008,W36 West Cheshire College,15
+2008,"W50 University of Westminster, London",3420
+2008,W52 Westminster Kingsway College,5
+2008,W65 West Thames College,65
+2008,W73 Wirral Metropolitan College,20
+2008,W74 Wiltshire College and University Centre,45
+2008,W75 University of Wolverhampton,2875
+2008,W76 University of Winchester,1495
+2008,W80 University of Worcester,1665
+2008,W81 Worcester College of Technology,30
+2008,W85 Writtle University College,245
+2008,Y50 University of York,2775
+2008,Y70 York College,80
+2008,Y75 York St John University,1195
+2008,Y80 Yorkshire Coast College of Further and Higher Education,15
+2009,A20 University of Aberdeen,2735
+2009,A30 Abertay University,970
+2009,A40 Aberystwyth University,2620
+2009,A42 ALRA (The Academy of Live and Recorded Arts),40
+2009,"A45 College of Agriculture, Food and Rural Enterprise",125
+2009,A50 American InterContinental University - London,10
+2009,A60 Anglia Ruskin University,2645
+2009,A65 AECC University College,115
+2009,A70 Askham Bryan College,45
+2009,"A80 Aston University, Birmingham",1820
+2009,B06 Bangor University,2285
+2009,B11 Barking and Dagenham College,20
+2009,B15 Basingstoke College of Technology,15
+2009,B16 University of Bath,2615
+2009,B20 Bath Spa University,1880
+2009,B22 University of Bedfordshire,2630
+2009,B23 Bedford College Group,35
+2009,B25 Birmingham City University,4290
+2009,B32 University of Birmingham,5445
+2009,B35 University College Birmingham,840
+2009,B37 Bishop Burton College,200
+2009,B38 Bishop Grosseteste University,405
+2009,B41 Blackpool and the Fylde College,485
+2009,B44 University of Bolton,735
+2009,B50 Bournemouth University,4080
+2009,B53 The Arts Institute at Bournemouth,865
+2009,B54 BPP University,5
+2009,B56 University of Bradford,2295
+2009,B60 Bradford College,435
+2009,B70 University Centre Somerset - Bridgwater & Taunton College,30
+2009,B72 University of Brighton,4750
+2009,B74 Brighton and Sussex Medical School,140
+2009,B77 City of Bristol College,145
+2009,B78 University of Bristol,3440
+2009,B79 Bristol Filton College,20
+2009,"B80 Bristol, University of the West of England",6225
+2009,B81 British College of Osteopathic Medicine,60
+2009,B84 Brunel University London,2685
+2009,B87 University College of Osteopathy,75
+2009,B90 University of Buckingham,55
+2009,B94 Buckinghamshire New University,1530
+2009,C05 University of Cambridge,3460
+2009,C10 Canterbury Christ Church University,2685
+2009,C13 Capel Manor College,5
+2009,C15 Cardiff University,4910
+2009,C20 Cardiff Metropolitan University,2105
+2009,C21 Castle College Nottingham,5
+2009,C22 Coleg Sir Gar,80
+2009,C30 University of Central Lancashire,5070
+2009,"C35 Royal Central School of Speech and Drama, University of London",190
+2009,C55 University of Chester,2580
+2009,C56 Chesterfield College,25
+2009,C57 Chichester College,40
+2009,C58 University of Chichester,1225
+2009,"C60 City, University of London",2305
+2009,"C62 City College, Birmingham",5
+2009,C64 Coventry College,5
+2009,C66 The Manchester College (Formerly City College Manchester),195
+2009,C69 City of Sunderland College,60
+2009,C71 The Northern School of Art (formerly Cleveland College of Art and Design),185
+2009,C72 Cliff College,10
+2009,C75 University Centre Colchester at Colchester Institute,275
+2009,C78 Cornwall College,315
+2009,"C80 Courtauld Institute of Art, University of London",50
+2009,C85 Coventry University,3715
+2009,C88 Craven College,15
+2009,C92 University Centre Croydon,110
+2009,C93 University for the Creative Arts,1965
+2009,C99 University of Cumbria,1815
+2009,D13 Dartington College of Arts (now known as University College Falmouth inc Dartington College of Arts),135
+2009,D22 Dearne Valley College,20
+2009,D26 De Montfort University,4940
+2009,D39 University of Derby,3025
+2009,D45 Kirklees College (Formerly Dewsbury College),50
+2009,D52 Doncaster College and University Centre,245
+2009,D55 Duchy College,110
+2009,D58 Dudley College,5
+2009,D65 University of Dundee,2010
+2009,D86 Durham University,3495
+2009,"E10 Ealing, Hammersmith and West London College",5
+2009,E14 University of East Anglia UEA,2800
+2009,E25 East Lancashire Institute of Higher Education at Blackburn College,320
+2009,E28 University of East London,2065
+2009,E32 East Surrey College,15
+2009,E42 Edge Hill University,2500
+2009,E56 University of Edinburgh,5200
+2009,E58 Edinburgh College of Art,285
+2009,E70 University of Essex,2350
+2009,"E77 European Business School, London",50
+2009,E81 Exeter College,55
+2009,E84 University of Exeter,3910
+2009,F33 Falmouth University,915
+2009,F66 University Centre Farnborough,180
+2009,G14 University of South Wales (formerly University of Glamorgan),2930
+2009,G28 University of Glasgow,4500
+2009,G42 Glasgow Caledonian University,2860
+2009,G43 Glasgow School of Art,350
+2009,G45 Gloucestershire College,50
+2009,G50 University of Gloucestershire,2305
+2009,"G56 Goldsmiths, University of London",1580
+2009,G70 University of Greenwich,3150
+2009,G74 GSM London (formerly Greenwich School of Management),25
+2009,G80 University Centre Grimsby,145
+2009,G90 Guildford College,135
+2009,H12 Harper Adams University,590
+2009,H14 Havering College of Further and Higher Education,120
+2009,H18 Hereford College of Arts,115
+2009,H24 Heriot-Watt University,1875
+2009,H36 University of Hertfordshire,5085
+2009,H39 Highbury College,15
+2009,H48 Heythrop College (University of London),130
+2009,H49 University of the Highlands and Islands (UHI),90
+2009,H54 Hopwood Hall College,20
+2009,H60 University of Huddersfield,3500
+2009,H72 University of Hull,3745
+2009,H73 Hull College,375
+2009,H75 Hull York Medical School,155
+2009,I50 Imperial College London,2350
+2009,I60 Islamic College for Advanced Studies,15
+2009,K12 Keele University,1990
+2009,K24 University of Kent,4125
+2009,"K60 King's College London, University of London",3685
+2009,K84 Kingston University,5995
+2009,"L07 The University of Wales, Lampeter",190
+2009,L14 Lancaster University,2670
+2009,L21 Leeds City College,35
+2009,L23 University of Leeds,6495
+2009,L24 Leeds Trinity University,745
+2009,L27 Leeds Beckett University,6330
+2009,L28 Leeds Arts University,460
+2009,L30 Leeds College of Music,150
+2009,L34 University of Leicester,2655
+2009,L36 Leicester College,80
+2009,L39 University of Lincoln,2920
+2009,L41 University of Liverpool,3775
+2009,L42 Lincoln College,20
+2009,L43 City of Liverpool College University Centre,75
+2009,L46 Liverpool Hope University,1265
+2009,L48 Liverpool Institute for Performing Arts,175
+2009,L51 Liverpool John Moores University,5320
+2009,L53 Grwp Llandrillo Menai,50
+2009,L62 London College,130
+2009,L68 London Metropolitan University,2250
+2009,L70 London School of Commerce,15
+2009,"L72 London School of Economics and Political Science, University of London",1420
+2009,L75 London South Bank University,2155
+2009,L77 Loughborough College,215
+2009,L79 Loughborough University,3335
+2009,M10 UCEN Manchester (The Manchester College),65
+2009,M20 University of Manchester,8285
+2009,M40 Manchester Metropolitan University,7700
+2009,M60 Matthew Boulton College of Further and Higher Education,20
+2009,M62 Medway School of Pharmacy,120
+2009,M77 Mid Cheshire College,10
+2009,M80 Middlesex University,3220
+2009,M95 Mountview Academy of Theatre Arts,35
+2009,M99 University Centre Myerscough,280
+2009,"N07 Napier University, Edinburgh",2870
+2009,N11 Nazarene Theological College,10
+2009,N13 NPTC Group,95
+2009,N21 Newcastle University,4225
+2009,N23 Newcastle College University Centre,870
+2009,N28 New College Durham,65
+2009,N30 Nottingham College,170
+2009,N33 New College Stamford,5
+2009,"N36 Newman University, Birmingham",635
+2009,"N37 University of South Wales (formerly University of Wales, Newport)",1105
+2009,N38 University of Northampton,2510
+2009,N39 Norwich University of the Arts,540
+2009,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),165
+2009,N49 NESCOT,15
+2009,N51 New College Telford,5
+2009,N56 Glyndwr University (Formerly The North East Wales Institute of Higher Education),610
+2009,N58 North East Worcestershire College,70
+2009,N64 DN Colleges Group,60
+2009,"N77 Northumbria University, Newcastle",5415
+2009,N82 City College Norwich,265
+2009,N84 University of Nottingham,6910
+2009,N91 Nottingham Trent University,6540
+2009,O25 Activate Learning,5
+2009,O33 University of Oxford,3245
+2009,O66 Oxford Brookes University,3770
+2009,P26 University of London Institute in Paris,45
+2009,P35 Pembrokeshire College,40
+2009,P37 Peninsula College of Medicine & Dentistry,280
+2009,P55 Peterborough Regional College,65
+2009,P60 University of Plymouth,4610
+2009,P63 Plymouth Marjon University (St Mark & St John),585
+2009,P65 Plymouth College of Art,215
+2009,P80 University of Portsmouth,4850
+2009,"Q25 Queen Margaret University, Edinburgh",855
+2009,Q50 Queen Mary University of London,2835
+2009,Q75 Queen's University Belfast,3525
+2009,R06 Ravensbourne University London,545
+2009,R12 University of Reading,2695
+2009,R18 Regent's University London,15
+2009,"R20 Richmond, The American International University in London",35
+2009,R36 Robert Gordon University,1885
+2009,R48 University of Roehampton,1975
+2009,R51 Rose Bruford College,225
+2009,R52 RNN Group,15
+2009,R54 Royal Agricultural University,255
+2009,R55 Royal Academy of Dance,50
+2009,"R72 Royal Holloway, University of London",1920
+2009,"R84 Royal Veterinary College, University of London",290
+2009,R86 Royal Welsh College of Music and Drama,50
+2009,S01 SRUC Scotland's Rural College,275
+2009,S03 University of Salford,4355
+2009,S05 SAE Institute,40
+2009,S09 SOAS University of London,670
+2009,S12 The School of Pharmacy (University of London),160
+2009,S18 University of Sheffield,4815
+2009,S21 Sheffield Hallam University,7245
+2009,S22 Sheffield College,145
+2009,S23 Shrewsbury College,30
+2009,S26 Solihull College & University Centre,45
+2009,S27 University of Southampton,4645
+2009,S28 Somerset College,255
+2009,S30 Solent University (Southampton),3150
+2009,S32 University Centre South Devon,20
+2009,S34 University Centre Sparsholt,145
+2009,S36 University of St Andrews,1380
+2009,S42 Havant and South Downs College,10
+2009,S43 University Centre South Essex,275
+2009,"S46 South Nottingham College (Central College, Nottingham)",30
+2009,"S49 St George's, University of London",520
+2009,S51 University Centre St Helens,125
+2009,S52 South Tyneside College,15
+2009,"S64 St Mary's University, Twickenham",1095
+2009,S72 Staffordshire University,2860
+2009,S73 Staffordshire University Regional Federation,200
+2009,S74 Stratford upon Avon College,25
+2009,S75 University of Stirling,1570
+2009,S76 Trafford College Group,130
+2009,S78 University of Strathclyde,3145
+2009,S79 Stranmillis University College,230
+2009,S82 University of Suffolk,1020
+2009,S84 University of Sunderland,2210
+2009,S85 University of Surrey,2595
+2009,S90 University of Sussex,2615
+2009,S93 Swansea University,2725
+2009,S94 Gower College Swansea (formerly Swansea College),10
+2009,S96 University of Wales Trinity Saint David (UWTSD Swansea),1095
+2009,S98 Swindon College,30
+2009,"T20 Teesside University, Middlesbrough",2675
+2009,T40 University of West London (formerly Thames Valley University),1240
+2009,T80 University of Wales Trinity Saint David,500
+2009,T85 Truro and Penwith College,345
+2009,T90 Tyne Coast College,5
+2009,U20 Ulster University,5315
+2009,U40 University of the West of Scotland,1730
+2009,U65 University of the Arts London,3645
+2009,U80 UCL (University College London),3545
+2009,W08 Wakefield College,75
+2009,W12 Walsall College,20
+2009,W20 University of Warwick,3740
+2009,W25 Warwickshire College Group,195
+2009,W35 University Centre West Anglia,90
+2009,W36 West Cheshire College,30
+2009,"W50 University of Westminster, London",3535
+2009,W52 Westminster Kingsway College,5
+2009,W65 West Thames College,90
+2009,W73 Wirral Metropolitan College,60
+2009,W74 Wiltshire College and University Centre,35
+2009,W75 University of Wolverhampton,3600
+2009,W76 University of Winchester,1590
+2009,W80 University of Worcester,1880
+2009,W81 Worcester College of Technology,30
+2009,W85 Writtle University College,250
+2009,Y50 University of York,3205
+2009,Y70 York College,145
+2009,Y75 York St John University,1190
+2009,Y80 Yorkshire Coast College of Further and Higher Education,20
+2010,A20 University of Aberdeen,3045
+2010,A30 Abertay University,1365
+2010,A40 Aberystwyth University,2675
+2010,A42 ALRA (The Academy of Live and Recorded Arts),35
+2010,A44 Accrington and Rossendale College,60
+2010,"A45 College of Agriculture, Food and Rural Enterprise",110
+2010,A50 American InterContinental University - London,5
+2010,A60 Anglia Ruskin University,2510
+2010,A65 AECC University College,125
+2010,A70 Askham Bryan College,105
+2010,"A80 Aston University, Birmingham",1855
+2010,B06 Bangor University,2135
+2010,B11 Barking and Dagenham College,10
+2010,B15 Basingstoke College of Technology,20
+2010,B16 University of Bath,2685
+2010,B20 Bath Spa University,1945
+2010,B22 University of Bedfordshire,2735
+2010,B23 Bedford College Group,35
+2010,"B24 Birkbeck, University of London",80
+2010,B25 Birmingham City University,4265
+2010,B30 BMet (Birmingham Metropolitan College),35
+2010,B32 University of Birmingham,5375
+2010,B35 University College Birmingham,975
+2010,B37 Bishop Burton College,195
+2010,B38 Bishop Grosseteste University,530
+2010,B40 Blackburn College,540
+2010,B41 Blackpool and the Fylde College,510
+2010,B44 University of Bolton,815
+2010,B50 Bournemouth University,3815
+2010,B53 The Arts Institute at Bournemouth,960
+2010,B54 BPP University,55
+2010,B56 University of Bradford,2255
+2010,B60 Bradford College,555
+2010,B70 University Centre Somerset - Bridgwater & Taunton College,40
+2010,B72 University of Brighton,5170
+2010,B74 Brighton and Sussex Medical School,135
+2010,B77 City of Bristol College,165
+2010,B78 University of Bristol,3760
+2010,B79 Bristol Filton College,5
+2010,"B80 Bristol, University of the West of England",6630
+2010,B81 British College of Osteopathic Medicine,5
+2010,B84 Brunel University London,2730
+2010,B87 University College of Osteopathy,75
+2010,B90 University of Buckingham,65
+2010,B94 Buckinghamshire New University,1750
+2010,C05 University of Cambridge,3370
+2010,C10 Canterbury Christ Church University,3075
+2010,C15 Cardiff University,4440
+2010,C20 Cardiff Metropolitan University,2020
+2010,C21 Castle College Nottingham,15
+2010,C22 Coleg Sir Gar,100
+2010,C30 University of Central Lancashire,5275
+2010,"C35 Royal Central School of Speech and Drama, University of London",230
+2010,C55 University of Chester,2695
+2010,C56 Chesterfield College,10
+2010,C57 Chichester College,40
+2010,C58 University of Chichester,1520
+2010,"C60 City, University of London",2310
+2010,C64 Coventry College,20
+2010,C69 City of Sunderland College,75
+2010,C71 The Northern School of Art (formerly Cleveland College of Art and Design),160
+2010,C72 Cliff College,10
+2010,C75 University Centre Colchester at Colchester Institute,350
+2010,C78 Cornwall College,355
+2010,"C80 Courtauld Institute of Art, University of London",45
+2010,C85 Coventry University,3710
+2010,C88 Craven College,20
+2010,C92 University Centre Croydon,180
+2010,C93 University for the Creative Arts,1815
+2010,C99 University of Cumbria,1780
+2010,D22 Dearne Valley College,20
+2010,D26 De Montfort University,4080
+2010,D39 University of Derby,2935
+2010,D44 North Devon College,95
+2010,D52 Doncaster College and University Centre,210
+2010,D55 Duchy College,120
+2010,D58 Dudley College,5
+2010,D65 University of Dundee,2380
+2010,D86 Durham University,3500
+2010,"E10 Ealing, Hammersmith and West London College",5
+2010,E14 University of East Anglia UEA,2925
+2010,E28 University of East London,2570
+2010,E30 Easton and Otley College,15
+2010,E32 East Surrey College,10
+2010,E42 Edge Hill University,2570
+2010,E56 University of Edinburgh,3685
+2010,E58 Edinburgh College of Art,290
+2010,E59 Edinburgh Napier University,2885
+2010,E70 University of Essex,2495
+2010,"E77 European Business School, London",65
+2010,E78 European School of Economics,10
+2010,E80 European School of Osteopathy,60
+2010,E81 Exeter College,50
+2010,E84 University of Exeter,4065
+2010,F33 Falmouth University,1195
+2010,F66 University Centre Farnborough,190
+2010,G14 University of South Wales (formerly University of Glamorgan),2865
+2010,G28 University of Glasgow,4130
+2010,G42 Glasgow Caledonian University,3135
+2010,G43 Glasgow School of Art,365
+2010,G45 Gloucestershire College,35
+2010,G50 University of Gloucestershire,1990
+2010,"G53 Glyndwr University, Wrexham",650
+2010,"G56 Goldsmiths, University of London",1470
+2010,G70 University of Greenwich,4445
+2010,G74 GSM London (formerly Greenwich School of Management),35
+2010,G80 University Centre Grimsby,185
+2010,G90 Guildford College,170
+2010,H12 Harper Adams University,690
+2010,H14 Havering College of Further and Higher Education,125
+2010,H18 Hereford College of Arts,135
+2010,H24 Heriot-Watt University,1325
+2010,H36 University of Hertfordshire,4300
+2010,H39 Highbury College,15
+2010,H48 Heythrop College (University of London),175
+2010,H49 University of the Highlands and Islands (UHI),125
+2010,H54 Hopwood Hall College,20
+2010,H60 University of Huddersfield,3705
+2010,H72 University of Hull,3575
+2010,H73 Hull College,405
+2010,H75 Hull York Medical School,145
+2010,I50 Imperial College London,2455
+2010,I60 Islamic College for Advanced Studies,15
+2010,K12 Keele University,1820
+2010,K24 University of Kent,4400
+2010,"K60 King's College London, University of London",3820
+2010,K84 Kingston University,6435
+2010,K90 Kirklees College,110
+2010,L05 Lakes College West Cumbria,5
+2010,"L07 The University of Wales, Lampeter",220
+2010,L14 Lancaster University,2530
+2010,L21 Leeds City College,80
+2010,L23 University of Leeds,6770
+2010,L24 Leeds Trinity University,785
+2010,L27 Leeds Beckett University,6680
+2010,L28 Leeds Arts University,355
+2010,L30 Leeds College of Music,175
+2010,L34 University of Leicester,2740
+2010,L36 Leicester College,65
+2010,L39 University of Lincoln,3105
+2010,L41 University of Liverpool,3845
+2010,L42 Lincoln College,35
+2010,L43 City of Liverpool College University Centre,75
+2010,L46 Liverpool Hope University,1345
+2010,L48 Liverpool Institute for Performing Arts,190
+2010,L51 Liverpool John Moores University,5100
+2010,L53 Grwp Llandrillo Menai,65
+2010,L62 London College,105
+2010,L68 London Metropolitan University,2495
+2010,L70 London School of Commerce,10
+2010,"L72 London School of Economics and Political Science, University of London",1280
+2010,L75 London South Bank University,2555
+2010,L77 Loughborough College,255
+2010,L79 Loughborough University,3330
+2010,M10 UCEN Manchester (The Manchester College),430
+2010,M20 University of Manchester,8330
+2010,M40 Manchester Metropolitan University,8035
+2010,M62 Medway School of Pharmacy,115
+2010,M65 Coleg Menai,5
+2010,M77 Mid Cheshire College,10
+2010,M80 Middlesex University,4070
+2010,M93 Moulton College,105
+2010,M95 Mountview Academy of Theatre Arts,25
+2010,M99 University Centre Myerscough,280
+2010,N11 Nazarene Theological College,15
+2010,N13 NPTC Group,40
+2010,N21 Newcastle University,4420
+2010,N23 Newcastle College University Centre,905
+2010,N28 New College Durham,55
+2010,N30 Nottingham College,225
+2010,N31 Newham College London,15
+2010,N33 New College Stamford,5
+2010,"N36 Newman University, Birmingham",530
+2010,"N37 University of South Wales (formerly University of Wales, Newport)",1125
+2010,N38 University of Northampton,2735
+2010,N39 Norwich University of the Arts,540
+2010,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),395
+2010,N49 NESCOT,15
+2010,N51 New College Telford,5
+2010,N58 North East Worcestershire College,80
+2010,N64 DN Colleges Group,85
+2010,"N77 Northumbria University, Newcastle",5400
+2010,N79 North Warwickshire and South Leicestershire College,10
+2010,N82 City College Norwich,245
+2010,N84 University of Nottingham,6600
+2010,N91 Nottingham Trent University,6045
+2010,O33 University of Oxford,3190
+2010,O66 Oxford Brookes University,4035
+2010,P26 University of London Institute in Paris,50
+2010,P35 Pembrokeshire College,30
+2010,P37 Peninsula College of Medicine & Dentistry,295
+2010,P56 University Centre Peterborough,90
+2010,P60 University of Plymouth,4755
+2010,P63 Plymouth Marjon University (St Mark & St John),600
+2010,P65 Plymouth College of Art,270
+2010,P80 University of Portsmouth,5260
+2010,"Q25 Queen Margaret University, Edinburgh",765
+2010,Q50 Queen Mary University of London,2745
+2010,Q75 Queen's University Belfast,3520
+2010,R06 Ravensbourne University London,515
+2010,R12 University of Reading,2620
+2010,R18 Regent's University London,45
+2010,"R20 Richmond, The American International University in London",45
+2010,R30 Riverside College Halton,5
+2010,R36 Robert Gordon University,2160
+2010,R48 University of Roehampton,2185
+2010,R51 Rose Bruford College,185
+2010,R52 RNN Group,10
+2010,R54 Royal Agricultural University,325
+2010,R55 Royal Academy of Dance,50
+2010,"R72 Royal Holloway, University of London",2070
+2010,"R84 Royal Veterinary College, University of London",270
+2010,R86 Royal Welsh College of Music and Drama,60
+2010,S01 SRUC Scotland's Rural College,315
+2010,S03 University of Salford,4070
+2010,S05 SAE Institute,25
+2010,S09 SOAS University of London,795
+2010,S12 The School of Pharmacy (University of London),160
+2010,S18 University of Sheffield,4750
+2010,S21 Sheffield Hallam University,7540
+2010,S22 Sheffield College,100
+2010,S23 Shrewsbury College,10
+2010,S26 Solihull College & University Centre,90
+2010,S27 University of Southampton,5000
+2010,S28 Somerset College,160
+2010,S30 Solent University (Southampton),2730
+2010,S32 University Centre South Devon,20
+2010,S34 University Centre Sparsholt,145
+2010,S35 Southport College,5
+2010,S36 University of St Andrews,1465
+2010,S42 Havant and South Downs College,15
+2010,S43 University Centre South Essex,310
+2010,"S46 South Nottingham College (Central College, Nottingham)",35
+2010,"S49 St George's, University of London",505
+2010,S51 University Centre St Helens,130
+2010,S52 South Tyneside College,15
+2010,"S64 St Mary's University, Twickenham",1215
+2010,S69 Stephenson College Coalville,5
+2010,S72 Staffordshire University,3100
+2010,S73 Staffordshire University Regional Federation,235
+2010,S74 Stratford upon Avon College,15
+2010,S75 University of Stirling,2115
+2010,S76 Trafford College Group,125
+2010,S77 Stourbridge College,10
+2010,S78 University of Strathclyde,2910
+2010,S79 Stranmillis University College,230
+2010,S82 University of Suffolk,1215
+2010,S84 University of Sunderland,2450
+2010,S85 University of Surrey,2435
+2010,S90 University of Sussex,2775
+2010,S93 Swansea University,2560
+2010,S94 Gower College Swansea (formerly Swansea College),10
+2010,S96 University of Wales Trinity Saint David (UWTSD Swansea),1070
+2010,S98 Swindon College,35
+2010,"T20 Teesside University, Middlesbrough",3030
+2010,T40 University of West London (formerly Thames Valley University),1540
+2010,T80 University of Wales Trinity Saint David,470
+2010,T85 Truro and Penwith College,350
+2010,U20 Ulster University,5240
+2010,U40 University of the West of Scotland,3050
+2010,U65 University of the Arts London,3475
+2010,U80 UCL (University College London),4010
+2010,W08 Wakefield College,40
+2010,W12 Walsall College,35
+2010,W20 University of Warwick,4065
+2010,W25 Warwickshire College Group,185
+2010,W35 University Centre West Anglia,75
+2010,W36 West Cheshire College,20
+2010,"W50 University of Westminster, London",3525
+2010,W52 Westminster Kingsway College,10
+2010,W65 West Thames College,95
+2010,W73 Wirral Metropolitan College,10
+2010,W74 Wiltshire College and University Centre,85
+2010,W75 University of Wolverhampton,3320
+2010,W76 University of Winchester,1525
+2010,W80 University of Worcester,2040
+2010,W81 Worcester College of Technology,40
+2010,W85 Writtle University College,325
+2010,Y50 University of York,3650
+2010,Y70 York College,135
+2010,Y75 York St John University,1215
+2010,Y80 Yorkshire Coast College of Further and Higher Education,40
+2011,A20 University of Aberdeen,2350
+2011,A30 Abertay University,1065
+2011,A40 Aberystwyth University,3090
+2011,A44 Accrington and Rossendale College,50
+2011,"A45 College of Agriculture, Food and Rural Enterprise",150
+2011,A60 Anglia Ruskin University,3125
+2011,A65 AECC University College,90
+2011,A66 Arts University Bournemouth,1005
+2011,A70 Askham Bryan College,80
+2011,"A80 Aston University, Birmingham",1515
+2011,B06 Bangor University,2190
+2011,B11 Barking and Dagenham College,55
+2011,B15 Basingstoke College of Technology,15
+2011,B16 University of Bath,2700
+2011,B20 Bath Spa University,1990
+2011,B21 Bath College,5
+2011,B22 University of Bedfordshire,3350
+2011,B23 Bedford College Group,20
+2011,"B24 Birkbeck, University of London",170
+2011,B25 Birmingham City University,4185
+2011,B30 BMet (Birmingham Metropolitan College),55
+2011,B32 University of Birmingham,5370
+2011,B35 University College Birmingham,1135
+2011,B37 Bishop Burton College,230
+2011,B38 Bishop Grosseteste University,425
+2011,B40 Blackburn College,645
+2011,B41 Blackpool and the Fylde College,600
+2011,B44 University of Bolton,1030
+2011,B50 Bournemouth University,3630
+2011,B54 BPP University,195
+2011,B56 University of Bradford,2325
+2011,B60 Bradford College,635
+2011,B70 University Centre Somerset - Bridgwater & Taunton College,30
+2011,B72 University of Brighton,4725
+2011,B74 Brighton and Sussex Medical School,135
+2011,B77 City of Bristol College,120
+2011,B78 University of Bristol,3525
+2011,B79 Bristol Filton College,15
+2011,"B80 Bristol, University of the West of England",6255
+2011,B81 British College of Osteopathic Medicine,45
+2011,B83 Brooklands College,10
+2011,B84 Brunel University London,2865
+2011,B87 University College of Osteopathy,70
+2011,B90 University of Buckingham,100
+2011,B92 Brooksby Melton College,30
+2011,B94 Buckinghamshire New University,1950
+2011,C05 University of Cambridge,3250
+2011,C10 Canterbury Christ Church University,3385
+2011,C15 Cardiff University,4390
+2011,C20 Cardiff Metropolitan University,2105
+2011,C21 Castle College Nottingham,15
+2011,C22 Coleg Sir Gar,70
+2011,C30 University of Central Lancashire,5325
+2011,"C35 Royal Central School of Speech and Drama, University of London",220
+2011,C55 University of Chester,2860
+2011,C57 Chichester College,45
+2011,C58 University of Chichester,1420
+2011,"C60 City, University of London",2490
+2011,C64 Coventry College,10
+2011,C69 City of Sunderland College,70
+2011,C71 The Northern School of Art (formerly Cleveland College of Art and Design),230
+2011,C72 Cliff College,5
+2011,C75 University Centre Colchester at Colchester Institute,325
+2011,C78 Cornwall College,315
+2011,"C80 Courtauld Institute of Art, University of London",55
+2011,C85 Coventry University,3410
+2011,C88 Craven College,25
+2011,C92 University Centre Croydon,180
+2011,C93 University for the Creative Arts,1915
+2011,C99 University of Cumbria,1790
+2011,D22 Dearne Valley College,25
+2011,D26 De Montfort University,4290
+2011,D39 University of Derby,3295
+2011,D52 Doncaster College and University Centre,265
+2011,D55 Duchy College,165
+2011,D58 Dudley College,15
+2011,D65 University of Dundee,2440
+2011,D86 Durham University,3725
+2011,"E10 Ealing, Hammersmith and West London College",5
+2011,E14 University of East Anglia UEA,2985
+2011,E28 University of East London,2700
+2011,E29 East Riding College,10
+2011,E30 Easton and Otley College,40
+2011,E32 East Surrey College,30
+2011,E42 Edge Hill University,3005
+2011,E56 University of Edinburgh,4665
+2011,E59 Edinburgh Napier University,3275
+2011,E70 University of Essex,2550
+2011,"E77 European Business School, London",65
+2011,E78 European School of Economics,15
+2011,E80 European School of Osteopathy,70
+2011,E81 Exeter College,80
+2011,E84 University of Exeter,4060
+2011,F33 Falmouth University,1265
+2011,F66 University Centre Farnborough,225
+2011,G14 University of South Wales (formerly University of Glamorgan),2980
+2011,G28 University of Glasgow,3835
+2011,G42 Glasgow Caledonian University,3410
+2011,G43 Glasgow School of Art,330
+2011,G45 Gloucestershire College,35
+2011,G50 University of Gloucestershire,2195
+2011,"G53 Glyndwr University, Wrexham",520
+2011,"G56 Goldsmiths, University of London",1480
+2011,G70 University of Greenwich,3760
+2011,G74 GSM London (formerly Greenwich School of Management),50
+2011,G80 University Centre Grimsby,145
+2011,G90 Guildford College,170
+2011,H12 Harper Adams University,670
+2011,H14 Havering College of Further and Higher Education,130
+2011,H18 Hereford College of Arts,130
+2011,H24 Heriot-Watt University,1575
+2011,H36 University of Hertfordshire,4185
+2011,H39 Highbury College,20
+2011,H48 Heythrop College (University of London),125
+2011,H49 University of the Highlands and Islands (UHI),195
+2011,H50 Holborn College,10
+2011,H54 Hopwood Hall College,45
+2011,H60 University of Huddersfield,4235
+2011,H72 University of Hull,3335
+2011,H73 Hull College,520
+2011,H75 Hull York Medical School,130
+2011,I50 Imperial College London,2360
+2011,I55 The London Institute of Banking & Finance,20
+2011,I60 Islamic College for Advanced Studies,10
+2011,K12 Keele University,1985
+2011,K15 Kensington College of Business,5
+2011,K24 University of Kent,4170
+2011,"K60 King's College London, University of London",3735
+2011,K84 Kingston University,6020
+2011,K90 Kirklees College,115
+2011,L05 Lakes College West Cumbria,15
+2011,L14 Lancaster University,2795
+2011,L21 Leeds City College,75
+2011,L23 University of Leeds,6490
+2011,L24 Leeds Trinity University,850
+2011,L27 Leeds Beckett University,7570
+2011,L28 Leeds Arts University,375
+2011,L30 Leeds College of Music,290
+2011,L34 University of Leicester,2685
+2011,L36 Leicester College,65
+2011,L39 University of Lincoln,2965
+2011,L41 University of Liverpool,4055
+2011,L42 Lincoln College,35
+2011,L43 City of Liverpool College University Centre,100
+2011,L46 Liverpool Hope University,1465
+2011,L48 Liverpool Institute for Performing Arts,225
+2011,L51 Liverpool John Moores University,5130
+2011,L53 Grwp Llandrillo Menai,75
+2011,L62 London College,85
+2011,L68 London Metropolitan University,2835
+2011,L70 London School of Commerce,15
+2011,L71 London School of Science & Technology,5
+2011,"L72 London School of Economics and Political Science, University of London",1265
+2011,L75 London South Bank University,2555
+2011,L77 Loughborough College,255
+2011,L79 Loughborough University,3260
+2011,M10 UCEN Manchester (The Manchester College),435
+2011,M20 University of Manchester,7525
+2011,M40 Manchester Metropolitan University,7670
+2011,M62 Medway School of Pharmacy,140
+2011,M65 Coleg Menai,5
+2011,M77 Mid Cheshire College,5
+2011,M80 Middlesex University,4000
+2011,M93 Moulton College,95
+2011,M95 Mountview Academy of Theatre Arts,35
+2011,M99 University Centre Myerscough,340
+2011,N11 Nazarene Theological College,15
+2011,N13 NPTC Group,30
+2011,N21 Newcastle University,4200
+2011,N23 Newcastle College University Centre,1055
+2011,N28 New College Durham,45
+2011,N30 Nottingham College,225
+2011,N31 Newham College London,35
+2011,N33 New College Stamford,10
+2011,"N36 Newman University, Birmingham",525
+2011,"N37 University of South Wales (formerly University of Wales, Newport)",1135
+2011,N38 University of Northampton,2695
+2011,N39 Norwich University of the Arts,595
+2011,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),515
+2011,N49 NESCOT,25
+2011,N51 New College Telford,5
+2011,N58 North East Worcestershire College,95
+2011,N61 Glasgow Kelvin College,20
+2011,N64 DN Colleges Group,90
+2011,"N77 Northumbria University, Newcastle",5555
+2011,N79 North Warwickshire and South Leicestershire College,30
+2011,N82 City College Norwich,270
+2011,N84 University of Nottingham,6915
+2011,N91 Nottingham Trent University,6355
+2011,O33 University of Oxford,3220
+2011,O66 Oxford Brookes University,3600
+2011,P26 University of London Institute in Paris,50
+2011,P35 Pembrokeshire College,35
+2011,P37 Peninsula College of Medicine & Dentistry,305
+2011,P51 Petroc,100
+2011,P56 University Centre Peterborough,110
+2011,P60 University of Plymouth,5375
+2011,P63 Plymouth Marjon University (St Mark & St John),750
+2011,P65 Plymouth College of Art,270
+2011,P80 University of Portsmouth,4995
+2011,"Q25 Queen Margaret University, Edinburgh",915
+2011,Q50 Queen Mary University of London,2825
+2011,Q75 Queen's University Belfast,3530
+2011,R06 Ravensbourne University London,625
+2011,R12 University of Reading,2830
+2011,R18 Regent's University London,40
+2011,"R20 Richmond, The American International University in London",30
+2011,R36 Robert Gordon University,2285
+2011,R48 University of Roehampton,2055
+2011,R51 Rose Bruford College,210
+2011,R52 RNN Group,15
+2011,R54 Royal Agricultural University,320
+2011,R55 Royal Academy of Dance,50
+2011,"R72 Royal Holloway, University of London",2150
+2011,"R84 Royal Veterinary College, University of London",315
+2011,R86 Royal Welsh College of Music and Drama,55
+2011,S01 SRUC Scotland's Rural College,270
+2011,S03 University of Salford,4255
+2011,S05 SAE Institute,25
+2011,S09 SOAS University of London,755
+2011,S12 The School of Pharmacy (University of London),180
+2011,S18 University of Sheffield,4775
+2011,S21 Sheffield Hallam University,7530
+2011,S22 Sheffield College,115
+2011,S26 Solihull College & University Centre,130
+2011,S27 University of Southampton,4800
+2011,S28 Somerset College,175
+2011,S30 Solent University (Southampton),3540
+2011,S32 University Centre South Devon,35
+2011,S34 University Centre Sparsholt,160
+2011,S36 University of St Andrews,1470
+2011,S41 South Cheshire College,5
+2011,S42 Havant and South Downs College,10
+2011,S43 University Centre South Essex,315
+2011,"S46 South Nottingham College (Central College, Nottingham)",55
+2011,"S49 St George's, University of London",575
+2011,S51 University Centre St Helens,170
+2011,S52 South Tyneside College,30
+2011,"S64 St Mary's University, Twickenham",1175
+2011,S69 Stephenson College Coalville,15
+2011,S72 Staffordshire University,2540
+2011,S74 Stratford upon Avon College,15
+2011,S75 University of Stirling,1175
+2011,S76 Trafford College Group,195
+2011,S78 University of Strathclyde,2705
+2011,S79 Stranmillis University College,210
+2011,S82 University of Suffolk,1110
+2011,S84 University of Sunderland,2645
+2011,S85 University of Surrey,2275
+2011,S90 University of Sussex,2820
+2011,S93 Swansea University,2015
+2011,S94 Gower College Swansea (formerly Swansea College),5
+2011,S96 University of Wales Trinity Saint David (UWTSD Swansea),1110
+2011,S98 Swindon College,20
+2011,"T20 Teesside University, Middlesbrough",3055
+2011,T40 University of West London (formerly Thames Valley University),1760
+2011,T80 University of Wales Trinity Saint David,670
+2011,T85 Truro and Penwith College,400
+2011,T90 Tyne Coast College,10
+2011,U20 Ulster University,5000
+2011,U40 University of the West of Scotland,3465
+2011,U65 University of the Arts London,3850
+2011,U80 UCL (University College London),3595
+2011,U95 HCUC,5
+2011,W08 Wakefield College,80
+2011,W12 Walsall College,40
+2011,W20 University of Warwick,3765
+2011,W25 Warwickshire College Group,255
+2011,W35 University Centre West Anglia,85
+2011,W36 West Cheshire College,30
+2011,"W50 University of Westminster, London",3935
+2011,W51 United Colleges Group,5
+2011,W52 Westminster Kingsway College,10
+2011,W65 West Thames College,65
+2011,W73 Wirral Metropolitan College,60
+2011,W74 Wiltshire College and University Centre,50
+2011,W75 University of Wolverhampton,4050
+2011,W76 University of Winchester,1735
+2011,W80 University of Worcester,2335
+2011,W81 Worcester College of Technology,40
+2011,W85 Writtle University College,350
+2011,Y50 University of York,3485
+2011,Y70 York College,175
+2011,Y75 York St John University,1160
+2011,Y80 Yorkshire Coast College of Further and Higher Education,25
+2012,A20 University of Aberdeen,2705
+2012,A30 Abertay University,1010
+2012,A40 Aberystwyth University,2315
+2012,A44 Accrington and Rossendale College,50
+2012,"A45 College of Agriculture, Food and Rural Enterprise",165
+2012,A50 American InterContinental University - London,30
+2012,A60 Anglia Ruskin University,3190
+2012,A65 AECC University College,100
+2012,A66 Arts University Bournemouth,920
+2012,A70 Askham Bryan College,85
+2012,"A80 Aston University, Birmingham",1435
+2012,B06 Bangor University,2100
+2012,B11 Barking and Dagenham College,25
+2012,B15 Basingstoke College of Technology,10
+2012,B16 University of Bath,2860
+2012,B20 Bath Spa University,1755
+2012,B21 Bath College,5
+2012,B22 University of Bedfordshire,2700
+2012,B23 Bedford College Group,65
+2012,"B24 Birkbeck, University of London",410
+2012,B25 Birmingham City University,3955
+2012,B30 BMet (Birmingham Metropolitan College),45
+2012,B32 University of Birmingham,4760
+2012,B35 University College Birmingham,960
+2012,B37 Bishop Burton College,185
+2012,B38 Bishop Grosseteste University,495
+2012,B40 Blackburn College,535
+2012,B41 Blackpool and the Fylde College,630
+2012,B44 University of Bolton,825
+2012,B50 Bournemouth University,3260
+2012,B54 BPP University,480
+2012,B56 University of Bradford,1785
+2012,B60 Bradford College,610
+2012,B70 University Centre Somerset - Bridgwater & Taunton College,50
+2012,B72 University of Brighton,4120
+2012,B74 Brighton and Sussex Medical School,130
+2012,B77 City of Bristol College,140
+2012,B78 University of Bristol,4530
+2012,B79 Bristol Filton College,30
+2012,"B80 Bristol, University of the West of England",5555
+2012,B81 British College of Osteopathic Medicine,20
+2012,B83 Brooklands College,10
+2012,B84 Brunel University London,2170
+2012,B87 University College of Osteopathy,60
+2012,B90 University of Buckingham,140
+2012,B92 Brooksby Melton College,70
+2012,B94 Buckinghamshire New University,1870
+2012,C05 University of Cambridge,3390
+2012,C10 Canterbury Christ Church University,3085
+2012,C15 Cardiff University,4700
+2012,C20 Cardiff Metropolitan University,1720
+2012,C22 Coleg Sir Gar,75
+2012,C30 University of Central Lancashire,4230
+2012,"C35 Royal Central School of Speech and Drama, University of London",215
+2012,C55 University of Chester,2890
+2012,C57 Chichester College,55
+2012,C58 University of Chichester,1450
+2012,"C60 City, University of London",1960
+2012,"C62 City College, Birmingham",5
+2012,C64 Coventry College,20
+2012,C65 City and Islington College,10
+2012,C69 City of Sunderland College,35
+2012,C71 The Northern School of Art (formerly Cleveland College of Art and Design),195
+2012,C75 University Centre Colchester at Colchester Institute,270
+2012,C78 Cornwall College,300
+2012,"C80 Courtauld Institute of Art, University of London",50
+2012,C85 Coventry University,3810
+2012,C88 Craven College,50
+2012,C92 University Centre Croydon,140
+2012,C93 University for the Creative Arts,1535
+2012,C99 University of Cumbria,1540
+2012,D22 Dearne Valley College,60
+2012,D26 De Montfort University,3785
+2012,D39 University of Derby,2415
+2012,D52 Doncaster College and University Centre,255
+2012,D55 Duchy College,120
+2012,D58 Dudley College,10
+2012,D65 University of Dundee,1960
+2012,D86 Durham University,3885
+2012,E14 University of East Anglia UEA,2995
+2012,E28 University of East London,2150
+2012,E29 East Riding College,10
+2012,E30 Easton and Otley College,35
+2012,E32 East Surrey College,20
+2012,E41 Edge Hotel School,10
+2012,E42 Edge Hill University,2910
+2012,E56 University of Edinburgh,5150
+2012,E59 Edinburgh Napier University,2905
+2012,E70 University of Essex,2190
+2012,"E77 European Business School, London",100
+2012,E80 European School of Osteopathy,50
+2012,E81 Exeter College,55
+2012,E84 University of Exeter,3995
+2012,F33 Falmouth University,1270
+2012,F66 University Centre Farnborough,185
+2012,G14 University of South Wales (formerly University of Glamorgan),2780
+2012,G28 University of Glasgow,4115
+2012,G42 Glasgow Caledonian University,3280
+2012,G43 Glasgow School of Art,380
+2012,G45 Gloucestershire College,45
+2012,G50 University of Gloucestershire,1850
+2012,"G53 Glyndwr University, Wrexham",455
+2012,"G56 Goldsmiths, University of London",1610
+2012,G59 Gower College Swansea,10
+2012,G70 University of Greenwich,3055
+2012,G74 GSM London (formerly Greenwich School of Management),115
+2012,G80 University Centre Grimsby,285
+2012,G90 Guildford College,210
+2012,H12 Harper Adams University,700
+2012,H14 Havering College of Further and Higher Education,155
+2012,H18 Hereford College of Arts,90
+2012,H24 Heriot-Watt University,1605
+2012,H36 University of Hertfordshire,3740
+2012,H39 Highbury College,35
+2012,H48 Heythrop College (University of London),95
+2012,H49 University of the Highlands and Islands (UHI),270
+2012,H50 Holborn College,35
+2012,H54 Hopwood Hall College,30
+2012,H60 University of Huddersfield,4195
+2012,H72 University of Hull,2905
+2012,H73 Hull College,425
+2012,H75 Hull York Medical School,135
+2012,I50 Imperial College London,2180
+2012,I55 The London Institute of Banking & Finance,35
+2012,I60 Islamic College for Advanced Studies,10
+2012,K12 Keele University,1700
+2012,K24 University of Kent,4010
+2012,"K60 King's College London, University of London",4110
+2012,K83 Kingston College,85
+2012,K84 Kingston University,4445
+2012,K90 Kirklees College,105
+2012,L14 Lancaster University,2555
+2012,L17 The University of Law,80
+2012,L21 Leeds City College,180
+2012,L23 University of Leeds,5865
+2012,L24 Leeds Trinity University,720
+2012,L27 Leeds Beckett University,4755
+2012,L28 Leeds Arts University,365
+2012,L30 Leeds College of Music,310
+2012,L34 University of Leicester,2565
+2012,L36 Leicester College,70
+2012,L39 University of Lincoln,2660
+2012,L41 University of Liverpool,3365
+2012,L42 Lincoln College,45
+2012,L43 City of Liverpool College University Centre,70
+2012,L46 Liverpool Hope University,1195
+2012,L48 Liverpool Institute for Performing Arts,190
+2012,L51 Liverpool John Moores University,4625
+2012,L53 Grwp Llandrillo Menai,55
+2012,L62 London College,85
+2012,L63 ARU London,55
+2012,L68 London Metropolitan University,2025
+2012,"L72 London School of Economics and Political Science, University of London",1410
+2012,L75 London South Bank University,2425
+2012,L77 Loughborough College,240
+2012,L79 Loughborough University,3155
+2012,M10 UCEN Manchester (The Manchester College),470
+2012,M20 University of Manchester,6890
+2012,M40 Manchester Metropolitan University,6220
+2012,M62 Medway School of Pharmacy,90
+2012,M65 Coleg Menai,5
+2012,M77 Mid Cheshire College,5
+2012,M80 Middlesex University,3335
+2012,M93 Moulton College,85
+2012,M95 Mountview Academy of Theatre Arts,25
+2012,M99 University Centre Myerscough,305
+2012,N11 Nazarene Theological College,15
+2012,N13 NPTC Group,20
+2012,N21 Newcastle University,4230
+2012,N23 Newcastle College University Centre,1035
+2012,N28 New College Durham,80
+2012,N30 Nottingham College,245
+2012,N31 Newham College London,30
+2012,"N36 Newman University, Birmingham",430
+2012,"N37 University of South Wales (formerly University of Wales, Newport)",810
+2012,N38 University of Northampton,2435
+2012,N39 Norwich University of the Arts,585
+2012,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),400
+2012,N49 NESCOT,20
+2012,N58 North East Worcestershire College,80
+2012,N61 Glasgow Kelvin College,15
+2012,N64 DN Colleges Group,120
+2012,"N77 Northumbria University, Newcastle",5045
+2012,N79 North Warwickshire and South Leicestershire College,25
+2012,N82 City College Norwich,225
+2012,N84 University of Nottingham,6640
+2012,N91 Nottingham Trent University,5460
+2012,O25 Activate Learning,10
+2012,O33 University of Oxford,3250
+2012,O66 Oxford Brookes University,3205
+2012,P26 University of London Institute in Paris,45
+2012,P35 Pembrokeshire College,35
+2012,P37 Peninsula College of Medicine & Dentistry,240
+2012,P51 Petroc,100
+2012,P56 University Centre Peterborough,120
+2012,P60 University of Plymouth,4485
+2012,P63 Plymouth Marjon University (St Mark & St John),710
+2012,P65 Plymouth College of Art,335
+2012,P80 University of Portsmouth,4845
+2012,"Q25 Queen Margaret University, Edinburgh",995
+2012,Q50 Queen Mary University of London,2485
+2012,Q75 Queen's University Belfast,3660
+2012,R06 Ravensbourne University London,735
+2012,R12 University of Reading,2800
+2012,R18 Regent's University London,75
+2012,"R20 Richmond, The American International University in London",50
+2012,R21 Richmond Upon Thames College,20
+2012,R36 Robert Gordon University,2365
+2012,R48 University of Roehampton,1560
+2012,R51 Rose Bruford College,185
+2012,R52 RNN Group,25
+2012,R54 Royal Agricultural University,260
+2012,R55 Royal Academy of Dance,50
+2012,"R72 Royal Holloway, University of London",1815
+2012,"R84 Royal Veterinary College, University of London",355
+2012,R86 Royal Welsh College of Music and Drama,30
+2012,R90 Ruskin College,5
+2012,S01 SRUC Scotland's Rural College,225
+2012,S03 University of Salford,3275
+2012,S05 SAE Institute,90
+2012,S09 SOAS University of London,800
+2012,S18 University of Sheffield,4180
+2012,S21 Sheffield Hallam University,6270
+2012,S22 Sheffield College,120
+2012,S26 Solihull College & University Centre,95
+2012,S27 University of Southampton,3970
+2012,S28 Somerset College,160
+2012,S30 Solent University (Southampton),3080
+2012,S32 University Centre South Devon,20
+2012,S34 University Centre Sparsholt,145
+2012,S36 University of St Andrews,1380
+2012,S41 South Cheshire College,5
+2012,S42 Havant and South Downs College,10
+2012,S43 University Centre South Essex,295
+2012,"S46 South Nottingham College (Central College, Nottingham)",65
+2012,"S49 St George's, University of London",565
+2012,S51 University Centre St Helens,135
+2012,S52 South Tyneside College,5
+2012,"S64 St Mary's University, Twickenham",1185
+2012,S69 Stephenson College Coalville,10
+2012,S72 Staffordshire University,2820
+2012,S74 Stratford upon Avon College,30
+2012,S75 University of Stirling,1695
+2012,S76 Trafford College Group,115
+2012,S77 Stourbridge College,25
+2012,S78 University of Strathclyde,2715
+2012,S79 Stranmillis University College,205
+2012,S82 University of Suffolk,955
+2012,S84 University of Sunderland,2090
+2012,S85 University of Surrey,1800
+2012,S90 University of Sussex,2670
+2012,S93 Swansea University,1985
+2012,S96 University of Wales Trinity Saint David (UWTSD Swansea),1000
+2012,S98 Swindon College,40
+2012,"T20 Teesside University, Middlesbrough",2885
+2012,T60 Tottenham Hotspur Foundation,10
+2012,T80 University of Wales Trinity Saint David,590
+2012,T85 Truro and Penwith College,295
+2012,T90 Tyne Coast College,20
+2012,U20 Ulster University,5155
+2012,U40 University of the West of Scotland,3295
+2012,U65 University of the Arts London,3615
+2012,U80 UCL (University College London),4335
+2012,W05 University of West London,1630
+2012,W08 Wakefield College,70
+2012,W12 Walsall College,30
+2012,W20 University of Warwick,3630
+2012,W25 Warwickshire College Group,180
+2012,W35 University Centre West Anglia,85
+2012,W36 West Cheshire College,10
+2012,"W50 University of Westminster, London",3185
+2012,W51 United Colleges Group,10
+2012,W52 Westminster Kingsway College,5
+2012,W65 West Thames College,80
+2012,W67 Wigan and Leigh College,130
+2012,W73 Wirral Metropolitan College,65
+2012,W74 Wiltshire College and University Centre,80
+2012,W75 University of Wolverhampton,3605
+2012,W76 University of Winchester,1805
+2012,W80 University of Worcester,2135
+2012,W81 Worcester College of Technology,5
+2012,W85 Writtle University College,235
+2012,Y50 University of York,3365
+2012,Y70 York College,145
+2012,Y75 York St John University,1430
+2012,Y80 Yorkshire Coast College of Further and Higher Education,15
+2013,A20 University of Aberdeen,1470
+2013,A30 Abertay University,960
+2013,A40 Aberystwyth University,2170
+2013,A44 Accrington and Rossendale College,60
+2013,"A45 College of Agriculture, Food and Rural Enterprise",155
+2013,A50 American InterContinental University - London,25
+2013,A55 Buckinghamshire College Group,25
+2013,A60 Anglia Ruskin University,2905
+2013,A65 AECC University College,100
+2013,A66 Arts University Bournemouth,1060
+2013,A70 Askham Bryan College,175
+2013,"A80 Aston University, Birmingham",2050
+2013,B06 Bangor University,2050
+2013,B08 Barnet and Southgate College,5
+2013,"B09 Barnfield College, Luton",70
+2013,B11 Barking and Dagenham College,45
+2013,B15 Basingstoke College of Technology,5
+2013,B16 University of Bath,2995
+2013,B20 Bath Spa University,1780
+2013,B21 Bath College,10
+2013,B22 University of Bedfordshire,2120
+2013,B23 Bedford College Group,110
+2013,"B24 Birkbeck, University of London",610
+2013,B25 Birmingham City University,4625
+2013,B30 BMet (Birmingham Metropolitan College),50
+2013,B32 University of Birmingham,5475
+2013,B35 University College Birmingham,1000
+2013,B36 Bexley College,25
+2013,B37 Bishop Burton College,200
+2013,B38 Bishop Grosseteste University,540
+2013,B39 BIMM Institute,870
+2013,B40 Blackburn College,530
+2013,B41 Blackpool and the Fylde College,575
+2013,B44 University of Bolton,855
+2013,B48 Bournville College,25
+2013,B49 Bournemouth and Poole College,105
+2013,B50 Bournemouth University,3885
+2013,B54 BPP University,420
+2013,B56 University of Bradford,2075
+2013,B60 Bradford College,560
+2013,B70 University Centre Somerset - Bridgwater & Taunton College,75
+2013,B72 University of Brighton,3860
+2013,B74 Brighton and Sussex Medical School,130
+2013,B77 City of Bristol College,130
+2013,B78 University of Bristol,4700
+2013,"B80 Bristol, University of the West of England",5845
+2013,B81 British College of Osteopathic Medicine,20
+2013,B83 Brooklands College,15
+2013,B84 Brunel University London,2405
+2013,B87 University College of Osteopathy,45
+2013,B90 University of Buckingham,105
+2013,B92 Brooksby Melton College,75
+2013,B94 Buckinghamshire New University,1870
+2013,B97 London South East Colleges (Bromley College),15
+2013,C05 University of Cambridge,3340
+2013,C06 Cambridge School of Visual and Performing Arts,10
+2013,C10 Canterbury Christ Church University,3180
+2013,C12 EKC Group,90
+2013,C15 Cardiff University,5320
+2013,C20 Cardiff Metropolitan University,2000
+2013,C22 Coleg Sir Gar,80
+2013,C24 Carshalton College,50
+2013,C30 University of Central Lancashire,4270
+2013,"C35 Royal Central School of Speech and Drama, University of London",225
+2013,C55 University of Chester,2905
+2013,C57 Chichester College,65
+2013,C58 University of Chichester,1370
+2013,"C60 City, University of London",2170
+2013,C65 City and Islington College,30
+2013,C69 City of Sunderland College,35
+2013,C70 City College Brighton and Hove,45
+2013,C71 The Northern School of Art (formerly Cleveland College of Art and Design),180
+2013,C75 University Centre Colchester at Colchester Institute,255
+2013,C78 Cornwall College,235
+2013,"C80 Courtauld Institute of Art, University of London",45
+2013,C85 Coventry University,4630
+2013,C88 Craven College,85
+2013,C92 University Centre Croydon,120
+2013,C93 University for the Creative Arts,1530
+2013,C99 University of Cumbria,1535
+2013,D22 Dearne Valley College,60
+2013,D26 De Montfort University,4075
+2013,D38 Derby College,5
+2013,D39 University of Derby,2715
+2013,D52 Doncaster College and University Centre,210
+2013,D55 Duchy College,140
+2013,D58 Dudley College,35
+2013,D65 University of Dundee,2015
+2013,D86 Durham University,3855
+2013,E14 University of East Anglia UEA,2945
+2013,E28 University of East London,1910
+2013,E29 East Riding College,25
+2013,E30 Easton and Otley College,65
+2013,E32 East Surrey College,25
+2013,E41 Edge Hotel School,15
+2013,E42 Edge Hill University,2970
+2013,E56 University of Edinburgh,5250
+2013,E59 Edinburgh Napier University,2645
+2013,E70 University of Essex,2350
+2013,"E77 European Business School, London",55
+2013,E80 European School of Osteopathy,45
+2013,E81 Exeter College,105
+2013,E84 University of Exeter,5345
+2013,F33 Falmouth University,1260
+2013,F50 Fareham College,5
+2013,F66 University Centre Farnborough,140
+2013,G09 Gateshead College,65
+2013,G14 University of South Wales (formerly University of Glamorgan),3065
+2013,G28 University of Glasgow,4690
+2013,G42 Glasgow Caledonian University,3520
+2013,G43 Glasgow School of Art,355
+2013,G45 Gloucestershire College,65
+2013,G50 University of Gloucestershire,1880
+2013,"G53 Glyndwr University, Wrexham",545
+2013,"G56 Goldsmiths, University of London",1600
+2013,G59 Gower College Swansea,5
+2013,G70 University of Greenwich,3795
+2013,G74 GSM London (formerly Greenwich School of Management),135
+2013,G80 University Centre Grimsby,420
+2013,G90 Guildford College,165
+2013,H03 University Centre Hadlow,25
+2013,"H08 College of Haringey, Enfield and North East London",5
+2013,H11 Harrow College,5
+2013,H12 Harper Adams University,625
+2013,H14 Havering College of Further and Higher Education,90
+2013,H18 Hereford College of Arts,125
+2013,H21 Henley College Coventry,5
+2013,H24 Heriot-Watt University,1880
+2013,H36 University of Hertfordshire,3940
+2013,H39 Highbury College,25
+2013,H48 Heythrop College (University of London),130
+2013,H49 University of the Highlands and Islands (UHI),435
+2013,H50 Holborn College,5
+2013,H54 Hopwood Hall College,5
+2013,H60 University of Huddersfield,3620
+2013,H65 Hugh Baird College,20
+2013,H72 University of Hull,2830
+2013,H73 Hull College,380
+2013,H75 Hull York Medical School,125
+2013,I30 UCL Institute of Education,75
+2013,I35 Istituto Marangoni London,45
+2013,I50 Imperial College London,2370
+2013,I55 The London Institute of Banking & Finance,55
+2013,I60 Islamic College for Advanced Studies,10
+2013,K01 University Centre West Kent,35
+2013,K05 Kaplan Holborn College,30
+2013,K12 Keele University,1715
+2013,K24 University of Kent,4290
+2013,"K60 King's College London, University of London",4160
+2013,K83 Kingston College,105
+2013,K84 Kingston University,4330
+2013,K85 Kingston Maurward College,35
+2013,K90 Kirklees College,115
+2013,L05 Lakes College West Cumbria,5
+2013,L14 Lancaster University,2670
+2013,L17 The University of Law,150
+2013,L21 Leeds City College,145
+2013,L23 University of Leeds,6160
+2013,L24 Leeds Trinity University,885
+2013,L27 Leeds Beckett University,5135
+2013,L28 Leeds Arts University,410
+2013,L30 Leeds College of Music,330
+2013,L32 Leeds College of Building,15
+2013,L34 University of Leicester,2455
+2013,L36 Leicester College,80
+2013,L39 University of Lincoln,3170
+2013,L41 University of Liverpool,3925
+2013,L42 Lincoln College,100
+2013,L43 City of Liverpool College University Centre,85
+2013,L46 Liverpool Hope University,1050
+2013,L48 Liverpool Institute for Performing Arts,195
+2013,L51 Liverpool John Moores University,5235
+2013,L53 Grwp Llandrillo Menai,60
+2013,L62 London College,70
+2013,L63 ARU London,35
+2013,L68 London Metropolitan University,2040
+2013,"L72 London School of Economics and Political Science, University of London",1420
+2013,L75 London South Bank University,2395
+2013,L77 Loughborough College,325
+2013,L79 Loughborough University,3945
+2013,M05 Macclesfield College,5
+2013,M10 UCEN Manchester (The Manchester College),550
+2013,M20 University of Manchester,7510
+2013,M40 Manchester Metropolitan University,7945
+2013,M62 Medway School of Pharmacy,80
+2013,M80 Middlesex University,3270
+2013,M87 MidKent College,50
+2013,M89 Milton Keynes College,15
+2013,M93 Moulton College,115
+2013,M95 Mountview Academy of Theatre Arts,30
+2013,M99 University Centre Myerscough,265
+2013,N11 Nazarene Theological College,5
+2013,N13 NPTC Group,35
+2013,N21 Newcastle University,4765
+2013,N23 Newcastle College University Centre,1135
+2013,N28 New College Durham,40
+2013,N30 Nottingham College,270
+2013,N31 Newham College London,15
+2013,"N36 Newman University, Birmingham",545
+2013,"N37 University of South Wales (formerly University of Wales, Newport)",705
+2013,N38 University of Northampton,2635
+2013,N39 Norwich University of the Arts,610
+2013,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),330
+2013,N49 NESCOT,15
+2013,N52 Norland College,70
+2013,N58 North East Worcestershire College,60
+2013,N64 DN Colleges Group,155
+2013,"N77 Northumbria University, Newcastle",5865
+2013,N79 North Warwickshire and South Leicestershire College,35
+2013,N81 Norton Radstock College,5
+2013,N82 City College Norwich,230
+2013,N84 University of Nottingham,6360
+2013,N91 Nottingham Trent University,6160
+2013,O10 University Campus Oldham,105
+2013,O25 Activate Learning,35
+2013,O33 University of Oxford,3210
+2013,O66 Oxford Brookes University,3865
+2013,P26 University of London Institute in Paris,30
+2013,P34 Pearson College London (including Escape Studios),50
+2013,P35 Pembrokeshire College,20
+2013,P51 Petroc,100
+2013,P56 University Centre Peterborough,140
+2013,P59 Plumpton College,85
+2013,P60 University of Plymouth,4570
+2013,P63 Plymouth Marjon University (St Mark & St John),785
+2013,P65 Plymouth College of Art,335
+2013,P80 University of Portsmouth,4890
+2013,"Q25 Queen Margaret University, Edinburgh",825
+2013,Q50 Queen Mary University of London,3190
+2013,Q75 Queen's University Belfast,4245
+2013,R06 Ravensbourne University London,740
+2013,R12 University of Reading,2880
+2013,R14 University Centre Reaseheath,110
+2013,R18 Regent's University London,85
+2013,"R20 Richmond, The American International University in London",90
+2013,R36 Robert Gordon University,2370
+2013,R48 University of Roehampton,1750
+2013,R51 Rose Bruford College,195
+2013,R52 RNN Group,20
+2013,R54 Royal Agricultural University,305
+2013,R55 Royal Academy of Dance,30
+2013,"R72 Royal Holloway, University of London",1930
+2013,"R84 Royal Veterinary College, University of London",295
+2013,R86 Royal Welsh College of Music and Drama,40
+2013,R90 Ruskin College,10
+2013,S01 SRUC Scotland's Rural College,260
+2013,S03 University of Salford,3500
+2013,S05 SAE Institute,125
+2013,S08 Sandwell College of Further and Higher Education,10
+2013,S09 SOAS University of London,805
+2013,S18 University of Sheffield,5000
+2013,S20 South and City College Birmingham,10
+2013,S21 Sheffield Hallam University,6230
+2013,S22 Sheffield College,135
+2013,S26 Solihull College & University Centre,100
+2013,S27 University of Southampton,4890
+2013,S28 Somerset College,120
+2013,S30 Solent University (Southampton),2825
+2013,S32 University Centre South Devon,125
+2013,S34 University Centre Sparsholt,150
+2013,S36 University of St Andrews,1565
+2013,S41 South Cheshire College,5
+2013,S43 University Centre South Essex,300
+2013,"S46 South Nottingham College (Central College, Nottingham)",55
+2013,"S49 St George's, University of London",495
+2013,S51 University Centre St Helens,160
+2013,S52 South Tyneside College,10
+2013,S55 South Gloucestershire and Stroud College,15
+2013,S62 St Mary's College Blackburn,15
+2013,"S64 St Mary's University, Twickenham",1130
+2013,S72 Staffordshire University,2680
+2013,S74 Stratford upon Avon College,35
+2013,S75 University of Stirling,2300
+2013,S76 Trafford College Group,90
+2013,S77 Stourbridge College,5
+2013,S78 University of Strathclyde,2970
+2013,S79 Stranmillis University College,240
+2013,S82 University of Suffolk,1005
+2013,S84 University of Sunderland,2300
+2013,S85 University of Surrey,2445
+2013,S89 Sussex Downs College,80
+2013,S90 University of Sussex,2800
+2013,S93 Swansea University,2860
+2013,S96 University of Wales Trinity Saint David (UWTSD Swansea),805
+2013,S98 Swindon College,65
+2013,T15 BIMM London,445
+2013,"T20 Teesside University, Middlesbrough",2950
+2013,T60 Tottenham Hotspur Foundation,30
+2013,T80 University of Wales Trinity Saint David,570
+2013,T85 Truro and Penwith College,300
+2013,T90 Tyne Coast College,10
+2013,U20 Ulster University,5365
+2013,U40 University of the West of Scotland,3225
+2013,U65 University of the Arts London,3890
+2013,U80 UCL (University College London),4805
+2013,W05 University of West London,1935
+2013,W08 Wakefield College,60
+2013,W12 Walsall College,70
+2013,W20 University of Warwick,3920
+2013,W25 Warwickshire College Group,215
+2013,W35 University Centre West Anglia,95
+2013,W36 West Cheshire College,25
+2013,W47 University Centre Weston,70
+2013,"W50 University of Westminster, London",4135
+2013,W51 United Colleges Group,40
+2013,W65 West Thames College,65
+2013,W66 Weymouth College,5
+2013,W67 Wigan and Leigh College,135
+2013,W73 Wirral Metropolitan College,35
+2013,W74 Wiltshire College and University Centre,120
+2013,W75 University of Wolverhampton,3475
+2013,W76 University of Winchester,1895
+2013,W80 University of Worcester,2405
+2013,W81 Worcester College of Technology,20
+2013,W85 Writtle University College,245
+2013,Y25 Yeovil College University Centre,45
+2013,Y50 University of York,3485
+2013,Y70 York College,175
+2013,Y75 York St John University,1585
+2013,Y80 Yorkshire Coast College of Further and Higher Education,15
+2014,A20 University of Aberdeen,2565
+2014,A30 Abertay University,910
+2014,A40 Aberystwyth University,1910
+2014,A43 Access to Music,10
+2014,A44 Accrington and Rossendale College,50
+2014,"A45 College of Agriculture, Food and Rural Enterprise",170
+2014,A48 ACM (The Academy of Contemporary Music),265
+2014,A55 Buckinghamshire College Group,5
+2014,A60 Anglia Ruskin University,3120
+2014,A65 AECC University College,95
+2014,A66 Arts University Bournemouth,990
+2014,A70 Askham Bryan College,140
+2014,"A80 Aston University, Birmingham",1905
+2014,B06 Bangor University,2160
+2014,"B09 Barnfield College, Luton",45
+2014,B11 Barking and Dagenham College,45
+2014,B13 Barnsley College Higher Education,110
+2014,B15 Basingstoke College of Technology,25
+2014,B16 University of Bath,3255
+2014,B20 Bath Spa University,1940
+2014,B21 Bath College,5
+2014,B22 University of Bedfordshire,2110
+2014,B23 Bedford College Group,80
+2014,"B24 Birkbeck, University of London",690
+2014,B25 Birmingham City University,5145
+2014,B30 BMet (Birmingham Metropolitan College),75
+2014,B32 University of Birmingham,5925
+2014,B35 University College Birmingham,990
+2014,B36 Bexley College,30
+2014,B37 Bishop Burton College,215
+2014,B38 Bishop Grosseteste University,645
+2014,B39 BIMM Institute,1075
+2014,B40 Blackburn College,490
+2014,B41 Blackpool and the Fylde College,535
+2014,B42 Berkshire College of Agriculture,5
+2014,B44 University of Bolton,825
+2014,B48 Bournville College,50
+2014,B49 Bournemouth and Poole College,145
+2014,B50 Bournemouth University,4130
+2014,B54 BPP University,540
+2014,B56 University of Bradford,1915
+2014,B60 Bradford College,495
+2014,B70 University Centre Somerset - Bridgwater & Taunton College,90
+2014,B72 University of Brighton,4055
+2014,B74 Brighton and Sussex Medical School,115
+2014,B76 City College Brighton & Hove,75
+2014,B77 City of Bristol College,115
+2014,B78 University of Bristol,4980
+2014,"B80 Bristol, University of the West of England",5645
+2014,B81 British College of Osteopathic Medicine,30
+2014,B83 Brooklands College,10
+2014,B84 Brunel University London,2070
+2014,B87 University College of Osteopathy,70
+2014,B90 University of Buckingham,80
+2014,B92 Brooksby Melton College,70
+2014,B93 Bury College,35
+2014,B94 Buckinghamshire New University,1910
+2014,B97 London South East Colleges (Bromley College),45
+2014,C02 University Centre Calderdale College,20
+2014,C05 University of Cambridge,3420
+2014,C06 Cambridge School of Visual and Performing Arts,5
+2014,C10 Canterbury Christ Church University,3165
+2014,C12 EKC Group,90
+2014,C15 Cardiff University,5265
+2014,C20 Cardiff Metropolitan University,2400
+2014,C22 Coleg Sir Gar,80
+2014,C24 Carshalton College,75
+2014,C30 University of Central Lancashire,4680
+2014,C32 Central College Nottingham (formerly South Nottingham College),70
+2014,C34 Central Film School London,20
+2014,"C35 Royal Central School of Speech and Drama, University of London",220
+2014,C55 University of Chester,3195
+2014,C56 Chesterfield College,80
+2014,C57 Chichester College,80
+2014,C58 University of Chichester,1405
+2014,"C60 City, University of London",2270
+2014,C64 Coventry College,5
+2014,C65 City and Islington College,25
+2014,C69 City of Sunderland College,45
+2014,C71 The Northern School of Art (formerly Cleveland College of Art and Design),200
+2014,C72 Cliff College,5
+2014,C75 University Centre Colchester at Colchester Institute,235
+2014,C78 Cornwall College,295
+2014,"C80 Courtauld Institute of Art, University of London",50
+2014,C85 Coventry University,5170
+2014,C88 Craven College,70
+2014,C92 University Centre Croydon,110
+2014,C93 University for the Creative Arts,1220
+2014,C99 University of Cumbria,1555
+2014,D22 Dearne Valley College,30
+2014,D26 De Montfort University,4020
+2014,D38 Derby College,10
+2014,D39 University of Derby,2945
+2014,D52 Doncaster College and University Centre,215
+2014,D55 Duchy College,110
+2014,D58 Dudley College,20
+2014,D65 University of Dundee,2255
+2014,D86 Durham University,4010
+2014,"E10 Ealing, Hammersmith and West London College",5
+2014,E14 University of East Anglia UEA,2795
+2014,E28 University of East London,2365
+2014,E29 East Riding College,10
+2014,E30 Easton and Otley College,60
+2014,E32 East Surrey College,20
+2014,E41 Edge Hotel School,20
+2014,E42 Edge Hill University,3140
+2014,E56 University of Edinburgh,5455
+2014,E59 Edinburgh Napier University,3010
+2014,E70 University of Essex,2495
+2014,E80 European School of Osteopathy,40
+2014,E81 Exeter College,50
+2014,E84 University of Exeter,5465
+2014,F33 Falmouth University,1655
+2014,F66 University Centre Farnborough,150
+2014,G09 Gateshead College,60
+2014,G28 University of Glasgow,4005
+2014,G42 Glasgow Caledonian University,3625
+2014,G43 Glasgow School of Art,385
+2014,G45 Gloucestershire College,70
+2014,G50 University of Gloucestershire,1910
+2014,"G53 Glyndwr University, Wrexham",595
+2014,"G56 Goldsmiths, University of London",1755
+2014,G70 University of Greenwich,4000
+2014,G74 GSM London (formerly Greenwich School of Management),125
+2014,G80 University Centre Grimsby,480
+2014,G90 Guildford College,165
+2014,H03 University Centre Hadlow,30
+2014,H07 Harrogate College,35
+2014,"H08 College of Haringey, Enfield and North East London",10
+2014,H11 Harrow College,10
+2014,H12 Harper Adams University,595
+2014,H14 Havering College of Further and Higher Education,100
+2014,H18 Hereford College of Arts,100
+2014,H21 Henley College Coventry,15
+2014,H22 Hartpury University,490
+2014,H24 Heriot-Watt University,1560
+2014,H36 University of Hertfordshire,3945
+2014,H37 Hertford Regional College,15
+2014,H39 Highbury College,20
+2014,H48 Heythrop College (University of London),100
+2014,H49 University of the Highlands and Islands (UHI),550
+2014,H51 Holy Cross Sixth Form College and University Centre,75
+2014,H54 Hopwood Hall College,5
+2014,H60 University of Huddersfield,3700
+2014,H65 Hugh Baird College,75
+2014,H72 University of Hull,2870
+2014,H73 Hull College,320
+2014,H75 Hull York Medical School,115
+2014,I30 UCL Institute of Education,70
+2014,I35 Istituto Marangoni London,75
+2014,I50 Imperial College London,2495
+2014,I55 The London Institute of Banking & Finance,50
+2014,I60 Islamic College for Advanced Studies,5
+2014,K01 University Centre West Kent,30
+2014,K05 Kaplan Holborn College,30
+2014,K12 Keele University,2005
+2014,K24 University of Kent,4015
+2014,"K60 King's College London, University of London",4770
+2014,K83 Kingston College,100
+2014,K84 Kingston University,4190
+2014,K85 Kingston Maurward College,40
+2014,K90 Kirklees College,120
+2014,L01 Lewisham Southwark College,10
+2014,L14 Lancaster University,2380
+2014,L17 The University of Law,195
+2014,L21 Leeds City College,150
+2014,L23 University of Leeds,6410
+2014,L24 Leeds Trinity University,880
+2014,L27 Leeds Beckett University,5415
+2014,L28 Leeds Arts University,410
+2014,L30 Leeds College of Music,365
+2014,L32 Leeds College of Building,10
+2014,L34 University of Leicester,2680
+2014,L36 Leicester College,100
+2014,L39 University of Lincoln,2970
+2014,L41 University of Liverpool,4420
+2014,L42 Lincoln College,80
+2014,L43 City of Liverpool College University Centre,60
+2014,L46 Liverpool Hope University,1230
+2014,L48 Liverpool Institute for Performing Arts,160
+2014,L51 Liverpool John Moores University,5485
+2014,L53 Grwp Llandrillo Menai,65
+2014,L62 London College,40
+2014,L63 ARU London,30
+2014,L68 London Metropolitan University,1880
+2014,"L72 London School of Economics and Political Science, University of London",1675
+2014,L75 London South Bank University,2460
+2014,L77 Loughborough College,330
+2014,L79 Loughborough University,3290
+2014,M05 Macclesfield College,10
+2014,M10 UCEN Manchester (The Manchester College),480
+2014,M20 University of Manchester,7865
+2014,M40 Manchester Metropolitan University,7810
+2014,M62 Medway School of Pharmacy,85
+2014,M65 Coleg Menai,5
+2014,M80 Middlesex University,2935
+2014,M87 MidKent College,45
+2014,M89 Milton Keynes College,10
+2014,M93 Moulton College,60
+2014,M95 Mountview Academy of Theatre Arts,20
+2014,M99 University Centre Myerscough,300
+2014,N11 Nazarene Theological College,10
+2014,N13 NPTC Group,35
+2014,N21 Newcastle University,4680
+2014,N23 Newcastle College University Centre,940
+2014,N28 New College Durham,70
+2014,N30 Nottingham College,220
+2014,N31 Newham College London,25
+2014,N33 New College Stamford,5
+2014,"N36 Newman University, Birmingham",555
+2014,N38 University of Northampton,2700
+2014,N39 Norwich University of the Arts,695
+2014,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),280
+2014,N49 NESCOT,15
+2014,N51 New College Telford,5
+2014,N52 Norland College,70
+2014,N58 North East Worcestershire College,60
+2014,N64 DN Colleges Group,180
+2014,"N77 Northumbria University, Newcastle",5270
+2014,N79 North Warwickshire and South Leicestershire College,45
+2014,N81 Norton Radstock College,15
+2014,N82 City College Norwich,230
+2014,N84 University of Nottingham,6325
+2014,N85 North Kent College,55
+2014,N91 Nottingham Trent University,6955
+2014,O10 University Campus Oldham,105
+2014,O12 Oaklands College,10
+2014,O25 Activate Learning,25
+2014,O33 University of Oxford,3165
+2014,O66 Oxford Brookes University,3615
+2014,P26 University of London Institute in Paris,30
+2014,P34 Pearson College London (including Escape Studios),40
+2014,P35 Pembrokeshire College,15
+2014,P51 Petroc,110
+2014,P56 University Centre Peterborough,145
+2014,P59 Plumpton College,100
+2014,P60 University of Plymouth,4820
+2014,P63 Plymouth Marjon University (St Mark & St John),715
+2014,P65 Plymouth College of Art,360
+2014,P80 University of Portsmouth,5385
+2014,"Q25 Queen Margaret University, Edinburgh",815
+2014,Q50 Queen Mary University of London,3210
+2014,Q75 Queen's University Belfast,4200
+2014,R06 Ravensbourne University London,755
+2014,R12 University of Reading,3270
+2014,R14 University Centre Reaseheath,95
+2014,R18 Regent's University London,145
+2014,"R20 Richmond, The American International University in London",105
+2014,R36 Robert Gordon University,2230
+2014,R48 University of Roehampton,2005
+2014,R51 Rose Bruford College,180
+2014,R52 RNN Group,10
+2014,R54 Royal Agricultural University,310
+2014,R55 Royal Academy of Dance,45
+2014,"R72 Royal Holloway, University of London",2335
+2014,"R84 Royal Veterinary College, University of London",355
+2014,R86 Royal Welsh College of Music and Drama,45
+2014,R90 Ruskin College,5
+2014,S01 SRUC Scotland's Rural College,270
+2014,S03 University of Salford,3780
+2014,S05 SAE Institute,200
+2014,S09 SOAS University of London,750
+2014,S18 University of Sheffield,4950
+2014,S20 South and City College Birmingham,35
+2014,S21 Sheffield Hallam University,6790
+2014,S22 Sheffield College,155
+2014,S26 Solihull College & University Centre,90
+2014,S27 University of Southampton,4410
+2014,S28 Somerset College,65
+2014,S30 Solent University (Southampton),3030
+2014,S32 University Centre South Devon,175
+2014,S34 University Centre Sparsholt,130
+2014,S36 University of St Andrews,1955
+2014,S42 Havant and South Downs College,10
+2014,S43 University Centre South Essex,270
+2014,"S49 St George's, University of London",545
+2014,S51 University Centre St Helens,135
+2014,S52 South Tyneside College,15
+2014,S55 South Gloucestershire and Stroud College,45
+2014,S62 St Mary's College Blackburn,5
+2014,"S64 St Mary's University, Twickenham",1260
+2014,S72 Staffordshire University,2455
+2014,S74 Stratford upon Avon College,10
+2014,S75 University of Stirling,2295
+2014,S76 Trafford College Group,85
+2014,S78 University of Strathclyde,3295
+2014,S79 Stranmillis University College,230
+2014,S82 University of Suffolk,965
+2014,S84 University of Sunderland,2185
+2014,S85 University of Surrey,2960
+2014,S89 Sussex Downs College,115
+2014,S90 University of Sussex,2745
+2014,S93 Swansea University,3215
+2014,S96 University of Wales Trinity Saint David (UWTSD Swansea),725
+2014,S98 Swindon College,35
+2014,T15 BIMM London,520
+2014,"T20 Teesside University, Middlesbrough",2935
+2014,T60 Tottenham Hotspur Foundation,30
+2014,T70 Tresham College,10
+2014,T80 University of Wales Trinity Saint David,590
+2014,T85 Truro and Penwith College,305
+2014,T90 Tyne Coast College,15
+2014,U20 Ulster University,5265
+2014,U40 University of the West of Scotland,3090
+2014,U65 University of the Arts London,4190
+2014,U80 UCL (University College London),4915
+2014,U95 HCUC,5
+2014,W01 University of South Wales,3555
+2014,W05 University of West London,1860
+2014,W08 Wakefield College,100
+2014,W12 Walsall College,105
+2014,W20 University of Warwick,3830
+2014,W25 Warwickshire College Group,275
+2014,W35 University Centre West Anglia,80
+2014,W36 West Cheshire College,10
+2014,W40 West Herts College,15
+2014,W47 University Centre Weston,105
+2014,"W50 University of Westminster, London",4405
+2014,W51 United Colleges Group,20
+2014,W52 Westminster Kingsway College,10
+2014,W65 West Thames College,75
+2014,W66 Weymouth College,10
+2014,W67 Wigan and Leigh College,80
+2014,W73 Wirral Metropolitan College,40
+2014,W74 Wiltshire College and University Centre,100
+2014,W75 University of Wolverhampton,3860
+2014,W76 University of Winchester,1960
+2014,W80 University of Worcester,2215
+2014,W81 Worcester College of Technology,60
+2014,W85 Writtle University College,275
+2014,Y25 Yeovil College University Centre,50
+2014,Y50 University of York,3445
+2014,Y70 York College,160
+2014,Y75 York St John University,1530
+2015,A20 University of Aberdeen,2705
+2015,A30 Abertay University,910
+2015,A40 Aberystwyth University,1820
+2015,A43 Access to Music,10
+2015,A44 Accrington and Rossendale College,15
+2015,"A45 College of Agriculture, Food and Rural Enterprise",155
+2015,A48 ACM (The Academy of Contemporary Music),535
+2015,A60 Anglia Ruskin University,2875
+2015,A65 AECC University College,130
+2015,A66 Arts University Bournemouth,1255
+2015,A70 Askham Bryan College,230
+2015,"A80 Aston University, Birmingham",2485
+2015,B06 Bangor University,2250
+2015,"B09 Barnfield College, Luton",15
+2015,B11 Barking and Dagenham College,40
+2015,B13 Barnsley College Higher Education,125
+2015,B15 Basingstoke College of Technology,15
+2015,B16 University of Bath,3585
+2015,B20 Bath Spa University,2330
+2015,B21 Bath College,10
+2015,B22 University of Bedfordshire,1915
+2015,B23 Bedford College Group,75
+2015,"B24 Birkbeck, University of London",755
+2015,B25 Birmingham City University,4895
+2015,B30 BMet (Birmingham Metropolitan College),55
+2015,B32 University of Birmingham,6150
+2015,B35 University College Birmingham,1260
+2015,B36 Bexley College,25
+2015,B37 Bishop Burton College,230
+2015,B38 Bishop Grosseteste University,670
+2015,B39 BIMM Institute,1325
+2015,B40 Blackburn College,310
+2015,B41 Blackpool and the Fylde College,465
+2015,B44 University of Bolton,1000
+2015,B48 Bournville College,20
+2015,B49 Bournemouth and Poole College,135
+2015,B50 Bournemouth University,4100
+2015,B54 BPP University,470
+2015,B56 University of Bradford,1910
+2015,B60 Bradford College,435
+2015,B70 University Centre Somerset - Bridgwater & Taunton College,85
+2015,B72 University of Brighton,4540
+2015,B74 Brighton and Sussex Medical School,135
+2015,B76 City College Brighton & Hove,50
+2015,B77 City of Bristol College,110
+2015,B78 University of Bristol,5185
+2015,"B80 Bristol, University of the West of England",5375
+2015,B81 British College of Osteopathic Medicine,30
+2015,B84 Brunel University London,2105
+2015,B87 University College of Osteopathy,55
+2015,B90 University of Buckingham,80
+2015,B92 Brooksby Melton College,80
+2015,B93 Bury College,60
+2015,B94 Buckinghamshire New University,1990
+2015,B97 London South East Colleges (Bromley College),40
+2015,C02 University Centre Calderdale College,20
+2015,C05 University of Cambridge,3415
+2015,C06 Cambridge School of Visual and Performing Arts,5
+2015,C10 Canterbury Christ Church University,2995
+2015,C12 EKC Group,80
+2015,C15 Cardiff University,5440
+2015,C20 Cardiff Metropolitan University,2165
+2015,C22 Coleg Sir Gar,130
+2015,C24 Carshalton College,20
+2015,C30 University of Central Lancashire,4740
+2015,C32 Central College Nottingham (formerly South Nottingham College),60
+2015,C34 Central Film School London,20
+2015,"C35 Royal Central School of Speech and Drama, University of London",245
+2015,C39 City of Glasgow College,20
+2015,C55 University of Chester,2950
+2015,C56 Chesterfield College,40
+2015,C57 Chichester College,75
+2015,C58 University of Chichester,1415
+2015,"C60 City, University of London",2565
+2015,C64 Coventry College,5
+2015,C65 City and Islington College,40
+2015,C69 City of Sunderland College,55
+2015,C71 The Northern School of Art (formerly Cleveland College of Art and Design),175
+2015,C75 University Centre Colchester at Colchester Institute,245
+2015,C78 Cornwall College,290
+2015,"C80 Courtauld Institute of Art, University of London",60
+2015,C83 City College Plymouth,90
+2015,C85 Coventry University,5535
+2015,C88 Craven College,105
+2015,C92 University Centre Croydon,105
+2015,C93 University for the Creative Arts,1215
+2015,C99 University of Cumbria,1405
+2015,D22 Dearne Valley College,45
+2015,D26 De Montfort University,4660
+2015,D38 Derby College,5
+2015,D39 University of Derby,2955
+2015,D52 Doncaster College and University Centre,210
+2015,D55 Duchy College,90
+2015,D58 Dudley College,30
+2015,D65 University of Dundee,2450
+2015,D86 Durham University,4120
+2015,E14 University of East Anglia UEA,3765
+2015,E28 University of East London,2120
+2015,E29 East Riding College,30
+2015,E30 Easton and Otley College,90
+2015,E32 East Surrey College,15
+2015,E41 Edge Hotel School,25
+2015,E42 Edge Hill University,3345
+2015,E56 University of Edinburgh,5835
+2015,E59 Edinburgh Napier University,2950
+2015,E70 University of Essex,2830
+2015,E80 European School of Osteopathy,45
+2015,E81 Exeter College,35
+2015,E84 University of Exeter,5525
+2015,F33 Falmouth University,1790
+2015,F66 University Centre Farnborough,90
+2015,F95 Furness College,10
+2015,G09 Gateshead College,60
+2015,G28 University of Glasgow,4630
+2015,G42 Glasgow Caledonian University,3180
+2015,G43 Glasgow School of Art,485
+2015,G45 Gloucestershire College,60
+2015,G50 University of Gloucestershire,2185
+2015,"G53 Glyndwr University, Wrexham",595
+2015,"G56 Goldsmiths, University of London",1780
+2015,G59 Gower College Swansea,25
+2015,G70 University of Greenwich,3840
+2015,G74 GSM London (formerly Greenwich School of Management),35
+2015,G80 University Centre Grimsby,230
+2015,G90 Guildford College,145
+2015,H03 University Centre Hadlow,35
+2015,H07 Harrogate College,15
+2015,"H08 College of Haringey, Enfield and North East London",15
+2015,H11 Harrow College,5
+2015,H12 Harper Adams University,660
+2015,H14 Havering College of Further and Higher Education,75
+2015,H18 Hereford College of Arts,85
+2015,H19 Heart of Worcestershire College,105
+2015,H21 Henley College Coventry,10
+2015,H22 Hartpury University,540
+2015,H24 Heriot-Watt University,1675
+2015,H36 University of Hertfordshire,4240
+2015,H37 Hertford Regional College,30
+2015,H39 Highbury College,20
+2015,H49 University of the Highlands and Islands (UHI),710
+2015,H51 Holy Cross Sixth Form College and University Centre,80
+2015,H60 University of Huddersfield,3555
+2015,H65 Hugh Baird College,80
+2015,H72 University of Hull,3110
+2015,H73 Hull College,230
+2015,H75 Hull York Medical School,140
+2015,I25 Institute of Contemporary Music Performance,240
+2015,I35 Istituto Marangoni London,55
+2015,I50 Imperial College London,2625
+2015,I55 The London Institute of Banking & Finance,35
+2015,I60 Islamic College for Advanced Studies,5
+2015,K01 University Centre West Kent,40
+2015,K12 Keele University,2040
+2015,K24 University of Kent,4335
+2015,"K60 King's College London, University of London",5215
+2015,K83 Kingston College,125
+2015,K84 Kingston University,3805
+2015,K85 Kingston Maurward College,25
+2015,K90 Kirklees College,80
+2015,L01 Lewisham Southwark College,5
+2015,L14 Lancaster University,2735
+2015,L17 The University of Law,220
+2015,L21 Leeds City College,155
+2015,L23 University of Leeds,6510
+2015,L24 Leeds Trinity University,960
+2015,L27 Leeds Beckett University,5635
+2015,L28 Leeds Arts University,550
+2015,L30 Leeds College of Music,270
+2015,L32 Leeds College of Building,10
+2015,L34 University of Leicester,2845
+2015,L36 Leicester College,100
+2015,L39 University of Lincoln,3220
+2015,L41 University of Liverpool,5075
+2015,L42 Lincoln College,75
+2015,L43 City of Liverpool College University Centre,50
+2015,L46 Liverpool Hope University,1275
+2015,L48 Liverpool Institute for Performing Arts,200
+2015,L51 Liverpool John Moores University,5380
+2015,L53 Grwp Llandrillo Menai,55
+2015,L62 London College,5
+2015,L63 ARU London,215
+2015,L68 London Metropolitan University,1685
+2015,"L72 London School of Economics and Political Science, University of London",1655
+2015,L73 Bloomsbury Institute,45
+2015,L75 London South Bank University,2435
+2015,L77 Loughborough College,315
+2015,L79 Loughborough University,3805
+2015,M10 UCEN Manchester (The Manchester College),570
+2015,M20 University of Manchester,8080
+2015,M40 Manchester Metropolitan University,8450
+2015,M62 Medway School of Pharmacy,120
+2015,M65 Coleg Menai,20
+2015,M80 Middlesex University,3635
+2015,M87 MidKent College,55
+2015,M89 Milton Keynes College,5
+2015,M93 Moulton College,130
+2015,M95 Mountview Academy of Theatre Arts,20
+2015,M99 University Centre Myerscough,295
+2015,N11 Nazarene Theological College,10
+2015,N13 NPTC Group,15
+2015,N21 Newcastle University,5045
+2015,N23 Newcastle College University Centre,845
+2015,N28 New College Durham,30
+2015,N30 Nottingham College,170
+2015,N31 Newham College London,20
+2015,"N36 Newman University, Birmingham",550
+2015,N38 University of Northampton,2550
+2015,N39 Norwich University of the Arts,705
+2015,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),240
+2015,N49 NESCOT,10
+2015,N52 Norland College,95
+2015,N57 North Hertfordshire College,5
+2015,N64 DN Colleges Group,185
+2015,"N77 Northumbria University, Newcastle",5145
+2015,N79 North Warwickshire and South Leicestershire College,20
+2015,N81 Norton Radstock College,5
+2015,N82 City College Norwich,245
+2015,N84 University of Nottingham,6695
+2015,N85 North Kent College,85
+2015,N91 Nottingham Trent University,6440
+2015,O10 University Campus Oldham,95
+2015,O12 Oaklands College,15
+2015,O25 Activate Learning,35
+2015,O33 University of Oxford,3230
+2015,O66 Oxford Brookes University,4135
+2015,P26 University of London Institute in Paris,40
+2015,P34 Pearson College London (including Escape Studios),70
+2015,P35 Pembrokeshire College,20
+2015,P51 Petroc,95
+2015,P56 University Centre Peterborough,120
+2015,P59 Plumpton College,110
+2015,P60 University of Plymouth,4330
+2015,P63 Plymouth Marjon University (St Mark & St John),715
+2015,P65 Plymouth College of Art,480
+2015,P80 University of Portsmouth,5145
+2015,"Q25 Queen Margaret University, Edinburgh",790
+2015,Q50 Queen Mary University of London,3705
+2015,Q75 Queen's University Belfast,4025
+2015,R06 Ravensbourne University London,730
+2015,R12 University of Reading,3425
+2015,R14 University Centre Reaseheath,90
+2015,R18 Regent's University London,165
+2015,"R20 Richmond, The American International University in London",95
+2015,R36 Robert Gordon University,2230
+2015,R48 University of Roehampton,1870
+2015,R51 Rose Bruford College,185
+2015,R52 RNN Group,10
+2015,R54 Royal Agricultural University,325
+2015,R55 Royal Academy of Dance,55
+2015,"R72 Royal Holloway, University of London",2445
+2015,"R84 Royal Veterinary College, University of London",400
+2015,R86 Royal Welsh College of Music and Drama,45
+2015,S01 SRUC Scotland's Rural College,665
+2015,S03 University of Salford,4255
+2015,S05 SAE Institute,215
+2015,S08 Sandwell College of Further and Higher Education,5
+2015,S09 SOAS University of London,825
+2015,S18 University of Sheffield,5080
+2015,S20 South and City College Birmingham,30
+2015,S21 Sheffield Hallam University,6760
+2015,S22 Sheffield College,180
+2015,S26 Solihull College & University Centre,65
+2015,S27 University of Southampton,5280
+2015,S28 Somerset College,50
+2015,S30 Solent University (Southampton),2855
+2015,S32 University Centre South Devon,175
+2015,S34 University Centre Sparsholt,155
+2015,S36 University of St Andrews,1430
+2015,S42 Havant and South Downs College,10
+2015,S43 University Centre South Essex,215
+2015,"S49 St George's, University of London",525
+2015,S51 University Centre St Helens,115
+2015,S52 South Tyneside College,15
+2015,S55 South Gloucestershire and Stroud College,80
+2015,S57 Spurgeon's College,5
+2015,S62 St Mary's College Blackburn,10
+2015,"S64 St Mary's University, Twickenham",1340
+2015,S72 Staffordshire University,2460
+2015,S74 Stratford upon Avon College,10
+2015,S75 University of Stirling,2110
+2015,S76 Trafford College Group,45
+2015,S78 University of Strathclyde,4105
+2015,S79 Stranmillis University College,235
+2015,S82 University of Suffolk,1070
+2015,S83 Sussex Coast College Hastings,5
+2015,S84 University of Sunderland,1940
+2015,S85 University of Surrey,3025
+2015,S89 Sussex Downs College,95
+2015,S90 University of Sussex,3015
+2015,S93 Swansea University,3520
+2015,S96 University of Wales Trinity Saint David (UWTSD Swansea),665
+2015,S98 Swindon College,35
+2015,T15 BIMM London,545
+2015,"T20 Teesside University, Middlesbrough",3270
+2015,T60 Tottenham Hotspur Foundation,25
+2015,T80 University of Wales Trinity Saint David,560
+2015,T85 Truro and Penwith College,265
+2015,T90 Tyne Coast College,10
+2015,U20 Ulster University,5040
+2015,U40 University of the West of Scotland,3405
+2015,U65 University of the Arts London,4090
+2015,U80 UCL (University College London),5340
+2015,W01 University of South Wales,3260
+2015,W05 University of West London,1920
+2015,W08 Wakefield College,140
+2015,W12 Walsall College,100
+2015,W20 University of Warwick,4540
+2015,W25 Warwickshire College Group,265
+2015,W35 University Centre West Anglia,100
+2015,W36 West Cheshire College,55
+2015,W40 West Herts College,40
+2015,W47 University Centre Weston,140
+2015,"W50 University of Westminster, London",4090
+2015,W51 United Colleges Group,20
+2015,W52 Westminster Kingsway College,10
+2015,W65 West Thames College,65
+2015,W67 Wigan and Leigh College,25
+2015,W73 Wirral Metropolitan College,40
+2015,W74 Wiltshire College and University Centre,90
+2015,W75 University of Wolverhampton,3815
+2015,W76 University of Winchester,2125
+2015,W80 University of Worcester,2725
+2015,W85 Writtle University College,255
+2015,Y25 Yeovil College University Centre,40
+2015,Y50 University of York,3475
+2015,Y70 York College,170
+2015,Y75 York St John University,1325
+2016,A14 Abingdon and Witney College,5
+2016,A20 University of Aberdeen,3110
+2016,A30 Abertay University,835
+2016,A40 Aberystwyth University,1870
+2016,A43 Access to Music,20
+2016,A44 Accrington and Rossendale College,25
+2016,"A45 College of Agriculture, Food and Rural Enterprise",145
+2016,A48 ACM (The Academy of Contemporary Music),750
+2016,A57 Amsterdam Fashion Academy,5
+2016,A60 Anglia Ruskin University,3070
+2016,A65 AECC University College,155
+2016,A66 Arts University Bournemouth,1155
+2016,A70 Askham Bryan College,240
+2016,"A80 Aston University, Birmingham",2480
+2016,B06 Bangor University,2240
+2016,"B09 Barnfield College, Luton",25
+2016,B11 Barking and Dagenham College,25
+2016,B13 Barnsley College Higher Education,150
+2016,B16 University of Bath,3670
+2016,B18 Bicton College,10
+2016,B20 Bath Spa University,2465
+2016,B21 Bath College,10
+2016,B22 University of Bedfordshire,1780
+2016,B23 Bedford College Group,95
+2016,"B24 Birkbeck, University of London",695
+2016,B25 Birmingham City University,5045
+2016,B30 BMet (Birmingham Metropolitan College),15
+2016,B32 University of Birmingham,5990
+2016,B35 University College Birmingham,1095
+2016,B36 Bexley College,15
+2016,B37 Bishop Burton College,210
+2016,B38 Bishop Grosseteste University,585
+2016,B39 BIMM Institute,1550
+2016,B40 Blackburn College,270
+2016,B41 Blackpool and the Fylde College,450
+2016,B42 Berkshire College of Agriculture,20
+2016,B44 University of Bolton,1070
+2016,B48 Bournville College,5
+2016,B49 Bournemouth and Poole College,130
+2016,B50 Bournemouth University,4520
+2016,B54 BPP University,235
+2016,B56 University of Bradford,1860
+2016,B60 Bradford College,340
+2016,B68 Bridgend College,150
+2016,B70 University Centre Somerset - Bridgwater & Taunton College,75
+2016,B72 University of Brighton,4385
+2016,B74 Brighton and Sussex Medical School,125
+2016,B76 City College Brighton & Hove,55
+2016,B77 City of Bristol College,85
+2016,B78 University of Bristol,5315
+2016,"B80 Bristol, University of the West of England",5340
+2016,B81 British College of Osteopathic Medicine,30
+2016,B83 Brooklands College,10
+2016,B84 Brunel University London,2230
+2016,B87 University College of Osteopathy,50
+2016,B90 University of Buckingham,120
+2016,B92 Brooksby Melton College,50
+2016,B93 Bury College,105
+2016,B94 Buckinghamshire New University,2350
+2016,B97 London South East Colleges (Bromley College),30
+2016,C02 University Centre Calderdale College,5
+2016,C05 University of Cambridge,3430
+2016,C06 Cambridge School of Visual and Performing Arts,15
+2016,C10 Canterbury Christ Church University,3035
+2016,C12 EKC Group,40
+2016,C15 Cardiff University,5715
+2016,C20 Cardiff Metropolitan University,2060
+2016,C22 Coleg Sir Gar,65
+2016,C24 Carshalton College,50
+2016,C27 Central Bedfordshire College,20
+2016,C30 University of Central Lancashire,4000
+2016,C32 Central College Nottingham (formerly South Nottingham College),60
+2016,C34 Central Film School London,15
+2016,"C35 Royal Central School of Speech and Drama, University of London",235
+2016,C39 City of Glasgow College,25
+2016,C55 University of Chester,3180
+2016,C56 Chesterfield College,75
+2016,C57 Chichester College,65
+2016,C58 University of Chichester,1460
+2016,"C60 City, University of London",2530
+2016,C65 City and Islington College,15
+2016,C69 City of Sunderland College,70
+2016,C71 The Northern School of Art (formerly Cleveland College of Art and Design),160
+2016,C72 Cliff College,5
+2016,C75 University Centre Colchester at Colchester Institute,210
+2016,C78 Cornwall College,255
+2016,"C80 Courtauld Institute of Art, University of London",70
+2016,C83 City College Plymouth,85
+2016,C85 Coventry University,5825
+2016,C88 Craven College,80
+2016,C92 University Centre Croydon,80
+2016,C93 University for the Creative Arts,1360
+2016,C96 City of Wolverhampton College,10
+2016,C99 University of Cumbria,1295
+2016,D22 Dearne Valley College,50
+2016,D26 De Montfort University,5275
+2016,D39 University of Derby,3370
+2016,D52 Doncaster College and University Centre,185
+2016,D55 Duchy College,85
+2016,D58 Dudley College,35
+2016,D65 University of Dundee,2735
+2016,D86 Durham University,4390
+2016,E14 University of East Anglia UEA,3745
+2016,E28 University of East London,2375
+2016,E29 East Riding College,15
+2016,E30 Easton and Otley College,75
+2016,E32 East Surrey College,20
+2016,E41 Edge Hotel School,25
+2016,E42 Edge Hill University,3315
+2016,E56 University of Edinburgh,5855
+2016,E59 Edinburgh Napier University,3155
+2016,E70 University of Essex,2955
+2016,E79 ESCP Europe Business School,5
+2016,E80 European School of Osteopathy,75
+2016,E81 Exeter College,40
+2016,E84 University of Exeter,5630
+2016,F33 Falmouth University,2025
+2016,F66 University Centre Farnborough,65
+2016,F95 Furness College,10
+2016,G09 Gateshead College,65
+2016,G28 University of Glasgow,4990
+2016,G42 Glasgow Caledonian University,3360
+2016,G43 Glasgow School of Art,430
+2016,G45 Gloucestershire College,55
+2016,G50 University of Gloucestershire,2380
+2016,"G53 Glyndwr University, Wrexham",510
+2016,"G56 Goldsmiths, University of London",1895
+2016,G59 Gower College Swansea,60
+2016,G70 University of Greenwich,3655
+2016,G74 GSM London (formerly Greenwich School of Management),55
+2016,G80 University Centre Grimsby,360
+2016,G90 Guildford College,105
+2016,H03 University Centre Hadlow,20
+2016,H04 Halesowen College,15
+2016,H07 Harrogate College,5
+2016,H11 Harrow College,5
+2016,H12 Harper Adams University,650
+2016,H14 Havering College of Further and Higher Education,65
+2016,H18 Hereford College of Arts,115
+2016,H19 Heart of Worcestershire College,75
+2016,H21 Henley College Coventry,5
+2016,H22 Hartpury University,550
+2016,H24 Heriot-Watt University,1875
+2016,H36 University of Hertfordshire,4040
+2016,H37 Hertford Regional College,25
+2016,H39 Highbury College,5
+2016,H49 University of the Highlands and Islands (UHI),885
+2016,H51 Holy Cross Sixth Form College and University Centre,45
+2016,H54 Hopwood Hall College,25
+2016,H60 University of Huddersfield,3335
+2016,H65 Hugh Baird College,90
+2016,H72 University of Hull,3420
+2016,H73 Hull College,205
+2016,H75 Hull York Medical School,140
+2016,I25 Institute of Contemporary Music Performance,215
+2016,I35 Istituto Marangoni London,80
+2016,I50 Imperial College London,2515
+2016,I55 The London Institute of Banking & Finance,20
+2016,K01 University Centre West Kent,20
+2016,K12 Keele University,1915
+2016,K15 Kensington College of Business,5
+2016,K20 Kogan Academy of Dramatic Arts,5
+2016,K24 University of Kent,4320
+2016,"K60 King's College London, University of London",5525
+2016,K83 Kingston College,110
+2016,K84 Kingston University,3415
+2016,K85 Kingston Maurward College,35
+2016,K90 Kirklees College,90
+2016,K95 KLC School of Design,5
+2016,L14 Lancaster University,2820
+2016,L17 The University of Law,275
+2016,L21 Leeds City College,120
+2016,L23 University of Leeds,6610
+2016,L24 Leeds Trinity University,885
+2016,L27 Leeds Beckett University,5185
+2016,L28 Leeds Arts University,505
+2016,L30 Leeds College of Music,330
+2016,L32 Leeds College of Building,5
+2016,L34 University of Leicester,3110
+2016,L36 Leicester College,120
+2016,L39 University of Lincoln,3625
+2016,L41 University of Liverpool,5275
+2016,L42 Lincoln College,65
+2016,L43 City of Liverpool College University Centre,40
+2016,L46 Liverpool Hope University,1250
+2016,L48 Liverpool Institute for Performing Arts,205
+2016,L51 Liverpool John Moores University,5160
+2016,L53 Grwp Llandrillo Menai,45
+2016,L63 ARU London,545
+2016,L68 London Metropolitan University,1510
+2016,"L72 London School of Economics and Political Science, University of London",1615
+2016,L73 Bloomsbury Institute,50
+2016,L75 London South Bank University,2380
+2016,L77 Loughborough College,340
+2016,L79 Loughborough University,3755
+2016,M10 UCEN Manchester (The Manchester College),575
+2016,M20 University of Manchester,7640
+2016,M40 Manchester Metropolitan University,7735
+2016,M61 Medipathways,5
+2016,M62 Medway School of Pharmacy,95
+2016,M65 Coleg Menai,10
+2016,M73 Met Film School,15
+2016,M77 Mid Cheshire College,60
+2016,M80 Middlesex University,3970
+2016,M87 MidKent College,50
+2016,M93 Moulton College,110
+2016,M99 University Centre Myerscough,230
+2016,N11 Nazarene Theological College,5
+2016,N13 NPTC Group,85
+2016,N21 Newcastle University,5405
+2016,N23 Newcastle College University Centre,320
+2016,N28 New College Durham,45
+2016,N30 Nottingham College,170
+2016,N31 Newham College London,10
+2016,N33 New College Stamford,5
+2016,"N36 Newman University, Birmingham",560
+2016,N38 University of Northampton,2820
+2016,N39 Norwich University of the Arts,775
+2016,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),230
+2016,N49 NESCOT,15
+2016,N52 Norland College,85
+2016,N53 New College of the Humanities,15
+2016,N64 DN Colleges Group,160
+2016,"N77 Northumbria University, Newcastle",5300
+2016,N79 North Warwickshire and South Leicestershire College,20
+2016,N82 City College Norwich,225
+2016,N84 University of Nottingham,6655
+2016,N85 North Kent College,70
+2016,N91 Nottingham Trent University,6450
+2016,O10 University Campus Oldham,120
+2016,O12 Oaklands College,20
+2016,O25 Activate Learning,25
+2016,O33 University of Oxford,3260
+2016,O66 Oxford Brookes University,4075
+2016,P26 University of London Institute in Paris,30
+2016,P34 Pearson College London (including Escape Studios),140
+2016,P35 Pembrokeshire College,10
+2016,P51 Petroc,25
+2016,P56 University Centre Peterborough,75
+2016,P59 Plumpton College,100
+2016,P60 University of Plymouth,4480
+2016,P63 Plymouth Marjon University (St Mark & St John),690
+2016,P65 Plymouth College of Art,430
+2016,P80 University of Portsmouth,5380
+2016,"Q25 Queen Margaret University, Edinburgh",860
+2016,Q50 Queen Mary University of London,3895
+2016,Q75 Queen's University Belfast,4115
+2016,R06 Ravensbourne University London,810
+2016,R12 University of Reading,3455
+2016,R14 University Centre Reaseheath,85
+2016,R18 Regent's University London,135
+2016,"R20 Richmond, The American International University in London",120
+2016,R36 Robert Gordon University,2365
+2016,R48 University of Roehampton,2055
+2016,R51 Rose Bruford College,185
+2016,R52 RNN Group,25
+2016,R54 Royal Agricultural University,365
+2016,R55 Royal Academy of Dance,30
+2016,"R72 Royal Holloway, University of London",2370
+2016,"R84 Royal Veterinary College, University of London",405
+2016,R86 Royal Welsh College of Music and Drama,50
+2016,R88 Runshaw College,80
+2016,S01 SRUC Scotland's Rural College,595
+2016,S03 University of Salford,4125
+2016,S05 SAE Institute,170
+2016,S06 Selby College,10
+2016,S08 Sandwell College of Further and Higher Education,5
+2016,S09 SOAS University of London,900
+2016,S18 University of Sheffield,4960
+2016,S20 South and City College Birmingham,25
+2016,S21 Sheffield Hallam University,6585
+2016,S22 Sheffield College,150
+2016,S23 Shrewsbury College,20
+2016,S26 Solihull College & University Centre,55
+2016,S27 University of Southampton,4885
+2016,S28 Somerset College,35
+2016,S30 Solent University (Southampton),2445
+2016,S32 University Centre South Devon,200
+2016,S34 University Centre Sparsholt,130
+2016,S36 University of St Andrews,1680
+2016,S41 South Cheshire College,5
+2016,S42 Havant and South Downs College,30
+2016,S43 University Centre South Essex,240
+2016,S48 South Leicestershire College,10
+2016,"S49 St George's, University of London",555
+2016,S51 University Centre St Helens,75
+2016,S52 South Tyneside College,10
+2016,S55 South Gloucestershire and Stroud College,85
+2016,S57 Spurgeon's College,5
+2016,S62 St Mary's College Blackburn,5
+2016,"S64 St Mary's University, Twickenham",1175
+2016,S72 Staffordshire University,2415
+2016,S75 University of Stirling,1650
+2016,S76 Trafford College Group,5
+2016,S78 University of Strathclyde,4000
+2016,S79 Stranmillis University College,270
+2016,S82 University of Suffolk,1130
+2016,S84 University of Sunderland,2110
+2016,S85 University of Surrey,3680
+2016,S89 Sussex Downs College,105
+2016,S90 University of Sussex,3520
+2016,S93 Swansea University,3650
+2016,S96 University of Wales Trinity Saint David (UWTSD Swansea),740
+2016,S98 Swindon College,25
+2016,T10 Tameside College,5
+2016,T15 BIMM London,470
+2016,"T20 Teesside University, Middlesbrough",3215
+2016,T60 Tottenham Hotspur Foundation,20
+2016,T80 University of Wales Trinity Saint David,465
+2016,T85 Truro and Penwith College,240
+2016,U20 Ulster University,5080
+2016,U40 University of the West of Scotland,3330
+2016,U65 University of the Arts London,3815
+2016,U80 UCL (University College London),5450
+2016,U95 HCUC,5
+2016,W01 University of South Wales,3035
+2016,W05 University of West London,1845
+2016,W08 Wakefield College,70
+2016,W12 Walsall College,125
+2016,W20 University of Warwick,4735
+2016,W25 Warwickshire College Group,265
+2016,W35 University Centre West Anglia,75
+2016,W36 West Cheshire College,70
+2016,W40 West Herts College,35
+2016,W47 University Centre Weston,130
+2016,"W50 University of Westminster, London",3275
+2016,W51 United Colleges Group,30
+2016,W52 Westminster Kingsway College,10
+2016,W65 West Thames College,75
+2016,W67 Wigan and Leigh College,15
+2016,W73 Wirral Metropolitan College,30
+2016,W74 Wiltshire College and University Centre,75
+2016,W75 University of Wolverhampton,3450
+2016,W76 University of Winchester,2045
+2016,W80 University of Worcester,2600
+2016,W85 Writtle University College,245
+2016,Y25 Yeovil College University Centre,50
+2016,Y50 University of York,3725
+2016,Y70 York College,140
+2016,Y75 York St John University,1805
+2017,A20 University of Aberdeen,2295
+2017,A30 Abertay University,1040
+2017,A40 Aberystwyth University,1965
+2017,A43 Access to Music,15
+2017,A44 Accrington and Rossendale College,20
+2017,"A45 College of Agriculture, Food and Rural Enterprise",135
+2017,A48 ACM (The Academy of Contemporary Music),600
+2017,A60 Anglia Ruskin University,2645
+2017,A65 AECC University College,150
+2017,A66 Arts University Bournemouth,1275
+2017,A70 Askham Bryan College,165
+2017,"A80 Aston University, Birmingham",2420
+2017,B06 Bangor University,2075
+2017,B08 Barnet and Southgate College,10
+2017,"B09 Barnfield College, Luton",5
+2017,B11 Barking and Dagenham College,15
+2017,B13 Barnsley College Higher Education,180
+2017,B16 University of Bath,3535
+2017,B18 Bicton College,10
+2017,B20 Bath Spa University,2265
+2017,B21 Bath College,15
+2017,B22 University of Bedfordshire,1610
+2017,B23 Bedford College Group,80
+2017,"B24 Birkbeck, University of London",790
+2017,B25 Birmingham City University,5070
+2017,B30 BMet (Birmingham Metropolitan College),35
+2017,B32 University of Birmingham,6475
+2017,B35 University College Birmingham,925
+2017,B37 Bishop Burton College,220
+2017,B38 Bishop Grosseteste University,590
+2017,B39 BIMM Institute,1800
+2017,B40 Blackburn College,210
+2017,B41 Blackpool and the Fylde College,300
+2017,B42 Berkshire College of Agriculture,20
+2017,B44 University of Bolton,975
+2017,B49 Bournemouth and Poole College,95
+2017,B50 Bournemouth University,3885
+2017,B54 BPP University,165
+2017,B56 University of Bradford,1795
+2017,B60 Bradford College,285
+2017,B68 Bridgend College,95
+2017,B70 University Centre Somerset - Bridgwater & Taunton College,135
+2017,B72 University of Brighton,4135
+2017,B74 Brighton and Sussex Medical School,115
+2017,B76 City College Brighton & Hove,15
+2017,B77 City of Bristol College,85
+2017,B78 University of Bristol,5415
+2017,"B80 Bristol, University of the West of England",5855
+2017,B81 British College of Osteopathic Medicine,20
+2017,B83 Brooklands College,5
+2017,B84 Brunel University London,2495
+2017,B87 University College of Osteopathy,45
+2017,B90 University of Buckingham,160
+2017,B92 Brooksby Melton College,75
+2017,B93 Bury College,50
+2017,B94 Buckinghamshire New University,2165
+2017,B97 London South East Colleges (Bromley College),40
+2017,C02 University Centre Calderdale College,5
+2017,C05 University of Cambridge,3475
+2017,C06 Cambridge School of Visual and Performing Arts,5
+2017,C10 Canterbury Christ Church University,2620
+2017,C12 EKC Group,75
+2017,C15 Cardiff University,5500
+2017,C20 Cardiff Metropolitan University,2185
+2017,C22 Coleg Sir Gar,115
+2017,C24 Carshalton College,25
+2017,C27 Central Bedfordshire College,25
+2017,C30 University of Central Lancashire,3695
+2017,C32 Central College Nottingham (formerly South Nottingham College),35
+2017,C34 Central Film School London,15
+2017,"C35 Royal Central School of Speech and Drama, University of London",225
+2017,C39 City of Glasgow College,25
+2017,C55 University of Chester,3225
+2017,C56 Chesterfield College,100
+2017,C57 Chichester College,60
+2017,C58 University of Chichester,1280
+2017,"C60 City, University of London",2585
+2017,C64 Coventry College,5
+2017,C65 City and Islington College,25
+2017,C69 City of Sunderland College,80
+2017,C71 The Northern School of Art (formerly Cleveland College of Art and Design),210
+2017,C75 University Centre Colchester at Colchester Institute,210
+2017,C78 Cornwall College,170
+2017,"C80 Courtauld Institute of Art, University of London",65
+2017,C83 City College Plymouth,35
+2017,C85 Coventry University,5855
+2017,C87 Conde Nast College of Fashion & Design,25
+2017,C88 Craven College,75
+2017,C92 University Centre Croydon,70
+2017,C93 University for the Creative Arts,1145
+2017,C99 University of Cumbria,1185
+2017,D22 Dearne Valley College,50
+2017,D26 De Montfort University,5160
+2017,D39 University of Derby,3340
+2017,D52 Doncaster College and University Centre,185
+2017,D55 Duchy College,85
+2017,D58 Dudley College,25
+2017,D65 University of Dundee,2720
+2017,D86 Durham University,4460
+2017,E14 University of East Anglia UEA,3365
+2017,E28 University of East London,2325
+2017,E29 East Riding College,20
+2017,E30 Easton and Otley College,120
+2017,E32 East Surrey College,5
+2017,E41 Edge Hotel School,20
+2017,E42 Edge Hill University,3080
+2017,E56 University of Edinburgh,6385
+2017,E59 Edinburgh Napier University,2825
+2017,E70 University of Essex,3050
+2017,E79 ESCP Europe Business School,10
+2017,E80 European School of Osteopathy,65
+2017,E81 Exeter College,35
+2017,E84 University of Exeter,5660
+2017,F33 Falmouth University,1860
+2017,F66 University Centre Farnborough,35
+2017,F95 Furness College,10
+2017,G09 Gateshead College,50
+2017,G28 University of Glasgow,4935
+2017,G42 Glasgow Caledonian University,3650
+2017,G43 Glasgow School of Art,435
+2017,G45 Gloucestershire College,40
+2017,G50 University of Gloucestershire,2260
+2017,"G53 Glyndwr University, Wrexham",425
+2017,"G56 Goldsmiths, University of London",2090
+2017,G59 Gower College Swansea,45
+2017,G70 University of Greenwich,3455
+2017,G74 GSM London (formerly Greenwich School of Management),25
+2017,G80 University Centre Grimsby,295
+2017,G90 Guildford College,55
+2017,H03 University Centre Hadlow,20
+2017,H04 Halesowen College,10
+2017,H07 Harrogate College,5
+2017,"H08 College of Haringey, Enfield and North East London",10
+2017,H11 Harrow College,10
+2017,H12 Harper Adams University,595
+2017,H14 Havering College of Further and Higher Education,35
+2017,H18 Hereford College of Arts,105
+2017,H19 Heart of Worcestershire College,80
+2017,H21 Henley College Coventry,5
+2017,H22 Hartpury University,525
+2017,H24 Heriot-Watt University,1920
+2017,H36 University of Hertfordshire,4125
+2017,H39 Highbury College,5
+2017,H49 University of the Highlands and Islands (UHI),990
+2017,H51 Holy Cross Sixth Form College and University Centre,60
+2017,H54 Hopwood Hall College,10
+2017,H60 University of Huddersfield,3245
+2017,H65 Hugh Baird College,90
+2017,H72 University of Hull,2930
+2017,H73 Hull College,175
+2017,H75 Hull York Medical School,140
+2017,H76 Hult International Business School,10
+2017,I25 Institute of Contemporary Music Performance,135
+2017,I35 Istituto Marangoni London,110
+2017,I50 Imperial College London,2705
+2017,I55 The London Institute of Banking & Finance,50
+2017,I60 Islamic College for Advanced Studies,10
+2017,K01 University Centre West Kent,10
+2017,K12 Keele University,1880
+2017,K14 Kensington and Chelsea College,5
+2017,K16 Kendal College,20
+2017,K24 University of Kent,4445
+2017,"K60 King's College London, University of London",5505
+2017,K83 Kingston College,85
+2017,K84 Kingston University,3045
+2017,K85 Kingston Maurward College,35
+2017,K90 Kirklees College,30
+2017,K96 Knowsley Community College,5
+2017,L01 Lewisham Southwark College,5
+2017,L14 Lancaster University,3060
+2017,L17 The University of Law,335
+2017,L21 Leeds City College,160
+2017,L23 University of Leeds,7450
+2017,L24 Leeds Trinity University,700
+2017,L27 Leeds Beckett University,4675
+2017,L28 Leeds Arts University,615
+2017,L30 Leeds College of Music,295
+2017,L32 Leeds College of Building,10
+2017,L34 University of Leicester,3040
+2017,L36 Leicester College,85
+2017,L39 University of Lincoln,3810
+2017,L41 University of Liverpool,5290
+2017,L42 Lincoln College,80
+2017,L43 City of Liverpool College University Centre,50
+2017,L46 Liverpool Hope University,1295
+2017,L48 Liverpool Institute for Performing Arts,235
+2017,L51 Liverpool John Moores University,5500
+2017,L53 Grwp Llandrillo Menai,65
+2017,L63 ARU London,420
+2017,L68 London Metropolitan University,1165
+2017,"L72 London School of Economics and Political Science, University of London",1695
+2017,L73 Bloomsbury Institute,90
+2017,L75 London South Bank University,2130
+2017,L77 Loughborough College,250
+2017,L79 Loughborough University,3780
+2017,L83 London College of Creative Media,65
+2017,M10 UCEN Manchester (The Manchester College),485
+2017,M20 University of Manchester,7325
+2017,M40 Manchester Metropolitan University,7680
+2017,M61 Medipathways,5
+2017,M62 Medway School of Pharmacy,60
+2017,M65 Coleg Menai,10
+2017,M73 Met Film School,25
+2017,M77 Mid Cheshire College,15
+2017,M80 Middlesex University,3250
+2017,M87 MidKent College,30
+2017,M93 Moulton College,65
+2017,M99 University Centre Myerscough,200
+2017,N11 Nazarene Theological College,5
+2017,N13 NPTC Group,85
+2017,N21 Newcastle University,5315
+2017,N23 Newcastle College University Centre,220
+2017,N28 New College Durham,45
+2017,N30 Nottingham College,100
+2017,N31 Newham College London,5
+2017,"N36 Newman University, Birmingham",625
+2017,N38 University of Northampton,2285
+2017,N39 Norwich University of the Arts,750
+2017,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),205
+2017,N49 NESCOT,5
+2017,N52 Norland College,105
+2017,N53 New College of the Humanities,15
+2017,N64 DN Colleges Group,130
+2017,"N77 Northumbria University, Newcastle",5400
+2017,N79 North Warwickshire and South Leicestershire College,15
+2017,N82 City College Norwich,175
+2017,N84 University of Nottingham,6390
+2017,N85 North Kent College,55
+2017,N91 Nottingham Trent University,7190
+2017,O10 University Campus Oldham,45
+2017,O12 Oaklands College,15
+2017,O25 Activate Learning,5
+2017,O33 University of Oxford,3265
+2017,O66 Oxford Brookes University,3855
+2017,P26 University of London Institute in Paris,30
+2017,P34 Pearson College London (including Escape Studios),205
+2017,P35 Pembrokeshire College,15
+2017,P51 Petroc,5
+2017,P56 University Centre Peterborough,105
+2017,P59 Plumpton College,60
+2017,P60 University of Plymouth,4545
+2017,P63 Plymouth Marjon University (St Mark & St John),715
+2017,P65 Plymouth College of Art,450
+2017,P73 Point Blank Music School,20
+2017,P80 University of Portsmouth,4805
+2017,"Q25 Queen Margaret University, Edinburgh",735
+2017,Q50 Queen Mary University of London,3625
+2017,Q75 Queen's University Belfast,4100
+2017,R06 Ravensbourne University London,770
+2017,R12 University of Reading,3775
+2017,R14 University Centre Reaseheath,105
+2017,R18 Regent's University London,135
+2017,"R20 Richmond, The American International University in London",70
+2017,R25 Arden University,5
+2017,R36 Robert Gordon University,2420
+2017,R48 University of Roehampton,1925
+2017,R51 Rose Bruford College,185
+2017,R52 RNN Group,20
+2017,R54 Royal Agricultural University,345
+2017,R55 Royal Academy of Dance,40
+2017,"R72 Royal Holloway, University of London",2270
+2017,"R84 Royal Veterinary College, University of London",355
+2017,R86 Royal Welsh College of Music and Drama,35
+2017,R88 Runshaw College,50
+2017,R90 Ruskin College,5
+2017,S01 SRUC Scotland's Rural College,545
+2017,S03 University of Salford,4380
+2017,S05 SAE Institute,135
+2017,S06 Selby College,50
+2017,S08 Sandwell College of Further and Higher Education,15
+2017,S09 SOAS University of London,715
+2017,S18 University of Sheffield,4580
+2017,S20 South and City College Birmingham,25
+2017,S21 Sheffield Hallam University,6430
+2017,S22 Sheffield College,200
+2017,S23 Shrewsbury College,15
+2017,S26 Solihull College & University Centre,45
+2017,S27 University of Southampton,4270
+2017,S30 Solent University (Southampton),2610
+2017,S32 University Centre South Devon,250
+2017,S34 University Centre Sparsholt,145
+2017,S35 Southport College,15
+2017,S36 University of St Andrews,1535
+2017,S41 South Cheshire College,5
+2017,S42 Havant and South Downs College,35
+2017,S43 University Centre South Essex,200
+2017,"S49 St George's, University of London",470
+2017,S50 South Thames College,5
+2017,S51 University Centre St Helens,65
+2017,S52 South Tyneside College,10
+2017,S55 South Gloucestershire and Stroud College,75
+2017,S62 St Mary's College Blackburn,5
+2017,"S64 St Mary's University, Twickenham",975
+2017,S72 Staffordshire University,2825
+2017,S75 University of Stirling,2340
+2017,S76 Trafford College Group,10
+2017,S78 University of Strathclyde,3985
+2017,S79 Stranmillis University College,260
+2017,S82 University of Suffolk,1050
+2017,S83 Sussex Coast College Hastings,60
+2017,S84 University of Sunderland,1735
+2017,S85 University of Surrey,3835
+2017,S89 Sussex Downs College,100
+2017,S90 University of Sussex,3925
+2017,S93 Swansea University,3825
+2017,S98 Swindon College,25
+2017,"T20 Teesside University, Middlesbrough",3210
+2017,T60 Tottenham Hotspur Foundation,25
+2017,T80 University of Wales Trinity Saint David,1010
+2017,T85 Truro and Penwith College,185
+2017,U10 UCFB,10
+2017,U20 Ulster University,4605
+2017,U40 University of the West of Scotland,3745
+2017,U65 University of the Arts London,4160
+2017,U80 UCL (University College London),6000
+2017,W01 University of South Wales,3100
+2017,W05 University of West London,1695
+2017,W08 Wakefield College,45
+2017,W12 Walsall College,40
+2017,W20 University of Warwick,4615
+2017,W25 Warwickshire College Group,215
+2017,W35 University Centre West Anglia,95
+2017,W36 West Cheshire College,50
+2017,W40 West Herts College,40
+2017,W47 University Centre Weston,135
+2017,"W50 University of Westminster, London",3495
+2017,W51 United Colleges Group,15
+2017,W52 Westminster Kingsway College,5
+2017,W65 West Thames College,20
+2017,W66 Weymouth College,25
+2017,W67 Wigan and Leigh College,5
+2017,W73 Wirral Metropolitan College,10
+2017,W74 Wiltshire College and University Centre,95
+2017,W75 University of Wolverhampton,3370
+2017,W76 University of Winchester,2260
+2017,W80 University of Worcester,2530
+2017,W85 Writtle University College,245
+2017,Y25 Yeovil College University Centre,60
+2017,Y50 University of York,3755
+2017,Y70 York College,135
+2017,Y75 York St John University,2070
+2018,A20 University of Aberdeen,2555
+2018,A30 Abertay University,1215
+2018,A40 Aberystwyth University,1675
+2018,A44 Accrington and Rossendale College,35
+2018,"A45 College of Agriculture, Food and Rural Enterprise",130
+2018,A48 ACM (The Academy of Contemporary Music),640
+2018,A60 Anglia Ruskin University,2135
+2018,A65 AECC University College,170
+2018,A66 Arts University Bournemouth,1065
+2018,A70 Askham Bryan College,185
+2018,"A80 Aston University, Birmingham",2145
+2018,B06 Bangor University,2020
+2018,"B09 Barnfield College, Luton",5
+2018,B11 Barking and Dagenham College,30
+2018,B13 Barnsley College Higher Education,170
+2018,B16 University of Bath,3400
+2018,B18 Bicton College,15
+2018,B20 Bath Spa University,1930
+2018,B21 Bath College,20
+2018,B22 University of Bedfordshire,1305
+2018,B23 Bedford College Group,110
+2018,"B24 Birkbeck, University of London",795
+2018,B25 Birmingham City University,4785
+2018,B30 BMet (Birmingham Metropolitan College),20
+2018,B32 University of Birmingham,6300
+2018,B35 University College Birmingham,620
+2018,B37 Bishop Burton College,165
+2018,B38 Bishop Grosseteste University,625
+2018,B39 BIMM Institute,1685
+2018,B40 Blackburn College,175
+2018,B41 Blackpool and the Fylde College,115
+2018,B42 Berkshire College of Agriculture,25
+2018,B44 University of Bolton,1095
+2018,B49 Bournemouth and Poole College,95
+2018,B50 Bournemouth University,3735
+2018,B54 BPP University,80
+2018,B56 University of Bradford,1755
+2018,B60 Bradford College,170
+2018,B68 Bridgend College,85
+2018,B70 University Centre Somerset - Bridgwater & Taunton College,150
+2018,B72 University of Brighton,3660
+2018,B74 Brighton and Sussex Medical School,155
+2018,B77 City of Bristol College,75
+2018,B78 University of Bristol,5815
+2018,"B80 Bristol, University of the West of England",6140
+2018,B81 British College of Osteopathic Medicine,25
+2018,B84 Brunel University London,2345
+2018,B87 University College of Osteopathy,55
+2018,B90 University of Buckingham,120
+2018,B92 Brooksby Melton College,75
+2018,B93 Bury College,75
+2018,B94 Buckinghamshire New University,1475
+2018,B97 London South East Colleges (Bromley College),30
+2018,C02 University Centre Calderdale College,5
+2018,C05 University of Cambridge,3435
+2018,C06 Cambridge School of Visual and Performing Arts,15
+2018,C10 Canterbury Christ Church University,2755
+2018,C12 EKC Group,55
+2018,C15 Cardiff University,5540
+2018,C20 Cardiff Metropolitan University,2225
+2018,C22 Coleg Sir Gar,150
+2018,C24 Carshalton College,15
+2018,C27 Central Bedfordshire College,10
+2018,C30 University of Central Lancashire,3570
+2018,C34 Central Film School London,20
+2018,"C35 Royal Central School of Speech and Drama, University of London",215
+2018,C39 City of Glasgow College,45
+2018,C55 University of Chester,2710
+2018,C56 Chesterfield College,60
+2018,C57 Chichester College,5
+2018,C58 University of Chichester,1185
+2018,"C60 City, University of London",2635
+2018,C64 Coventry College,5
+2018,C65 City and Islington College,20
+2018,C69 City of Sunderland College,95
+2018,C71 The Northern School of Art (formerly Cleveland College of Art and Design),230
+2018,C75 University Centre Colchester at Colchester Institute,135
+2018,C78 Cornwall College,155
+2018,"C80 Courtauld Institute of Art, University of London",70
+2018,C83 City College Plymouth,40
+2018,C85 Coventry University,6110
+2018,C87 Conde Nast College of Fashion & Design,15
+2018,C88 Craven College,55
+2018,C92 University Centre Croydon,45
+2018,C93 University for the Creative Arts,1090
+2018,C99 University of Cumbria,1045
+2018,D26 De Montfort University,5980
+2018,D38 Derby College,5
+2018,D39 University of Derby,2975
+2018,D55 Duchy College,80
+2018,D58 Dudley College,40
+2018,D65 University of Dundee,2670
+2018,D86 Durham University,4335
+2018,E14 University of East Anglia UEA,3370
+2018,E28 University of East London,2330
+2018,E29 East Riding College,60
+2018,E30 Easton and Otley College,80
+2018,E32 East Surrey College,5
+2018,E41 Edge Hotel School,10
+2018,E42 Edge Hill University,2780
+2018,E56 University of Edinburgh,6145
+2018,E59 Edinburgh Napier University,2780
+2018,E70 University of Essex,3390
+2018,E79 ESCP Europe Business School,15
+2018,E80 European School of Osteopathy,50
+2018,E81 Exeter College,40
+2018,E84 University of Exeter,6125
+2018,F33 Falmouth University,1595
+2018,F66 University Centre Farnborough,15
+2018,F70 Fashion Retail Academy,135
+2018,F95 Furness College,5
+2018,F98 Futureworks,130
+2018,G09 Gateshead College,10
+2018,G28 University of Glasgow,4770
+2018,G42 Glasgow Caledonian University,3745
+2018,G43 Glasgow School of Art,440
+2018,G45 Gloucestershire College,20
+2018,G50 University of Gloucestershire,1955
+2018,"G53 Glyndwr University, Wrexham",395
+2018,"G56 Goldsmiths, University of London",1930
+2018,G59 Gower College Swansea,50
+2018,G70 University of Greenwich,3520
+2018,G74 GSM London (formerly Greenwich School of Management),5
+2018,G80 University Centre Grimsby,110
+2018,G90 Guildford College,100
+2018,H03 University Centre Hadlow,20
+2018,H04 Halesowen College,10
+2018,H07 Harrogate College,5
+2018,"H08 College of Haringey, Enfield and North East London",5
+2018,H12 Harper Adams University,585
+2018,H14 Havering College of Further and Higher Education,30
+2018,H18 Hereford College of Arts,90
+2018,H19 Heart of Worcestershire College,45
+2018,H22 Hartpury University,610
+2018,H23 Harlow College,5
+2018,H24 Heriot-Watt University,1620
+2018,H36 University of Hertfordshire,3680
+2018,H37 Hertford Regional College,10
+2018,H49 University of the Highlands and Islands (UHI),1030
+2018,H51 Holy Cross Sixth Form College and University Centre,55
+2018,H54 Hopwood Hall College,10
+2018,H60 University of Huddersfield,3160
+2018,H65 Hugh Baird College,60
+2018,H72 University of Hull,2515
+2018,H73 Hull College,130
+2018,H75 Hull York Medical School,165
+2018,H76 Hult International Business School,10
+2018,I25 Institute of Contemporary Music Performance,115
+2018,I35 Istituto Marangoni London,55
+2018,I50 Imperial College London,2795
+2018,I55 The London Institute of Banking & Finance,80
+2018,K01 University Centre West Kent,10
+2018,K12 Keele University,2010
+2018,K16 Kendal College,10
+2018,K24 University of Kent,4195
+2018,"K60 King's College London, University of London",5365
+2018,K83 Kingston College,75
+2018,K84 Kingston University,3325
+2018,K85 Kingston Maurward College,25
+2018,L14 Lancaster University,3145
+2018,L17 The University of Law,400
+2018,L21 Leeds City College,110
+2018,L23 University of Leeds,7360
+2018,L24 Leeds Trinity University,790
+2018,L27 Leeds Beckett University,5270
+2018,L28 Leeds Arts University,760
+2018,L30 Leeds College of Music,340
+2018,L32 Leeds College of Building,5
+2018,L34 University of Leicester,2490
+2018,L36 Leicester College,80
+2018,L39 University of Lincoln,4175
+2018,L41 University of Liverpool,4900
+2018,L42 Lincoln College,70
+2018,L43 City of Liverpool College University Centre,40
+2018,L46 Liverpool Hope University,1280
+2018,L48 Liverpool Institute for Performing Arts,195
+2018,L51 Liverpool John Moores University,5225
+2018,L53 Grwp Llandrillo Menai,70
+2018,L63 ARU London,295
+2018,L68 London Metropolitan University,1160
+2018,"L72 London School of Economics and Political Science, University of London",1785
+2018,L73 Bloomsbury Institute,75
+2018,L75 London South Bank University,2485
+2018,L77 Loughborough College,315
+2018,L79 Loughborough University,3915
+2018,L83 London College of Creative Media,60
+2018,M10 UCEN Manchester (The Manchester College),400
+2018,M20 University of Manchester,7385
+2018,M40 Manchester Metropolitan University,7490
+2018,M62 Medway School of Pharmacy,110
+2018,M65 Coleg Menai,10
+2018,M73 Met Film School,35
+2018,M78 Middlesbrough College,10
+2018,M80 Middlesex University,3200
+2018,M87 MidKent College,10
+2018,M93 Moulton College,65
+2018,M99 University Centre Myerscough,210
+2018,N11 Nazarene Theological College,10
+2018,N13 NPTC Group,115
+2018,N21 Newcastle University,5475
+2018,N23 Newcastle College University Centre,160
+2018,N28 New College Durham,35
+2018,N30 Nottingham College,100
+2018,N33 New College Stamford,5
+2018,"N36 Newman University, Birmingham",530
+2018,N38 University of Northampton,2710
+2018,N39 Norwich University of the Arts,810
+2018,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),170
+2018,N49 NESCOT,15
+2018,N52 Norland College,105
+2018,N53 New College of the Humanities,30
+2018,N57 North Hertfordshire College,10
+2018,N59 Northampton College,15
+2018,N64 DN Colleges Group,375
+2018,"N77 Northumbria University, Newcastle",5385
+2018,N79 North Warwickshire and South Leicestershire College,10
+2018,N82 City College Norwich,160
+2018,N84 University of Nottingham,6860
+2018,N85 North Kent College,40
+2018,N91 Nottingham Trent University,7995
+2018,O10 University Campus Oldham,55
+2018,O25 Activate Learning,10
+2018,O33 University of Oxford,3285
+2018,O66 Oxford Brookes University,3870
+2018,P26 University of London Institute in Paris,35
+2018,P34 Pearson College London (including Escape Studios),220
+2018,P35 Pembrokeshire College,20
+2018,P56 University Centre Peterborough,85
+2018,P59 Plumpton College,80
+2018,P60 University of Plymouth,3830
+2018,P63 Plymouth Marjon University (St Mark & St John),775
+2018,P65 Plymouth College of Art,420
+2018,P73 Point Blank Music School,30
+2018,P80 University of Portsmouth,5215
+2018,"Q25 Queen Margaret University, Edinburgh",905
+2018,Q50 Queen Mary University of London,3865
+2018,Q75 Queen's University Belfast,3990
+2018,R06 Ravensbourne University London,855
+2018,R12 University of Reading,3190
+2018,R14 University Centre Reaseheath,85
+2018,R18 Regent's University London,160
+2018,"R20 Richmond, The American International University in London",70
+2018,R25 Arden University,10
+2018,R36 Robert Gordon University,2240
+2018,R48 University of Roehampton,1555
+2018,R51 Rose Bruford College,200
+2018,R52 RNN Group,20
+2018,R54 Royal Agricultural University,320
+2018,R55 Royal Academy of Dance,40
+2018,"R72 Royal Holloway, University of London",2375
+2018,"R84 Royal Veterinary College, University of London",380
+2018,R86 Royal Welsh College of Music and Drama,45
+2018,R88 Runshaw College,30
+2018,S01 SRUC Scotland's Rural College,515
+2018,S03 University of Salford,4630
+2018,S05 SAE Institute,90
+2018,S06 Selby College,50
+2018,S08 Sandwell College of Further and Higher Education,15
+2018,S09 SOAS University of London,615
+2018,S11 University Centre at Salford City College,5
+2018,S18 University of Sheffield,4365
+2018,S20 South and City College Birmingham,10
+2018,S21 Sheffield Hallam University,5970
+2018,S22 Sheffield College,115
+2018,S23 Shrewsbury College,5
+2018,S26 Solihull College & University Centre,45
+2018,S27 University of Southampton,3675
+2018,S30 Solent University (Southampton),2540
+2018,S32 University Centre South Devon,165
+2018,S34 University Centre Sparsholt,110
+2018,S36 University of St Andrews,1670
+2018,S42 Havant and South Downs College,35
+2018,S43 University Centre South Essex,180
+2018,"S49 St George's, University of London",545
+2018,S51 University Centre St Helens,40
+2018,S52 South Tyneside College,5
+2018,S55 South Gloucestershire and Stroud College,115
+2018,S57 Spurgeon's College,5
+2018,S62 St Mary's College Blackburn,10
+2018,"S64 St Mary's University, Twickenham",960
+2018,S72 Staffordshire University,2690
+2018,S75 University of Stirling,2245
+2018,S76 Trafford College Group,15
+2018,S78 University of Strathclyde,4095
+2018,S79 Stranmillis University College,230
+2018,S82 University of Suffolk,1180
+2018,S83 Sussex Coast College Hastings,100
+2018,S84 University of Sunderland,1645
+2018,S85 University of Surrey,3585
+2018,S89 Sussex Downs College,85
+2018,S90 University of Sussex,3695
+2018,S93 Swansea University,3260
+2018,S98 Swindon College,35
+2018,"T20 Teesside University, Middlesbrough",2910
+2018,T80 University of Wales Trinity Saint David,925
+2018,T85 Truro and Penwith College,170
+2018,T90 Tyne Coast College,10
+2018,U10 UCFB,735
+2018,U20 Ulster University,4745
+2018,U40 University of the West of Scotland,4240
+2018,U65 University of the Arts London,4050
+2018,U80 UCL (University College London),5805
+2018,W01 University of South Wales,2720
+2018,W05 University of West London,1815
+2018,W08 Wakefield College,40
+2018,W12 Walsall College,30
+2018,W20 University of Warwick,4785
+2018,W25 Warwickshire College Group,130
+2018,W35 University Centre West Anglia,85
+2018,W40 West Herts College,45
+2018,W45 Vision West Nottinghamshire College (Vision University Centre Mansfield),60
+2018,W47 University Centre Weston,160
+2018,"W50 University of Westminster, London",3465
+2018,W52 Westminster Kingsway College,5
+2018,W65 West Thames College,15
+2018,W66 Weymouth College,55
+2018,W67 Wigan and Leigh College,10
+2018,W73 Wirral Metropolitan College,10
+2018,W74 Wiltshire College and University Centre,25
+2018,W75 University of Wolverhampton,3150
+2018,W76 University of Winchester,2300
+2018,W80 University of Worcester,2315
+2018,W85 Writtle University College,200
+2018,Y25 Yeovil College University Centre,35
+2018,Y50 University of York,3485
+2018,Y70 York College,90
+2018,Y75 York St John University,1925
+2019,A20 University of Aberdeen,2475
+2019,A30 Abertay University,1065
+2019,A40 Aberystwyth University,1470
+2019,A44 Accrington and Rossendale College,20
+2019,"A45 College of Agriculture, Food and Rural Enterprise",110
+2019,A48 ACM (The Academy of Contemporary Music),390
+2019,A60 Anglia Ruskin University,2350
+2019,A65 AECC University College,195
+2019,A66 Arts University Bournemouth,1185
+2019,A70 Askham Bryan College,165
+2019,"A80 Aston University, Birmingham",2355
+2019,B06 Bangor University,1860
+2019,B11 Barking and Dagenham College,5
+2019,B13 Barnsley College Higher Education,145
+2019,B16 University of Bath,3605
+2019,B18 Bicton College,10
+2019,B20 Bath Spa University,2245
+2019,B21 Bath College,10
+2019,B22 University of Bedfordshire,1275
+2019,B23 Bedford College Group,50
+2019,"B24 Birkbeck, University of London",755
+2019,B25 Birmingham City University,5235
+2019,B30 BMet (Birmingham Metropolitan College),25
+2019,B32 University of Birmingham,6260
+2019,B35 University College Birmingham,455
+2019,B37 Bishop Burton College,140
+2019,B38 Bishop Grosseteste University,520
+2019,B39 BIMM Institute,1925
+2019,B40 Blackburn College,55
+2019,B41 Blackpool and the Fylde College,60
+2019,B42 Berkshire College of Agriculture,25
+2019,B44 University of Bolton,980
+2019,B49 Bournemouth and Poole College,80
+2019,B50 Bournemouth University,3875
+2019,B54 BPP University,75
+2019,B56 University of Bradford,1635
+2019,B60 Bradford College,110
+2019,B64 Bristol Old Vic Theatre School,15
+2019,B68 Bridgend College,65
+2019,B70 University Centre Somerset - Bridgwater & Taunton College,125
+2019,B72 University of Brighton,3550
+2019,B74 Brighton and Sussex Medical School,190
+2019,B77 City of Bristol College,70
+2019,B78 University of Bristol,6360
+2019,"B80 Bristol, University of the West of England",6075
+2019,B81 British College of Osteopathic Medicine,15
+2019,B84 Brunel University London,2135
+2019,B87 University College of Osteopathy,60
+2019,B90 University of Buckingham,130
+2019,B92 Brooksby Melton College,45
+2019,B93 Bury College,45
+2019,B94 Buckinghamshire New University,1490
+2019,B97 London South East Colleges (Bromley College),35
+2019,C02 University Centre Calderdale College,5
+2019,C05 University of Cambridge,3415
+2019,C06 Cambridge School of Visual and Performing Arts,15
+2019,C10 Canterbury Christ Church University,2745
+2019,C12 EKC Group,45
+2019,C15 Cardiff University,5495
+2019,C20 Cardiff Metropolitan University,1990
+2019,C22 Coleg Sir Gar,135
+2019,C24 Carshalton College,5
+2019,C27 Central Bedfordshire College,25
+2019,C30 University of Central Lancashire,3790
+2019,C34 Central Film School London,10
+2019,"C35 Royal Central School of Speech and Drama, University of London",255
+2019,C39 City of Glasgow College,45
+2019,C55 University of Chester,2095
+2019,C56 Chesterfield College,60
+2019,C57 Chichester College,10
+2019,C58 University of Chichester,1270
+2019,"C60 City, University of London",2675
+2019,C64 Coventry College,20
+2019,C69 City of Sunderland College,75
+2019,C71 The Northern School of Art (formerly Cleveland College of Art and Design),205
+2019,C75 University Centre Colchester at Colchester Institute,145
+2019,C78 Cornwall College,130
+2019,"C80 Courtauld Institute of Art, University of London",75
+2019,C83 City College Plymouth,15
+2019,C85 Coventry University,5915
+2019,C87 Conde Nast College of Fashion & Design,10
+2019,C88 Craven College,35
+2019,C92 University Centre Croydon,25
+2019,C93 University for the Creative Arts,965
+2019,C99 University of Cumbria,940
+2019,D26 De Montfort University,4815
+2019,D39 University of Derby,2785
+2019,D55 Duchy College,65
+2019,D58 Dudley College,35
+2019,D65 University of Dundee,2635
+2019,D86 Durham University,4485
+2019,E14 University of East Anglia UEA,3870
+2019,E28 University of East London,2085
+2019,E29 East Riding College,80
+2019,E30 Easton and Otley College,65
+2019,E32 East Surrey College,10
+2019,E42 Edge Hill University,3015
+2019,E56 University of Edinburgh,6320
+2019,E59 Edinburgh Napier University,2635
+2019,E70 University of Essex,3675
+2019,E79 ESCP Europe Business School,10
+2019,E80 European School of Osteopathy,45
+2019,E81 Exeter College,40
+2019,E84 University of Exeter,5985
+2019,F33 Falmouth University,1515
+2019,F66 University Centre Farnborough,20
+2019,F70 Fashion Retail Academy,115
+2019,F98 Futureworks,145
+2019,G09 Gateshead College,30
+2019,G28 University of Glasgow,4675
+2019,G42 Glasgow Caledonian University,3560
+2019,G43 Glasgow School of Art,480
+2019,G45 Gloucestershire College,30
+2019,G50 University of Gloucestershire,1815
+2019,"G53 Glyndwr University, Wrexham",415
+2019,"G56 Goldsmiths, University of London",1635
+2019,G59 Gower College Swansea,45
+2019,G70 University of Greenwich,3440
+2019,G80 University Centre Grimsby,60
+2019,G90 Guildford College,70
+2019,H03 University Centre Hadlow,20
+2019,H04 Halesowen College,5
+2019,H12 Harper Adams University,605
+2019,H14 Havering College of Further and Higher Education,25
+2019,H18 Hereford College of Arts,65
+2019,H19 Heart of Worcestershire College,25
+2019,H22 Hartpury University,640
+2019,H23 Harlow College,10
+2019,H24 Heriot-Watt University,1545
+2019,H36 University of Hertfordshire,3630
+2019,H37 Hertford Regional College,5
+2019,H49 University of the Highlands and Islands (UHI),1065
+2019,H51 Holy Cross Sixth Form College and University Centre,40
+2019,H54 Hopwood Hall College,20
+2019,H60 University of Huddersfield,3000
+2019,H65 Hugh Baird College,75
+2019,H72 University of Hull,2330
+2019,H73 Hull College,110
+2019,H75 Hull York Medical School,275
+2019,H76 Hult International Business School,15
+2019,I25 Institute of Contemporary Music Performance,160
+2019,I35 Istituto Marangoni London,40
+2019,I50 Imperial College London,2845
+2019,I55 The London Institute of Banking & Finance,40
+2019,I60 Islamic College for Advanced Studies,5
+2019,K12 Keele University,1980
+2019,K16 Kendal College,20
+2019,K24 University of Kent,3650
+2019,"K60 King's College London, University of London",6020
+2019,K83 Kingston College,60
+2019,K84 Kingston University,3355
+2019,K85 Kingston Maurward College,40
+2019,K95 KLC School of Design,5
+2019,L14 Lancaster University,3405
+2019,L17 The University of Law,555
+2019,L21 Leeds City College,150
+2019,L23 University of Leeds,6595
+2019,L24 Leeds Trinity University,945
+2019,L27 Leeds Beckett University,4825
+2019,L28 Leeds Arts University,835
+2019,L30 Leeds College of Music,400
+2019,L34 University of Leicester,2345
+2019,L36 Leicester College,40
+2019,L39 University of Lincoln,3885
+2019,L41 University of Liverpool,4775
+2019,L42 Lincoln College,125
+2019,L43 City of Liverpool College University Centre,20
+2019,L46 Liverpool Hope University,1125
+2019,L48 Liverpool Institute for Performing Arts,275
+2019,L51 Liverpool John Moores University,5400
+2019,L53 Grwp Llandrillo Menai,40
+2019,L57 London Film Academy,5
+2019,L62 London College,205
+2019,L63 ARU London,415
+2019,L68 London Metropolitan University,1100
+2019,"L72 London School of Economics and Political Science, University of London",1695
+2019,L73 Bloomsbury Institute,5
+2019,L75 London South Bank University,2870
+2019,L77 Loughborough College,180
+2019,L79 Loughborough University,3775
+2019,L83 London College of Creative Media,45
+2019,M10 UCEN Manchester (The Manchester College),345
+2019,M20 University of Manchester,7845
+2019,M40 Manchester Metropolitan University,7365
+2019,M62 Medway School of Pharmacy,80
+2019,M65 Coleg Menai,10
+2019,M73 Met Film School,35
+2019,M78 Middlesbrough College,25
+2019,M80 Middlesex University,2695
+2019,M88 Mont Rose College of Management and Sciences,410
+2019,M93 Moulton College,30
+2019,M99 University Centre Myerscough,215
+2019,N11 Nazarene Theological College,10
+2019,N13 NPTC Group,60
+2019,N21 Newcastle University,5345
+2019,N23 Newcastle College University Centre,155
+2019,N28 New College Durham,45
+2019,N30 Nottingham College,50
+2019,"N36 Newman University, Birmingham",515
+2019,N38 University of Northampton,2445
+2019,N39 Norwich University of the Arts,840
+2019,N41 Greater Brighton Metropolitan College (formerly Northbrook College and City College),65
+2019,N49 NESCOT,10
+2019,N52 Norland College,105
+2019,N53 New College of the Humanities,30
+2019,N64 DN Colleges Group,360
+2019,"N77 Northumbria University, Newcastle",5215
+2019,N79 North Warwickshire and South Leicestershire College,45
+2019,N82 City College Norwich,115
+2019,N84 University of Nottingham,7310
+2019,N85 North Kent College,30
+2019,N91 Nottingham Trent University,9260
+2019,O10 University Campus Oldham,60
+2019,O25 Activate Learning,15
+2019,O33 University of Oxford,3260
+2019,O66 Oxford Brookes University,3775
+2019,P26 University of London Institute in Paris,35
+2019,P34 Pearson College London (including Escape Studios),230
+2019,P35 Pembrokeshire College,5
+2019,P51 Petroc,5
+2019,P52 Peter Symonds' College,5
+2019,P56 University Centre Peterborough,100
+2019,P59 Plumpton College,70
+2019,P60 University of Plymouth,3435
+2019,P63 Plymouth Marjon University (St Mark & St John),750
+2019,P65 Plymouth College of Art,340
+2019,P73 Point Blank Music School,25
+2019,P80 University of Portsmouth,5040
+2019,"Q25 Queen Margaret University, Edinburgh",875
+2019,Q50 Queen Mary University of London,3910
+2019,Q75 Queen's University Belfast,4130
+2019,R06 Ravensbourne University London,760
+2019,R12 University of Reading,2825
+2019,R14 University Centre Reaseheath,255
+2019,R18 Regent's University London,135
+2019,"R20 Richmond, The American International University in London",65
+2019,R25 Arden University,5
+2019,R36 Robert Gordon University,2070
+2019,R48 University of Roehampton,1615
+2019,R51 Rose Bruford College,200
+2019,R52 RNN Group,25
+2019,R54 Royal Agricultural University,290
+2019,R55 Royal Academy of Dance,30
+2019,"R72 Royal Holloway, University of London",2560
+2019,"R84 Royal Veterinary College, University of London",345
+2019,R86 Royal Welsh College of Music and Drama,35
+2019,R88 Runshaw College,5
+2019,S01 SRUC Scotland's Rural College,490
+2019,S03 University of Salford,4830
+2019,S05 SAE Institute,60
+2019,S06 Selby College,45
+2019,S08 Sandwell College of Further and Higher Education,35
+2019,S09 SOAS University of London,875
+2019,S11 University Centre at Salford City College,5
+2019,S18 University of Sheffield,3965
+2019,S20 South and City College Birmingham,20
+2019,S21 Sheffield Hallam University,5735
+2019,S22 Sheffield College,85
+2019,S23 Shrewsbury College,5
+2019,S26 Solihull College & University Centre,50
+2019,S27 University of Southampton,3485
+2019,S30 Solent University (Southampton),2115
+2019,S32 University Centre South Devon,130
+2019,S34 University Centre Sparsholt,140
+2019,S35 Southport College,10
+2019,S36 University of St Andrews,1655
+2019,S42 Havant and South Downs College,45
+2019,S43 University Centre South Essex,190
+2019,"S49 St George's, University of London",555
+2019,S51 University Centre St Helens,35
+2019,S55 South Gloucestershire and Stroud College,100
+2019,S57 Spurgeon's College,5
+2019,S62 St Mary's College Blackburn,20
+2019,"S64 St Mary's University, Twickenham",925
+2019,S72 Staffordshire University,2730
+2019,S75 University of Stirling,2120
+2019,S78 University of Strathclyde,4040
+2019,S79 Stranmillis University College,295
+2019,S82 University of Suffolk,1115
+2019,S83 Sussex Coast College Hastings,10
+2019,S84 University of Sunderland,1615
+2019,S85 University of Surrey,3275
+2019,S89 Sussex Downs College,50
+2019,S90 University of Sussex,3470
+2019,S93 Swansea University,3275
+2019,S98 Swindon College,25
+2019,T10 Tameside College,5
+2019,"T20 Teesside University, Middlesbrough",2905
+2019,T80 University of Wales Trinity Saint David,935
+2019,T85 Truro and Penwith College,160
+2019,T89 Two Mile Ash ITT Partnership,10
+2019,T90 Tyne Coast College,15
+2019,U10 UCFB,680
+2019,U20 Ulster University,4985
+2019,U40 University of the West of Scotland,3900
+2019,U65 University of the Arts London,4410
+2019,U80 UCL (University College London),5950
+2019,W01 University of South Wales,2585
+2019,W05 University of West London,1765
+2019,W08 Wakefield College,15
+2019,W12 Walsall College,35
+2019,W20 University of Warwick,5035
+2019,W25 Warwickshire College Group,100
+2019,W35 University Centre West Anglia,65
+2019,W40 West Herts College,30
+2019,W45 Vision West Nottinghamshire College (Vision University Centre Mansfield),15
+2019,W47 University Centre Weston,170
+2019,"W50 University of Westminster, London",3910
+2019,W51 United Colleges Group,5
+2019,W65 West Thames College,5
+2019,W66 Weymouth College,40
+2019,W67 Wigan and Leigh College,20
+2019,W73 Wirral Metropolitan College,5
+2019,W74 Wiltshire College and University Centre,35
+2019,W75 University of Wolverhampton,2940
+2019,W76 University of Winchester,2380
+2019,W80 University of Worcester,2430
+2019,W85 Writtle University College,245
+2019,Y25 Yeovil College University Centre,50
+2019,Y50 University of York,3710
+2019,Y70 York College,60
+2019,Y75 York St John University,1550
