@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from math import isnan
 from difflib import SequenceMatcher as sm
+import collections
 
 class NaNError(Exception):
     pass
@@ -52,36 +53,51 @@ def similar(name,main,second):
         return None
     elif inmain:
         if len(inmain) > 1:
-            sim = {}
-            for elem in inmain:
-                sim[elem] = sm(a=name,b=elem).ratio()
-            return max(sim)
+            print(inmain)
+            ind = int(input(f'Which from {inmain} is the correct index translation for {name}? '))
+            return inmain[ind]
         else:
             return inmain[0]
     else:
         if len(insecond) > 1:
-            sim = {}
-            for elem in insecond:
-                sim[elem] = sm(a=name,b=elem).ratio()
-            return max(sim)
+            ind = int(input(f'Which from {insecond} is the correct index translation for {name}? '))
+            return insecond[ind]
         else:
             return insecond[0]
+
+def in_list(List, element):
+    try:
+        return List.index(element)
+    except ValueError:
+        return None
 
 # Looks for similar indexes in two tables and sets them to be the same index
 # main = table to copy index from
 # second = table to copy index to
 def copy_index(main,second):
-    if second.index.name == None:
-        in_name = 'index'
-    else:
-        in_name = str(second.index.name)
-    final = second.reset_index()
-    for index, name in enumerate(second.index):
+    changes = {}
+    for name in second.index:
         new_index = similar(name,second,main)
         if new_index:
-            final.loc[index,in_name] = new_index
-    final.set_index(in_name, inplace=True)
-    return final
+            changes[name] = new_index
+        else:
+            changes[name] = name
+
+    # Sometimes when converting index there will be duplicate names, this code will ask the user which of the duplcates
+    # they want to keep in the dataframe
+    dups = [item for item in collections.Counter(list(changes.values())).items() if item[1] > 1]
+    if dups:
+        for item in dups:
+            keys = [key for key, val in changes.items() if val == item[0]]
+            ind = int(input(f'Multiple indexes with the same name {item[0]}, choose which one to keep {keys}'))
+            print(keys[ind])
+            keys.remove(keys[ind])
+            print(keys)
+            for key in keys:
+                changes.pop(key, None) 
+        return changes      
+    return changes
+
 
 def compare(df, uni1, uni2):
     df_new = df.copy()
