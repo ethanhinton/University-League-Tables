@@ -55,13 +55,17 @@ def similar(name,main,second):
         if len(inmain) > 1:
             print(inmain)
             ind = int(input(f'Which from {inmain} is the correct index translation for {name}? '))
-            return inmain[ind]
+            if ind == 0:
+                return None
+            return inmain[ind-1]
         else:
             return inmain[0]
     else:
         if len(insecond) > 1:
             ind = int(input(f'Which from {insecond} is the correct index translation for {name}? '))
-            return insecond[ind]
+            if ind == 0:
+                return None
+            return insecond[ind-1]
         else:
             return insecond[0]
 
@@ -90,9 +94,9 @@ def copy_index(main,second):
         for item in dups:
             keys = [key for key, val in changes.items() if val == item[0]]
             ind = int(input(f'Multiple indexes with the same name {item[0]}, choose which one to keep {keys}'))
-            print(keys[ind])
-            keys.remove(keys[ind])
-            print(keys)
+            if ind == 0:
+                continue
+            keys.remove(keys[ind-1])
             for key in keys:
                 changes.pop(key, None) 
         return changes      
@@ -114,6 +118,7 @@ def convert_to_sscore(df):
         df_new[col] = x
 
     df_new['Student/Staff Ratio'] = - df_new['Student/Staff Ratio']
+    df_new['Applications to Acceptance (%)'] = - df_new['Applications to Acceptance (%)']
     nonans = df_new.copy()
     for ind in df_new.index:
         nonans.loc[ind] = df_new.loc[ind].fillna(value=df_new.loc[ind].mean())

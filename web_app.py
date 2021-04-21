@@ -30,14 +30,16 @@ specific_subjects = st.sidebar.multiselect('Subject Filter', all_subs)
 if specific_subjects:
     df = df.loc[df['Subjects'].apply(offers_subjects, subjects=specific_subjects)]
 
-weights = [1 for x in range(len(df.columns))]
+weights = [1 for x in range(len(df.columns) - 1)]
 
 # Get weights from sliders
 weights_expander = st.beta_expander('Change Weights')
 with weights_expander:
-    weights_columns = st.beta_columns(int(len(df.columns) / 2))
+    weights_columns = st.beta_columns(int((len(df.columns) - 1) / 2))
     for ind, col in enumerate(df.columns):
-            weights[ind] = weights_columns[int(ind/2)].slider(f'{col} Weighting', max_value=10, step=1, value=1, key=str(ind))
+        if col == 'Subjects':
+            continue
+        weights[ind] = weights_columns[int(ind/2)].slider(f'{col} Weighting', max_value=10, step=1, value=1, key=str(ind))
 
 # Rank the universities
 df = rank(df, weights)
@@ -49,6 +51,7 @@ columns = ['Rank',
            '% Satisfied with Assessment',
            'Continuation %',
            '% Graduates in High Skilled Work',
+           'Applications to Acceptance (%)',
            'Student/Staff Ratio',
            'Average Salary',
            'Academic Services Expenditure per Student',
@@ -68,6 +71,7 @@ comp_cols = ['% Satisfied with Teaching',
            '% Satisfied with Assessment',
            'Continuation %',
            '% Graduates in High Skilled Work',
+           'Applications to Acceptance (%)',
            'Student/Staff Ratio',
            'Average Salary',
            'Academic Services Expenditure per Student',
@@ -91,6 +95,3 @@ for col in comparison.columns[1:]:
         )
         chart_columns[1].altair_chart(c, use_container_width=True)
     n += 1
-
-
-

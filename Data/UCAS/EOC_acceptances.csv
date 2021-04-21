@@ -1,19 +1,4 @@
-"------------------------------------------------------------------"
-"UCAS Analysis & Insights - 2019 cycle applicant figures"
-"------------------------------------------------------------------"
-"Published on 30 January 2020"
-"------------------------------------------------------------------"
-"File name: EOC_data_resource_2019_03_001_02"
-"Cycles: 2006 - 2019"
-"Cycle reference point: End of cycle"
-"Analysis classes: Year, Provider         "
-"------------------------------------------------------------------"
-"Technical notes and definitions available on ucas.com."
-"Note: All figures are rounded to the nearest 5."
-"Data lines are comma delimited."
-"Data follows -     4272 lines in total"
-"------------------------------------------------------------------"
-Year,Provider,Accepted applicants through the main scheme,
+Year,Provider,Accepted applicants through the main scheme
 2006,A20 University of Aberdeen,2170
 2006,A30 Abertay University,840
 2006,A40 Aberystwyth University,1870
