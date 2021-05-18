@@ -3,15 +3,18 @@ from functions import convert_to_sscore
 import numpy as np
 import matplotlib.pyplot as plt
 
-table_path = '/Users/ethan/OneDrive - University of Surrey/Coursework/Final Year/FYP/league_table.csv'
-df = pd.read_csv(table_path, index_col='HE provider')
+
+columns = ['% Satisfied with Teaching','% Satisfied with course','Continuation','Expenditure per student (fte)','Student: staff ratio','Career prospects','Value added score/10','Average Entry Tariff','% Satisfied with Assessment']
+table_path = '/Users/ethan/OneDrive - University of Surrey/Coursework/Final Year/FYP/Data/Guardian/Guardian_University_Guide_2021.xlsx'
+df = pd.read_excel(table_path, sheet_name='Institution', index_col='Name of Provider')[columns]
 
 # Convert table to s scores
 s_score = convert_to_sscore(df)
+s_score['Student: staff ratio'] = -s_score['Student: staff ratio']
 
 # Initialise weights
 weights = np.random.rand(len(s_score.columns))
-
+print(weights)
 while True:
     try:
         uni = input('Enter a university for rank maximisation: ')
