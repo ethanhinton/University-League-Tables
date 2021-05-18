@@ -1,8 +1,9 @@
 import pandas as pd
 import streamlit as st
-from functions import convert_to_sscore, offers_subjects, compare, rank
+from functions import convert_to_sscore, offers_subjects, compare, rank, gaussian
 from ast import literal_eval
 import altair as alt
+import matplotlib.pyplot as plt
 
 
 st.set_page_config(layout="wide")
@@ -60,6 +61,51 @@ df = df[columns]
 
 st.dataframe(df)
 
+# Bell Curves
+
+st.header('Distributions of Metrics')
+st.write('See what the mean and standard deviations of each metric are and select a university to see how it performs!')
+
+bc_cols = ['None',
+           '% Satisfied with Teaching',
+           '% Satisfied with Course',
+           '% Satisfied with Assessment',
+           'Continuation %',
+           '% Graduates in High Skilled Work',
+           'Applications to Acceptance (%)',
+           'Student/Staff Ratio',
+           'Average Salary',
+           'Academic Services Expenditure per Student',
+           'Facilities Expenditure per Student']
+
+bc_inds = list(df.index)
+bc_inds.insert(0, 'None')
+
+bc_col1, bc_col2 = st.beta_columns(2)
+metric = bc_col1.selectbox('Select Metric', bc_cols, index=0)
+institution = bc_col2.selectbox('Select Institution (Optional)', bc_inds, index=0)
+
+if metric != 'None':
+    fig, ax = plt.subplots(figsize=(10,8))
+    if institution != 'None':
+        x, gauss, std, mean, xpoint, ypoint, length= gaussian(df, metric, institution)
+        ax.arrow(xpoint, ypoint, dx=0, dy=-length, width=std/30, head_length=length/6, length_includes_head=True)
+    else:
+        x, gauss, std, mean = gaussian(df, metric)
+    
+    ax.plot(x, gauss)
+    ax.axes.yaxis.set_ticklabels([])
+    ax.set_axisbelow(True)
+    ax.grid(True)
+    ax.set_xlabel(f'{metric}')
+    ax.set_title(f'{metric}\nMean = {round(mean,2)}, Standard Deviation = {round(std,2)}')
+
+    st.pyplot(fig)
+
+
+
+
+# Comparison
 st.header('Compare Two Universities')
 uni_col1, uni_col2 = st.beta_columns(2)
 uni1 = uni_col1.selectbox('University 1', df.index)
