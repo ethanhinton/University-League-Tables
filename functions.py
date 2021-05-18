@@ -112,13 +112,14 @@ def compare(df, uni1, uni2):
     return list(x), list(y)
 
 def convert_to_sscore(df):
-    df_new = df.drop(axis=1, labels='Subjects')
+    if 'Subjects' in list(df.columns):
+        df_new = df.drop(axis=1, labels='Subjects')
+    else:
+        df_new = df
     for col in df_new.columns:
         x = s_score(df_new,col)
         df_new[col] = x
 
-    df_new['Student/Staff Ratio'] = - df_new['Student/Staff Ratio']
-    df_new['Applications to Acceptance (%)'] = - df_new['Applications to Acceptance (%)']
     nonans = df_new.copy()
     for ind in df_new.index:
         nonans.loc[ind] = df_new.loc[ind].fillna(value=df_new.loc[ind].mean())
@@ -132,6 +133,8 @@ def offers_subjects(x, subjects):
 
 def rank(df, weights):
     s_score = apply_weights(convert_to_sscore(df), weights)
+    s_score['Student/Staff Ratio'] = - s_score['Student/Staff Ratio']
+    s_score['Applications to Acceptance (%)'] = - s_score['Applications to Acceptance (%)']
     df['Score'] = s_score.sum(axis=1)
     df.sort_values(by='Score', ascending=False, inplace=True)
     df['Rank'] = [x for x in range(1, len(s_score)+1)]
@@ -141,3 +144,25 @@ def apply_weights(df, weights):
     for ind, col in enumerate(df.columns):
         df[col] = df[col] * (weights[ind] / sum(weights))
     return df
+
+def gaussian(df, col, ind=None):
+    series = df[col].dropna(how='any')
+    std = np.std(series)
+    mean = np.mean(series)
+    start = mean - (3 * std) if mean - (3 * std) >= 0 else 0 
+    #start = min(series) if min(series) <= ((2 * mean) - max(series)) else max(series)
+    stop = mean + (3 * std) 
+    #stop = (2 * mean) - start
+    x = np.linspace(start, stop, 100)
+    gauss = []
+    for i in x:
+        gauss.append((1/(std * np.sqrt(2 * np.pi))) * np.exp(-0.5 * ((i-mean)**2/std**2)))
+
+    if ind:
+        xpoint = df.loc[ind, col]
+        length = max(gauss) * 0.3
+        ypoint = (length * 1.2) + (1/(std * np.sqrt(2 * np.pi))) * np.exp(-0.5 * ((xpoint-mean)**2/std**2))
+        return x, gauss, std, mean, xpoint, ypoint, length
+    else:
+        return x, gauss, std, mean
+    
